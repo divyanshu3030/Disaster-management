@@ -1,0 +1,3361 @@
+Date,State,Disaster Type,Severity,Deaths,Injuries,Economic Loss (Crore ₹),Month_Total
+2015-01-15,Andhra Pradesh,Earthquake,8,5,149,193.6,3
+2015-01-15,Arunachal Pradesh,Flood,3,13,82,306.8,3
+2015-01-15,Assam,Cyclone,5,4,31,30.2,3
+2015-01-15,Bihar,Landslide,4,12,5,71.5,3
+2015-01-15,Chhattisgarh,Cyclone,3,14,0,204.8,3
+2015-01-15,Goa,Heatwave,8,1,136,121.9,3
+2015-01-15,Gujarat,Earthquake,6,0,111,120.5,3
+2015-01-15,Haryana,Landslide,6,9,54,208.3,3
+2015-01-15,Himachal Pradesh,Heatwave,3,8,65,110.0,3
+2015-01-15,Jharkhand,Cyclone,5,9,20,39.8,3
+2015-01-15,Karnataka,Flood,8,7,26,102.5,3
+2015-01-15,Kerala,Landslide,4,0,76,5.2,3
+2015-01-15,Madhya Pradesh,Forest Fire,9,3,12,144.9,3
+2015-01-15,Maharashtra,Cyclone,7,6,63,80.1,3
+2015-01-15,Manipur,Heatwave,5,17,0,102.8,3
+2015-01-15,Meghalaya,Landslide,4,5,93,249.1,3
+2015-01-15,Mizoram,Cyclone,4,0,49,74.7,3
+2015-01-15,Nagaland,Drought,4,9,44,31.7,3
+2015-01-15,Odisha,Cyclone,5,0,0,140.8,3
+2015-01-15,Punjab,Earthquake,5,0,98,130.7,3
+2015-01-15,Rajasthan,Earthquake,6,15,40,130.1,3
+2015-01-15,Sikkim,Cyclone,4,18,14,104.5,3
+2015-01-15,Tamil Nadu,Landslide,3,5,86,41.0,3
+2015-01-15,Telangana,Earthquake,4,1,0,6.6,3
+2015-01-15,Tripura,Flood,7,3,19,74.2,3
+2015-01-15,Uttar Pradesh,Landslide,4,13,84,35.0,3
+2015-01-15,Uttarakhand,Landslide,3,17,150,13.1,3
+2015-01-15,West Bengal,Drought,6,7,66,24.7,3
+2015-02-15,Andhra Pradesh,Cyclone,9,3,52,126.5,3
+2015-02-15,Arunachal Pradesh,Heatwave,9,8,71,84.4,3
+2015-02-15,Assam,Flood,3,21,31,35.0,3
+2015-02-15,Bihar,Heatwave,3,3,46,183.6,3
+2015-02-15,Chhattisgarh,Heatwave,4,20,33,148.3,3
+2015-02-15,Goa,Forest Fire,6,20,77,40.5,3
+2015-02-15,Gujarat,Drought,3,1,82,2.1,3
+2015-02-15,Haryana,Flood,4,12,0,151.3,3
+2015-02-15,Himachal Pradesh,Drought,5,6,39,164.5,3
+2015-02-15,Jharkhand,Forest Fire,8,14,101,29.5,3
+2015-02-15,Karnataka,Flood,3,0,24,107.6,3
+2015-02-15,Kerala,Flood,4,4,10,54.1,3
+2015-02-15,Madhya Pradesh,Cyclone,9,19,59,129.7,3
+2015-02-15,Maharashtra,Cyclone,7,6,52,183.6,3
+2015-02-15,Manipur,Landslide,7,21,76,189.8,3
+2015-02-15,Meghalaya,Flood,7,11,7,44.4,3
+2015-02-15,Mizoram,Heatwave,9,27,70,20.2,3
+2015-02-15,Nagaland,Heatwave,3,0,83,88.6,3
+2015-02-15,Odisha,Flood,4,3,33,2.9,3
+2015-02-15,Punjab,Landslide,5,11,62,198.2,3
+2015-02-15,Rajasthan,Earthquake,4,17,80,121.7,3
+2015-02-15,Sikkim,Forest Fire,4,0,71,38.8,3
+2015-02-15,Tamil Nadu,Heatwave,3,8,31,179.1,3
+2015-02-15,Telangana,Flood,3,7,13,100.3,3
+2015-02-15,Tripura,Landslide,4,20,52,184.9,3
+2015-02-15,Uttar Pradesh,Forest Fire,4,8,72,117.9,3
+2015-02-15,Uttarakhand,Earthquake,8,6,50,34.7,3
+2015-02-15,West Bengal,Flood,3,12,25,80.4,3
+2015-03-15,Andhra Pradesh,Flood,3,12,66,185.3,7
+2015-03-15,Arunachal Pradesh,Heatwave,4,15,66,13.8,7
+2015-03-15,Assam,Forest Fire,3,14,42,231.8,7
+2015-03-15,Bihar,Landslide,3,12,72,116.4,7
+2015-03-15,Chhattisgarh,Drought,7,13,70,96.2,7
+2015-03-15,Goa,Earthquake,5,14,119,137.2,7
+2015-03-15,Gujarat,Cyclone,7,5,92,77.8,7
+2015-03-15,Haryana,Landslide,9,12,40,40.8,7
+2015-03-15,Himachal Pradesh,Drought,8,0,48,218.1,7
+2015-03-15,Jharkhand,Flood,4,0,37,208.2,7
+2015-03-15,Karnataka,Forest Fire,5,16,60,39.9,7
+2015-03-15,Kerala,Earthquake,7,9,39,75.6,7
+2015-03-15,Madhya Pradesh,Earthquake,5,22,43,139.9,7
+2015-03-15,Maharashtra,Drought,4,10,54,183.5,7
+2015-03-15,Manipur,Forest Fire,5,21,49,102.4,7
+2015-03-15,Meghalaya,Cyclone,8,0,104,117.3,7
+2015-03-15,Mizoram,Drought,8,3,0,159.8,7
+2015-03-15,Nagaland,Flood,9,14,87,88.7,7
+2015-03-15,Odisha,Heatwave,7,22,81,217.4,7
+2015-03-15,Punjab,Landslide,7,6,1,60.9,7
+2015-03-15,Rajasthan,Drought,9,11,56,131.7,7
+2015-03-15,Sikkim,Landslide,5,19,86,155.2,7
+2015-03-15,Tamil Nadu,Cyclone,9,26,58,101.9,7
+2015-03-15,Telangana,Earthquake,3,9,74,62.4,7
+2015-03-15,Tripura,Forest Fire,6,17,4,127.5,7
+2015-03-15,Uttar Pradesh,Forest Fire,4,11,13,143.0,7
+2015-03-15,Uttarakhand,Earthquake,7,11,18,63.6,7
+2015-03-15,West Bengal,Earthquake,7,3,17,148.4,7
+2015-04-15,Andhra Pradesh,Flood,9,14,47,313.8,6
+2015-04-15,Arunachal Pradesh,Drought,7,17,11,72.1,6
+2015-04-15,Assam,Landslide,7,11,100,189.8,6
+2015-04-15,Bihar,Cyclone,6,19,37,180.3,6
+2015-04-15,Chhattisgarh,Cyclone,3,12,51,94.0,6
+2015-04-15,Goa,Flood,4,19,9,63.8,6
+2015-04-15,Gujarat,Landslide,9,8,0,83.8,6
+2015-04-15,Haryana,Drought,3,5,35,98.8,6
+2015-04-15,Himachal Pradesh,Drought,9,11,48,146.9,6
+2015-04-15,Jharkhand,Heatwave,7,7,29,118.8,6
+2015-04-15,Karnataka,Earthquake,8,12,29,254.2,6
+2015-04-15,Kerala,Flood,9,1,0,84.3,6
+2015-04-15,Madhya Pradesh,Landslide,7,17,65,142.8,6
+2015-04-15,Maharashtra,Flood,9,5,61,94.3,6
+2015-04-15,Manipur,Flood,9,2,0,142.1,6
+2015-04-15,Meghalaya,Flood,8,8,21,107.0,6
+2015-04-15,Mizoram,Heatwave,3,20,20,264.2,6
+2015-04-15,Nagaland,Drought,4,19,100,69.9,6
+2015-04-15,Odisha,Landslide,4,4,4,235.5,6
+2015-04-15,Punjab,Earthquake,7,12,104,7.4,6
+2015-04-15,Rajasthan,Drought,3,13,100,11.6,6
+2015-04-15,Sikkim,Forest Fire,9,9,59,125.3,6
+2015-04-15,Tamil Nadu,Heatwave,9,14,60,0.3,6
+2015-04-15,Telangana,Flood,6,0,50,63.5,6
+2015-04-15,Tripura,Cyclone,7,3,37,64.4,6
+2015-04-15,Uttar Pradesh,Drought,8,13,90,197.0,6
+2015-04-15,Uttarakhand,Cyclone,7,0,16,156.8,6
+2015-04-15,West Bengal,Cyclone,7,7,46,103.8,6
+2015-05-15,Andhra Pradesh,Landslide,9,7,101,146.1,2
+2015-05-15,Arunachal Pradesh,Cyclone,7,24,11,98.9,2
+2015-05-15,Assam,Forest Fire,8,20,62,207.7,2
+2015-05-15,Bihar,Cyclone,9,0,33,113.1,2
+2015-05-15,Chhattisgarh,Flood,5,25,4,193.3,2
+2015-05-15,Goa,Cyclone,3,11,74,100.2,2
+2015-05-15,Gujarat,Cyclone,6,11,61,94.9,2
+2015-05-15,Haryana,Cyclone,3,12,0,252.7,2
+2015-05-15,Himachal Pradesh,Forest Fire,9,12,77,179.1,2
+2015-05-15,Jharkhand,Earthquake,7,0,35,99.6,2
+2015-05-15,Karnataka,Drought,3,22,52,12.8,2
+2015-05-15,Kerala,Cyclone,9,12,46,141.4,2
+2015-05-15,Madhya Pradesh,Landslide,6,25,54,77.2,2
+2015-05-15,Maharashtra,Heatwave,7,5,47,72.8,2
+2015-05-15,Manipur,Flood,6,12,116,115.9,2
+2015-05-15,Meghalaya,Drought,6,4,0,123.3,2
+2015-05-15,Mizoram,Cyclone,3,0,55,263.6,2
+2015-05-15,Nagaland,Landslide,5,2,105,83.9,2
+2015-05-15,Odisha,Landslide,3,9,34,79.4,2
+2015-05-15,Punjab,Drought,5,7,3,158.4,2
+2015-05-15,Rajasthan,Flood,3,11,37,82.0,2
+2015-05-15,Sikkim,Flood,7,10,81,142.2,2
+2015-05-15,Tamil Nadu,Flood,3,2,28,168.1,2
+2015-05-15,Telangana,Cyclone,6,21,0,172.0,2
+2015-05-15,Tripura,Landslide,8,3,62,15.7,2
+2015-05-15,Uttar Pradesh,Landslide,9,0,66,114.6,2
+2015-05-15,Uttarakhand,Cyclone,7,14,118,203.4,2
+2015-05-15,West Bengal,Heatwave,7,13,72,120.3,2
+2015-06-15,Andhra Pradesh,Flood,4,14,66,63.3,3
+2015-06-15,Arunachal Pradesh,Forest Fire,4,9,72,16.9,3
+2015-06-15,Assam,Forest Fire,9,0,22,140.7,3
+2015-06-15,Bihar,Forest Fire,4,13,82,78.1,3
+2015-06-15,Chhattisgarh,Earthquake,4,0,62,127.2,3
+2015-06-15,Goa,Flood,6,7,0,174.4,3
+2015-06-15,Gujarat,Heatwave,7,9,17,173.1,3
+2015-06-15,Haryana,Forest Fire,3,16,14,19.9,3
+2015-06-15,Himachal Pradesh,Cyclone,6,18,69,112.8,3
+2015-06-15,Jharkhand,Landslide,3,32,91,98.9,3
+2015-06-15,Karnataka,Cyclone,5,24,40,187.7,3
+2015-06-15,Kerala,Heatwave,7,12,61,1.3,3
+2015-06-15,Madhya Pradesh,Forest Fire,4,3,41,210.9,3
+2015-06-15,Maharashtra,Landslide,8,12,80,116.3,3
+2015-06-15,Manipur,Cyclone,9,14,8,123.6,3
+2015-06-15,Meghalaya,Drought,7,14,1,148.0,3
+2015-06-15,Mizoram,Earthquake,4,4,100,4.1,3
+2015-06-15,Nagaland,Earthquake,5,12,115,153.7,3
+2015-06-15,Odisha,Flood,4,13,83,34.5,3
+2015-06-15,Punjab,Forest Fire,3,18,64,54.3,3
+2015-06-15,Rajasthan,Heatwave,7,25,71,79.3,3
+2015-06-15,Sikkim,Cyclone,3,7,105,234.9,3
+2015-06-15,Tamil Nadu,Landslide,7,14,49,45.1,3
+2015-06-15,Telangana,Landslide,4,15,45,132.8,3
+2015-06-15,Tripura,Earthquake,5,20,36,90.1,3
+2015-06-15,Uttar Pradesh,Earthquake,9,7,74,43.8,3
+2015-06-15,Uttarakhand,Earthquake,6,1,0,140.2,3
+2015-06-15,West Bengal,Cyclone,5,4,0,43.7,3
+2015-07-15,Andhra Pradesh,Drought,8,11,17,28.7,3
+2015-07-15,Arunachal Pradesh,Cyclone,7,0,40,196.0,3
+2015-07-15,Assam,Drought,9,25,39,113.9,3
+2015-07-15,Bihar,Cyclone,7,19,0,56.4,3
+2015-07-15,Chhattisgarh,Landslide,7,0,126,93.9,3
+2015-07-15,Goa,Cyclone,7,7,42,138.5,3
+2015-07-15,Gujarat,Drought,7,22,81,129.5,3
+2015-07-15,Haryana,Earthquake,5,21,101,168.8,3
+2015-07-15,Himachal Pradesh,Drought,7,7,69,69.9,3
+2015-07-15,Jharkhand,Flood,3,1,93,62.7,3
+2015-07-15,Karnataka,Earthquake,9,0,30,21.7,3
+2015-07-15,Kerala,Drought,7,20,4,189.3,3
+2015-07-15,Madhya Pradesh,Cyclone,7,8,88,151.7,3
+2015-07-15,Maharashtra,Forest Fire,4,19,44,68.9,3
+2015-07-15,Manipur,Earthquake,4,0,0,76.9,3
+2015-07-15,Meghalaya,Earthquake,3,5,0,105.4,3
+2015-07-15,Mizoram,Earthquake,6,21,92,54.1,3
+2015-07-15,Nagaland,Flood,9,7,37,93.8,3
+2015-07-15,Odisha,Flood,5,5,100,103.7,3
+2015-07-15,Punjab,Earthquake,5,12,0,147.5,3
+2015-07-15,Rajasthan,Forest Fire,8,11,86,286.3,3
+2015-07-15,Sikkim,Earthquake,6,2,13,105.0,3
+2015-07-15,Tamil Nadu,Earthquake,9,12,22,118.2,3
+2015-07-15,Telangana,Landslide,3,0,42,62.0,3
+2015-07-15,Tripura,Earthquake,5,15,48,20.9,3
+2015-07-15,Uttar Pradesh,Forest Fire,9,9,118,110.7,3
+2015-07-15,Uttarakhand,Landslide,9,9,47,2.8,3
+2015-07-15,West Bengal,Landslide,7,15,3,62.6,3
+2015-08-15,Andhra Pradesh,Forest Fire,7,10,62,39.8,2
+2015-08-15,Arunachal Pradesh,Drought,4,6,13,55.9,2
+2015-08-15,Assam,Heatwave,7,11,51,53.8,2
+2015-08-15,Bihar,Drought,5,6,50,224.1,2
+2015-08-15,Chhattisgarh,Flood,9,0,41,260.1,2
+2015-08-15,Goa,Cyclone,5,0,69,133.8,2
+2015-08-15,Gujarat,Forest Fire,7,16,87,78.3,2
+2015-08-15,Haryana,Landslide,8,7,115,93.6,2
+2015-08-15,Himachal Pradesh,Drought,9,2,25,27.1,2
+2015-08-15,Jharkhand,Drought,6,8,77,108.3,2
+2015-08-15,Karnataka,Flood,8,16,27,175.3,2
+2015-08-15,Kerala,Heatwave,7,0,16,69.7,2
+2015-08-15,Madhya Pradesh,Forest Fire,7,11,94,238.1,2
+2015-08-15,Maharashtra,Heatwave,8,8,48,157.2,2
+2015-08-15,Manipur,Flood,6,12,54,48.3,2
+2015-08-15,Meghalaya,Landslide,8,2,55,134.0,2
+2015-08-15,Mizoram,Earthquake,3,5,44,79.2,2
+2015-08-15,Nagaland,Forest Fire,3,13,27,161.2,2
+2015-08-15,Odisha,Heatwave,5,19,58,136.4,2
+2015-08-15,Punjab,Flood,6,17,80,91.1,2
+2015-08-15,Rajasthan,Flood,8,4,18,218.3,2
+2015-08-15,Sikkim,Landslide,8,19,0,102.3,2
+2015-08-15,Tamil Nadu,Heatwave,5,10,0,189.2,2
+2015-08-15,Telangana,Drought,8,8,26,217.1,2
+2015-08-15,Tripura,Landslide,8,9,0,63.7,2
+2015-08-15,Uttar Pradesh,Landslide,4,12,40,95.6,2
+2015-08-15,Uttarakhand,Cyclone,5,19,13,16.3,2
+2015-08-15,West Bengal,Cyclone,5,7,109,46.7,2
+2015-09-15,Andhra Pradesh,Drought,3,1,49,34.4,8
+2015-09-15,Arunachal Pradesh,Forest Fire,7,11,92,87.2,8
+2015-09-15,Assam,Cyclone,5,5,115,126.2,8
+2015-09-15,Bihar,Flood,3,5,5,51.6,8
+2015-09-15,Chhattisgarh,Heatwave,9,1,8,268.6,8
+2015-09-15,Goa,Cyclone,5,16,113,8.6,8
+2015-09-15,Gujarat,Earthquake,9,11,48,59.6,8
+2015-09-15,Haryana,Earthquake,6,12,59,2.2,8
+2015-09-15,Himachal Pradesh,Landslide,3,13,95,108.8,8
+2015-09-15,Jharkhand,Drought,7,25,0,96.1,8
+2015-09-15,Karnataka,Forest Fire,5,7,54,134.4,8
+2015-09-15,Kerala,Cyclone,8,8,68,131.3,8
+2015-09-15,Madhya Pradesh,Earthquake,6,0,35,138.0,8
+2015-09-15,Maharashtra,Flood,3,16,0,44.2,8
+2015-09-15,Manipur,Drought,7,19,48,84.4,8
+2015-09-15,Meghalaya,Cyclone,5,7,24,23.3,8
+2015-09-15,Mizoram,Flood,7,15,49,214.2,8
+2015-09-15,Nagaland,Drought,9,6,84,136.7,8
+2015-09-15,Odisha,Heatwave,8,20,55,212.2,8
+2015-09-15,Punjab,Cyclone,5,10,0,112.2,8
+2015-09-15,Rajasthan,Drought,3,10,59,47.9,8
+2015-09-15,Sikkim,Forest Fire,3,5,46,73.4,8
+2015-09-15,Tamil Nadu,Forest Fire,9,12,4,102.1,8
+2015-09-15,Telangana,Drought,3,5,24,2.9,8
+2015-09-15,Tripura,Heatwave,9,15,22,80.0,8
+2015-09-15,Uttar Pradesh,Landslide,3,9,89,79.2,8
+2015-09-15,Uttarakhand,Cyclone,6,11,31,69.3,8
+2015-09-15,West Bengal,Earthquake,4,17,143,126.5,8
+2015-10-15,Andhra Pradesh,Earthquake,4,10,72,276.3,3
+2015-10-15,Arunachal Pradesh,Cyclone,7,0,104,224.9,3
+2015-10-15,Assam,Forest Fire,5,13,122,161.6,3
+2015-10-15,Bihar,Cyclone,8,9,62,108.5,3
+2015-10-15,Chhattisgarh,Forest Fire,3,21,43,5.9,3
+2015-10-15,Goa,Drought,4,8,94,223.2,3
+2015-10-15,Gujarat,Cyclone,4,0,61,93.7,3
+2015-10-15,Haryana,Heatwave,4,10,66,132.9,3
+2015-10-15,Himachal Pradesh,Drought,3,6,120,190.6,3
+2015-10-15,Jharkhand,Cyclone,4,14,41,111.2,3
+2015-10-15,Karnataka,Heatwave,6,12,115,37.8,3
+2015-10-15,Kerala,Earthquake,4,4,40,77.5,3
+2015-10-15,Madhya Pradesh,Cyclone,5,15,70,79.2,3
+2015-10-15,Maharashtra,Earthquake,6,1,42,79.7,3
+2015-10-15,Manipur,Cyclone,9,5,88,217.1,3
+2015-10-15,Meghalaya,Earthquake,3,3,36,2.0,3
+2015-10-15,Mizoram,Heatwave,7,11,54,114.7,3
+2015-10-15,Nagaland,Flood,9,22,87,96.2,3
+2015-10-15,Odisha,Drought,4,12,11,83.8,3
+2015-10-15,Punjab,Cyclone,4,0,0,181.5,3
+2015-10-15,Rajasthan,Drought,4,0,132,114.8,3
+2015-10-15,Sikkim,Drought,8,8,79,134.7,3
+2015-10-15,Tamil Nadu,Earthquake,3,0,118,133.6,3
+2015-10-15,Telangana,Heatwave,5,17,0,41.8,3
+2015-10-15,Tripura,Forest Fire,7,11,28,154.6,3
+2015-10-15,Uttar Pradesh,Forest Fire,6,0,0,148.2,3
+2015-10-15,Uttarakhand,Heatwave,6,22,35,268.6,3
+2015-10-15,West Bengal,Heatwave,5,6,0,114.5,3
+2015-11-15,Andhra Pradesh,Forest Fire,9,21,44,44.2,4
+2015-11-15,Arunachal Pradesh,Landslide,3,18,139,212.6,4
+2015-11-15,Assam,Landslide,7,0,102,207.2,4
+2015-11-15,Bihar,Heatwave,6,3,11,215.0,4
+2015-11-15,Chhattisgarh,Heatwave,6,15,6,91.2,4
+2015-11-15,Goa,Drought,5,0,59,163.3,4
+2015-11-15,Gujarat,Flood,5,19,171,23.3,4
+2015-11-15,Haryana,Cyclone,5,21,58,26.8,4
+2015-11-15,Himachal Pradesh,Cyclone,4,5,71,15.2,4
+2015-11-15,Jharkhand,Heatwave,5,17,51,36.0,4
+2015-11-15,Karnataka,Earthquake,8,14,99,117.7,4
+2015-11-15,Kerala,Forest Fire,4,8,56,18.7,4
+2015-11-15,Madhya Pradesh,Cyclone,7,0,68,50.5,4
+2015-11-15,Maharashtra,Drought,5,1,68,2.8,4
+2015-11-15,Manipur,Earthquake,4,14,76,152.6,4
+2015-11-15,Meghalaya,Flood,4,20,23,82.7,4
+2015-11-15,Mizoram,Heatwave,3,5,106,9.9,4
+2015-11-15,Nagaland,Landslide,9,10,49,142.0,4
+2015-11-15,Odisha,Earthquake,6,2,0,193.5,4
+2015-11-15,Punjab,Flood,9,20,73,128.8,4
+2015-11-15,Rajasthan,Flood,8,14,9,64.3,4
+2015-11-15,Sikkim,Drought,8,2,84,4.1,4
+2015-11-15,Tamil Nadu,Landslide,5,9,59,200.0,4
+2015-11-15,Telangana,Heatwave,8,27,25,108.9,4
+2015-11-15,Tripura,Heatwave,6,15,34,136.8,4
+2015-11-15,Uttar Pradesh,Heatwave,8,16,48,64.8,4
+2015-11-15,Uttarakhand,Forest Fire,9,15,11,240.3,4
+2015-11-15,West Bengal,Forest Fire,9,19,49,14.8,4
+2015-12-15,Andhra Pradesh,Drought,3,0,24,111.7,3
+2015-12-15,Arunachal Pradesh,Drought,9,6,0,118.1,3
+2015-12-15,Assam,Cyclone,4,1,16,109.6,3
+2015-12-15,Bihar,Earthquake,8,10,56,51.2,3
+2015-12-15,Chhattisgarh,Flood,4,1,23,108.3,3
+2015-12-15,Goa,Flood,8,12,11,81.9,3
+2015-12-15,Gujarat,Flood,8,23,113,22.3,3
+2015-12-15,Haryana,Flood,6,16,34,128.4,3
+2015-12-15,Himachal Pradesh,Heatwave,8,13,20,140.2,3
+2015-12-15,Jharkhand,Drought,6,7,37,139.2,3
+2015-12-15,Karnataka,Forest Fire,3,10,65,55.6,3
+2015-12-15,Kerala,Forest Fire,3,24,15,117.6,3
+2015-12-15,Madhya Pradesh,Forest Fire,3,20,60,63.7,3
+2015-12-15,Maharashtra,Cyclone,6,4,90,199.5,3
+2015-12-15,Manipur,Earthquake,9,3,7,90.9,3
+2015-12-15,Meghalaya,Heatwave,5,0,84,73.1,3
+2015-12-15,Mizoram,Earthquake,5,1,26,80.7,3
+2015-12-15,Nagaland,Landslide,3,5,74,55.0,3
+2015-12-15,Odisha,Flood,9,7,40,125.5,3
+2015-12-15,Punjab,Cyclone,8,4,27,152.6,3
+2015-12-15,Rajasthan,Drought,6,0,18,36.4,3
+2015-12-15,Sikkim,Drought,7,3,32,134.3,3
+2015-12-15,Tamil Nadu,Heatwave,4,21,49,105.4,3
+2015-12-15,Telangana,Heatwave,5,6,43,31.0,3
+2015-12-15,Tripura,Flood,3,18,35,108.8,3
+2015-12-15,Uttar Pradesh,Heatwave,5,9,13,45.7,3
+2015-12-15,Uttarakhand,Heatwave,3,13,66,120.3,3
+2015-12-15,West Bengal,Forest Fire,9,0,118,75.8,3
+2016-01-15,Andhra Pradesh,Flood,3,13,98,148.8,2
+2016-01-15,Arunachal Pradesh,Drought,3,3,66,277.9,2
+2016-01-15,Assam,Heatwave,5,10,9,71.4,2
+2016-01-15,Bihar,Forest Fire,6,7,121,82.4,2
+2016-01-15,Chhattisgarh,Cyclone,9,17,91,147.5,2
+2016-01-15,Goa,Landslide,9,20,23,81.0,2
+2016-01-15,Gujarat,Earthquake,4,21,1,160.6,2
+2016-01-15,Haryana,Forest Fire,8,0,156,30.6,2
+2016-01-15,Himachal Pradesh,Drought,6,12,58,134.4,2
+2016-01-15,Jharkhand,Flood,9,18,95,40.1,2
+2016-01-15,Karnataka,Cyclone,3,16,48,280.5,2
+2016-01-15,Kerala,Flood,5,15,118,97.7,2
+2016-01-15,Madhya Pradesh,Flood,3,1,29,135.2,2
+2016-01-15,Maharashtra,Flood,5,12,81,181.6,2
+2016-01-15,Manipur,Earthquake,5,0,37,262.3,2
+2016-01-15,Meghalaya,Drought,9,6,84,13.0,2
+2016-01-15,Mizoram,Landslide,8,7,87,130.6,2
+2016-01-15,Nagaland,Landslide,6,11,123,115.9,2
+2016-01-15,Odisha,Landslide,9,14,41,225.0,2
+2016-01-15,Punjab,Forest Fire,5,22,44,222.9,2
+2016-01-15,Rajasthan,Cyclone,5,3,86,121.8,2
+2016-01-15,Sikkim,Flood,6,15,60,72.6,2
+2016-01-15,Tamil Nadu,Heatwave,4,1,0,186.7,2
+2016-01-15,Telangana,Forest Fire,4,17,47,173.8,2
+2016-01-15,Tripura,Earthquake,8,10,113,121.9,2
+2016-01-15,Uttar Pradesh,Heatwave,8,6,37,120.8,2
+2016-01-15,Uttarakhand,Forest Fire,4,13,100,46.3,2
+2016-01-15,West Bengal,Forest Fire,8,22,54,215.2,2
+2016-02-15,Andhra Pradesh,Drought,6,20,113,126.8,2
+2016-02-15,Arunachal Pradesh,Flood,9,12,28,173.4,2
+2016-02-15,Assam,Earthquake,8,17,9,55.9,2
+2016-02-15,Bihar,Landslide,3,17,36,94.6,2
+2016-02-15,Chhattisgarh,Earthquake,9,6,74,38.4,2
+2016-02-15,Goa,Flood,8,1,38,69.4,2
+2016-02-15,Gujarat,Flood,8,10,79,29.3,2
+2016-02-15,Haryana,Cyclone,8,10,39,203.0,2
+2016-02-15,Himachal Pradesh,Cyclone,4,9,53,193.8,2
+2016-02-15,Jharkhand,Landslide,3,15,15,161.1,2
+2016-02-15,Karnataka,Forest Fire,7,17,81,61.6,2
+2016-02-15,Kerala,Cyclone,4,0,73,61.5,2
+2016-02-15,Madhya Pradesh,Earthquake,9,11,57,52.5,2
+2016-02-15,Maharashtra,Heatwave,5,20,7,9.4,2
+2016-02-15,Manipur,Earthquake,4,0,22,131.3,2
+2016-02-15,Meghalaya,Forest Fire,4,18,103,97.0,2
+2016-02-15,Mizoram,Cyclone,8,6,72,145.0,2
+2016-02-15,Nagaland,Flood,3,6,109,149.6,2
+2016-02-15,Odisha,Cyclone,8,9,98,218.8,2
+2016-02-15,Punjab,Cyclone,5,7,123,142.4,2
+2016-02-15,Rajasthan,Drought,6,5,135,251.9,2
+2016-02-15,Sikkim,Cyclone,7,0,50,188.0,2
+2016-02-15,Tamil Nadu,Earthquake,9,16,0,75.4,2
+2016-02-15,Telangana,Flood,6,7,68,1.3,2
+2016-02-15,Tripura,Drought,8,8,0,197.2,2
+2016-02-15,Uttar Pradesh,Cyclone,7,13,17,60.4,2
+2016-02-15,Uttarakhand,Drought,6,0,25,202.2,2
+2016-02-15,West Bengal,Forest Fire,6,12,80,120.4,2
+2016-03-15,Andhra Pradesh,Landslide,3,19,16,137.7,6
+2016-03-15,Arunachal Pradesh,Landslide,9,0,84,204.7,6
+2016-03-15,Assam,Earthquake,4,6,0,96.8,6
+2016-03-15,Bihar,Flood,8,0,125,45.4,6
+2016-03-15,Chhattisgarh,Earthquake,6,0,39,81.7,6
+2016-03-15,Goa,Earthquake,6,16,83,187.0,6
+2016-03-15,Gujarat,Heatwave,4,4,17,190.4,6
+2016-03-15,Haryana,Cyclone,3,17,18,16.6,6
+2016-03-15,Himachal Pradesh,Heatwave,9,5,57,17.2,6
+2016-03-15,Jharkhand,Earthquake,8,11,122,119.7,6
+2016-03-15,Karnataka,Drought,6,24,45,234.7,6
+2016-03-15,Kerala,Drought,8,8,43,150.3,6
+2016-03-15,Madhya Pradesh,Forest Fire,7,0,71,247.2,6
+2016-03-15,Maharashtra,Landslide,4,12,42,108.6,6
+2016-03-15,Manipur,Drought,9,0,17,130.9,6
+2016-03-15,Meghalaya,Cyclone,9,12,14,163.7,6
+2016-03-15,Mizoram,Forest Fire,8,9,62,28.1,6
+2016-03-15,Nagaland,Heatwave,4,35,17,16.1,6
+2016-03-15,Odisha,Earthquake,4,0,60,43.3,6
+2016-03-15,Punjab,Earthquake,9,2,0,311.6,6
+2016-03-15,Rajasthan,Drought,8,1,36,12.6,6
+2016-03-15,Sikkim,Landslide,5,24,80,96.8,6
+2016-03-15,Tamil Nadu,Landslide,6,20,92,10.5,6
+2016-03-15,Telangana,Earthquake,8,10,108,169.6,6
+2016-03-15,Tripura,Heatwave,7,22,60,216.2,6
+2016-03-15,Uttar Pradesh,Flood,6,7,57,110.7,6
+2016-03-15,Uttarakhand,Flood,8,1,116,64.4,6
+2016-03-15,West Bengal,Earthquake,6,25,84,97.8,6
+2016-04-15,Andhra Pradesh,Landslide,7,0,85,53.6,7
+2016-04-15,Arunachal Pradesh,Flood,4,8,102,45.6,7
+2016-04-15,Assam,Earthquake,4,13,64,47.1,7
+2016-04-15,Bihar,Earthquake,3,20,88,145.0,7
+2016-04-15,Chhattisgarh,Cyclone,8,2,162,19.4,7
+2016-04-15,Goa,Heatwave,3,1,149,8.5,7
+2016-04-15,Gujarat,Flood,5,9,0,271.4,7
+2016-04-15,Haryana,Heatwave,3,0,56,63.4,7
+2016-04-15,Himachal Pradesh,Landslide,7,3,36,34.0,7
+2016-04-15,Jharkhand,Drought,4,21,0,53.5,7
+2016-04-15,Karnataka,Earthquake,7,0,26,115.5,7
+2016-04-15,Kerala,Forest Fire,3,11,126,28.7,7
+2016-04-15,Madhya Pradesh,Forest Fire,8,6,16,235.5,7
+2016-04-15,Maharashtra,Landslide,6,6,29,70.9,7
+2016-04-15,Manipur,Drought,8,12,88,58.5,7
+2016-04-15,Meghalaya,Heatwave,5,0,0,91.8,7
+2016-04-15,Mizoram,Forest Fire,9,5,105,116.4,7
+2016-04-15,Nagaland,Forest Fire,6,15,117,165.5,7
+2016-04-15,Odisha,Earthquake,8,0,89,156.4,7
+2016-04-15,Punjab,Flood,3,8,79,165.1,7
+2016-04-15,Rajasthan,Earthquake,3,8,46,193.4,7
+2016-04-15,Sikkim,Drought,3,0,15,33.9,7
+2016-04-15,Tamil Nadu,Flood,5,10,26,104.7,7
+2016-04-15,Telangana,Drought,6,21,4,41.8,7
+2016-04-15,Tripura,Flood,5,0,88,119.7,7
+2016-04-15,Uttar Pradesh,Landslide,7,13,0,198.8,7
+2016-04-15,Uttarakhand,Heatwave,4,6,68,75.6,7
+2016-04-15,West Bengal,Forest Fire,4,14,87,89.8,7
+2016-05-15,Andhra Pradesh,Landslide,4,21,26,207.6,4
+2016-05-15,Arunachal Pradesh,Drought,8,20,1,110.5,4
+2016-05-15,Assam,Cyclone,7,0,36,61.3,4
+2016-05-15,Bihar,Drought,6,0,30,136.0,4
+2016-05-15,Chhattisgarh,Drought,3,20,7,179.0,4
+2016-05-15,Goa,Cyclone,7,6,0,78.0,4
+2016-05-15,Gujarat,Cyclone,6,0,0,58.0,4
+2016-05-15,Haryana,Cyclone,9,6,0,117.6,4
+2016-05-15,Himachal Pradesh,Forest Fire,6,17,51,169.4,4
+2016-05-15,Jharkhand,Earthquake,7,26,98,194.9,4
+2016-05-15,Karnataka,Drought,3,15,86,1.7,4
+2016-05-15,Kerala,Flood,7,0,78,3.1,4
+2016-05-15,Madhya Pradesh,Landslide,8,18,53,36.8,4
+2016-05-15,Maharashtra,Forest Fire,6,16,81,24.8,4
+2016-05-15,Manipur,Landslide,9,4,8,241.3,4
+2016-05-15,Meghalaya,Flood,6,16,128,6.2,4
+2016-05-15,Mizoram,Landslide,9,16,76,18.7,4
+2016-05-15,Nagaland,Earthquake,8,8,84,97.2,4
+2016-05-15,Odisha,Landslide,7,21,71,176.0,4
+2016-05-15,Punjab,Heatwave,6,6,0,229.9,4
+2016-05-15,Rajasthan,Cyclone,6,6,0,95.1,4
+2016-05-15,Sikkim,Drought,9,18,26,227.3,4
+2016-05-15,Tamil Nadu,Drought,5,0,122,161.6,4
+2016-05-15,Telangana,Earthquake,4,0,86,27.1,4
+2016-05-15,Tripura,Heatwave,3,11,18,22.4,4
+2016-05-15,Uttar Pradesh,Landslide,9,2,61,162.7,4
+2016-05-15,Uttarakhand,Heatwave,5,19,20,130.8,4
+2016-05-15,West Bengal,Heatwave,7,3,36,51.1,4
+2016-06-15,Andhra Pradesh,Flood,4,22,26,140.6,3
+2016-06-15,Arunachal Pradesh,Drought,9,17,9,113.5,3
+2016-06-15,Assam,Landslide,9,15,31,38.7,3
+2016-06-15,Bihar,Earthquake,9,23,56,122.1,3
+2016-06-15,Chhattisgarh,Forest Fire,3,2,75,96.1,3
+2016-06-15,Goa,Forest Fire,7,18,49,170.7,3
+2016-06-15,Gujarat,Landslide,4,29,84,57.2,3
+2016-06-15,Haryana,Forest Fire,9,20,40,72.2,3
+2016-06-15,Himachal Pradesh,Landslide,3,12,129,62.5,3
+2016-06-15,Jharkhand,Earthquake,9,15,29,26.5,3
+2016-06-15,Karnataka,Landslide,4,14,10,178.2,3
+2016-06-15,Kerala,Earthquake,8,15,44,164.8,3
+2016-06-15,Madhya Pradesh,Landslide,5,14,28,114.2,3
+2016-06-15,Maharashtra,Heatwave,5,17,8,131.5,3
+2016-06-15,Manipur,Heatwave,8,22,5,53.9,3
+2016-06-15,Meghalaya,Earthquake,9,20,43,121.9,3
+2016-06-15,Mizoram,Flood,6,4,143,60.9,3
+2016-06-15,Nagaland,Flood,7,19,81,9.5,3
+2016-06-15,Odisha,Drought,5,32,51,86.0,3
+2016-06-15,Punjab,Forest Fire,9,4,80,98.1,3
+2016-06-15,Rajasthan,Landslide,3,15,10,157.9,3
+2016-06-15,Sikkim,Heatwave,6,4,130,52.5,3
+2016-06-15,Tamil Nadu,Forest Fire,8,20,24,108.2,3
+2016-06-15,Telangana,Landslide,5,3,1,112.5,3
+2016-06-15,Tripura,Heatwave,7,19,117,15.0,3
+2016-06-15,Uttar Pradesh,Earthquake,8,0,86,15.3,3
+2016-06-15,Uttarakhand,Drought,4,0,35,11.2,3
+2016-06-15,West Bengal,Forest Fire,4,20,76,22.2,3
+2016-07-15,Andhra Pradesh,Earthquake,3,0,59,180.8,5
+2016-07-15,Arunachal Pradesh,Earthquake,6,14,41,131.0,5
+2016-07-15,Assam,Landslide,6,17,0,69.6,5
+2016-07-15,Bihar,Flood,3,0,47,65.3,5
+2016-07-15,Chhattisgarh,Heatwave,7,10,61,73.4,5
+2016-07-15,Goa,Forest Fire,4,5,87,87.2,5
+2016-07-15,Gujarat,Forest Fire,5,8,60,103.6,5
+2016-07-15,Haryana,Earthquake,3,4,16,40.5,5
+2016-07-15,Himachal Pradesh,Forest Fire,7,3,45,53.7,5
+2016-07-15,Jharkhand,Landslide,4,0,71,198.9,5
+2016-07-15,Karnataka,Flood,3,6,62,46.4,5
+2016-07-15,Kerala,Heatwave,4,10,126,102.4,5
+2016-07-15,Madhya Pradesh,Earthquake,6,23,21,86.0,5
+2016-07-15,Maharashtra,Landslide,6,0,0,51.9,5
+2016-07-15,Manipur,Cyclone,6,9,50,173.7,5
+2016-07-15,Meghalaya,Flood,3,7,31,26.7,5
+2016-07-15,Mizoram,Flood,3,4,101,256.9,5
+2016-07-15,Nagaland,Earthquake,6,19,23,65.7,5
+2016-07-15,Odisha,Drought,7,11,10,147.9,5
+2016-07-15,Punjab,Forest Fire,3,17,114,62.3,5
+2016-07-15,Rajasthan,Heatwave,3,1,45,103.4,5
+2016-07-15,Sikkim,Flood,6,6,28,8.1,5
+2016-07-15,Tamil Nadu,Forest Fire,3,3,0,155.6,5
+2016-07-15,Telangana,Forest Fire,8,23,82,55.0,5
+2016-07-15,Tripura,Drought,5,14,87,123.5,5
+2016-07-15,Uttar Pradesh,Heatwave,9,9,0,225.7,5
+2016-07-15,Uttarakhand,Earthquake,4,7,51,167.7,5
+2016-07-15,West Bengal,Earthquake,8,2,0,112.0,5
+2016-08-15,Andhra Pradesh,Landslide,9,13,81,23.5,5
+2016-08-15,Arunachal Pradesh,Forest Fire,7,13,0,44.8,5
+2016-08-15,Assam,Heatwave,3,5,0,19.9,5
+2016-08-15,Bihar,Cyclone,6,3,80,103.6,5
+2016-08-15,Chhattisgarh,Forest Fire,7,13,20,106.4,5
+2016-08-15,Goa,Forest Fire,3,7,90,20.2,5
+2016-08-15,Gujarat,Flood,5,3,21,177.5,5
+2016-08-15,Haryana,Cyclone,9,13,17,134.8,5
+2016-08-15,Himachal Pradesh,Flood,6,30,85,183.5,5
+2016-08-15,Jharkhand,Earthquake,9,22,30,59.2,5
+2016-08-15,Karnataka,Drought,7,18,31,79.8,5
+2016-08-15,Kerala,Cyclone,5,6,92,168.6,5
+2016-08-15,Madhya Pradesh,Cyclone,9,16,85,77.3,5
+2016-08-15,Maharashtra,Landslide,8,7,0,180.0,5
+2016-08-15,Manipur,Heatwave,8,0,137,89.8,5
+2016-08-15,Meghalaya,Landslide,4,17,16,52.9,5
+2016-08-15,Mizoram,Landslide,8,13,0,99.6,5
+2016-08-15,Nagaland,Flood,5,2,20,69.0,5
+2016-08-15,Odisha,Flood,8,8,4,56.0,5
+2016-08-15,Punjab,Landslide,5,5,0,32.3,5
+2016-08-15,Rajasthan,Earthquake,6,28,47,182.4,5
+2016-08-15,Sikkim,Drought,8,16,68,85.0,5
+2016-08-15,Tamil Nadu,Forest Fire,7,21,68,25.3,5
+2016-08-15,Telangana,Forest Fire,5,21,23,24.2,5
+2016-08-15,Tripura,Landslide,8,0,130,105.5,5
+2016-08-15,Uttar Pradesh,Landslide,6,6,45,54.2,5
+2016-08-15,Uttarakhand,Landslide,4,19,38,56.7,5
+2016-08-15,West Bengal,Cyclone,7,11,101,145.1,5
+2016-09-15,Andhra Pradesh,Forest Fire,9,0,44,84.7,2
+2016-09-15,Arunachal Pradesh,Flood,4,4,0,70.3,2
+2016-09-15,Assam,Heatwave,9,9,24,42.0,2
+2016-09-15,Bihar,Cyclone,9,2,96,140.0,2
+2016-09-15,Chhattisgarh,Cyclone,9,19,88,22.8,2
+2016-09-15,Goa,Earthquake,9,14,6,234.9,2
+2016-09-15,Gujarat,Earthquake,4,2,104,13.1,2
+2016-09-15,Haryana,Flood,3,10,60,31.2,2
+2016-09-15,Himachal Pradesh,Forest Fire,3,10,0,133.8,2
+2016-09-15,Jharkhand,Forest Fire,9,14,0,160.3,2
+2016-09-15,Karnataka,Flood,4,18,88,18.0,2
+2016-09-15,Kerala,Landslide,8,16,26,41.2,2
+2016-09-15,Madhya Pradesh,Flood,4,11,47,70.1,2
+2016-09-15,Maharashtra,Landslide,6,15,19,63.5,2
+2016-09-15,Manipur,Heatwave,7,16,106,234.4,2
+2016-09-15,Meghalaya,Cyclone,7,4,55,82.1,2
+2016-09-15,Mizoram,Landslide,8,0,38,154.0,2
+2016-09-15,Nagaland,Flood,5,0,92,89.1,2
+2016-09-15,Odisha,Flood,7,9,101,145.5,2
+2016-09-15,Punjab,Heatwave,9,34,48,188.6,2
+2016-09-15,Rajasthan,Flood,4,11,84,92.1,2
+2016-09-15,Sikkim,Flood,5,12,50,101.5,2
+2016-09-15,Tamil Nadu,Heatwave,6,0,90,158.9,2
+2016-09-15,Telangana,Flood,3,1,57,109.3,2
+2016-09-15,Tripura,Forest Fire,4,4,79,160.2,2
+2016-09-15,Uttar Pradesh,Drought,8,13,40,226.7,2
+2016-09-15,Uttarakhand,Landslide,6,12,90,155.1,2
+2016-09-15,West Bengal,Flood,9,4,58,84.0,2
+2016-10-15,Andhra Pradesh,Heatwave,8,24,13,61.5,3
+2016-10-15,Arunachal Pradesh,Heatwave,7,23,25,158.5,3
+2016-10-15,Assam,Drought,7,0,50,80.4,3
+2016-10-15,Bihar,Forest Fire,4,16,44,39.1,3
+2016-10-15,Chhattisgarh,Earthquake,5,6,30,65.5,3
+2016-10-15,Goa,Landslide,3,20,70,154.9,3
+2016-10-15,Gujarat,Flood,3,12,69,102.8,3
+2016-10-15,Haryana,Drought,4,22,7,78.7,3
+2016-10-15,Himachal Pradesh,Flood,8,12,87,118.4,3
+2016-10-15,Jharkhand,Earthquake,3,7,40,37.9,3
+2016-10-15,Karnataka,Forest Fire,4,3,25,122.0,3
+2016-10-15,Kerala,Forest Fire,7,19,24,178.6,3
+2016-10-15,Madhya Pradesh,Cyclone,3,20,25,221.2,3
+2016-10-15,Maharashtra,Drought,8,18,61,304.4,3
+2016-10-15,Manipur,Drought,9,4,61,213.8,3
+2016-10-15,Meghalaya,Forest Fire,9,6,19,185.5,3
+2016-10-15,Mizoram,Heatwave,8,0,109,59.2,3
+2016-10-15,Nagaland,Cyclone,8,8,57,189.2,3
+2016-10-15,Odisha,Heatwave,3,11,0,42.7,3
+2016-10-15,Punjab,Cyclone,6,7,61,17.2,3
+2016-10-15,Rajasthan,Drought,7,16,33,101.1,3
+2016-10-15,Sikkim,Forest Fire,9,0,9,128.6,3
+2016-10-15,Tamil Nadu,Forest Fire,6,16,63,59.9,3
+2016-10-15,Telangana,Drought,9,14,87,115.1,3
+2016-10-15,Tripura,Landslide,9,15,15,31.2,3
+2016-10-15,Uttar Pradesh,Heatwave,3,5,62,159.2,3
+2016-10-15,Uttarakhand,Landslide,9,12,24,130.2,3
+2016-10-15,West Bengal,Flood,7,8,91,251.1,3
+2016-11-15,Andhra Pradesh,Heatwave,9,9,0,128.1,4
+2016-11-15,Arunachal Pradesh,Cyclone,4,0,40,129.7,4
+2016-11-15,Assam,Earthquake,5,7,0,69.6,4
+2016-11-15,Bihar,Heatwave,9,9,21,156.0,4
+2016-11-15,Chhattisgarh,Landslide,7,16,37,180.4,4
+2016-11-15,Goa,Flood,4,6,79,32.6,4
+2016-11-15,Gujarat,Forest Fire,8,4,118,197.2,4
+2016-11-15,Haryana,Cyclone,4,11,41,56.1,4
+2016-11-15,Himachal Pradesh,Forest Fire,8,3,44,22.2,4
+2016-11-15,Jharkhand,Heatwave,3,13,43,169.0,4
+2016-11-15,Karnataka,Heatwave,4,18,29,73.2,4
+2016-11-15,Kerala,Drought,7,11,99,182.5,4
+2016-11-15,Madhya Pradesh,Heatwave,9,2,73,195.9,4
+2016-11-15,Maharashtra,Cyclone,4,2,90,78.8,4
+2016-11-15,Manipur,Landslide,9,8,0,77.9,4
+2016-11-15,Meghalaya,Heatwave,8,10,15,105.4,4
+2016-11-15,Mizoram,Earthquake,6,7,6,178.8,4
+2016-11-15,Nagaland,Forest Fire,9,4,40,58.4,4
+2016-11-15,Odisha,Flood,8,13,0,72.2,4
+2016-11-15,Punjab,Flood,6,13,99,71.3,4
+2016-11-15,Rajasthan,Earthquake,6,12,32,87.8,4
+2016-11-15,Sikkim,Flood,7,16,81,77.7,4
+2016-11-15,Tamil Nadu,Cyclone,9,18,26,118.3,4
+2016-11-15,Telangana,Flood,6,9,83,236.1,4
+2016-11-15,Tripura,Earthquake,3,12,51,67.8,4
+2016-11-15,Uttar Pradesh,Flood,6,5,27,92.5,4
+2016-11-15,Uttarakhand,Earthquake,8,21,74,68.6,4
+2016-11-15,West Bengal,Landslide,5,0,9,7.2,4
+2016-12-15,Andhra Pradesh,Landslide,8,20,15,23.9,5
+2016-12-15,Arunachal Pradesh,Heatwave,8,14,100,109.0,5
+2016-12-15,Assam,Forest Fire,4,23,32,181.4,5
+2016-12-15,Bihar,Landslide,6,17,80,116.8,5
+2016-12-15,Chhattisgarh,Heatwave,8,0,32,78.4,5
+2016-12-15,Goa,Drought,6,13,11,75.8,5
+2016-12-15,Gujarat,Cyclone,4,10,89,85.3,5
+2016-12-15,Haryana,Forest Fire,8,27,0,183.9,5
+2016-12-15,Himachal Pradesh,Earthquake,4,18,114,72.8,5
+2016-12-15,Jharkhand,Flood,5,18,20,76.2,5
+2016-12-15,Karnataka,Landslide,9,7,8,60.4,5
+2016-12-15,Kerala,Landslide,7,7,97,21.2,5
+2016-12-15,Madhya Pradesh,Earthquake,7,10,25,188.7,5
+2016-12-15,Maharashtra,Drought,8,3,0,8.3,5
+2016-12-15,Manipur,Drought,3,10,52,46.4,5
+2016-12-15,Meghalaya,Forest Fire,7,0,69,141.8,5
+2016-12-15,Mizoram,Earthquake,4,0,68,243.8,5
+2016-12-15,Nagaland,Earthquake,8,11,33,13.5,5
+2016-12-15,Odisha,Drought,5,9,61,137.9,5
+2016-12-15,Punjab,Cyclone,7,11,69,91.0,5
+2016-12-15,Rajasthan,Heatwave,5,19,55,133.2,5
+2016-12-15,Sikkim,Landslide,6,0,52,108.3,5
+2016-12-15,Tamil Nadu,Heatwave,8,15,55,99.8,5
+2016-12-15,Telangana,Flood,4,0,28,57.2,5
+2016-12-15,Tripura,Heatwave,3,24,19,226.1,5
+2016-12-15,Uttar Pradesh,Landslide,3,4,0,89.9,5
+2016-12-15,Uttarakhand,Cyclone,4,2,79,61.0,5
+2016-12-15,West Bengal,Flood,5,27,42,199.0,5
+2017-01-15,Andhra Pradesh,Earthquake,8,15,159,64.2,5
+2017-01-15,Arunachal Pradesh,Heatwave,4,11,45,102.8,5
+2017-01-15,Assam,Landslide,3,8,69,205.5,5
+2017-01-15,Bihar,Drought,4,17,60,182.9,5
+2017-01-15,Chhattisgarh,Cyclone,4,4,0,220.8,5
+2017-01-15,Goa,Flood,7,22,0,42.2,5
+2017-01-15,Gujarat,Flood,4,1,44,179.5,5
+2017-01-15,Haryana,Drought,7,15,1,125.9,5
+2017-01-15,Himachal Pradesh,Flood,3,14,53,67.1,5
+2017-01-15,Jharkhand,Heatwave,3,0,55,132.5,5
+2017-01-15,Karnataka,Earthquake,9,5,28,22.4,5
+2017-01-15,Kerala,Cyclone,4,1,68,147.4,5
+2017-01-15,Madhya Pradesh,Cyclone,8,6,0,117.8,5
+2017-01-15,Maharashtra,Earthquake,8,15,89,152.8,5
+2017-01-15,Manipur,Drought,3,18,41,126.3,5
+2017-01-15,Meghalaya,Earthquake,9,0,62,86.8,5
+2017-01-15,Mizoram,Cyclone,3,10,0,150.0,5
+2017-01-15,Nagaland,Flood,9,23,104,120.2,5
+2017-01-15,Odisha,Forest Fire,8,13,59,28.4,5
+2017-01-15,Punjab,Heatwave,8,16,80,78.1,5
+2017-01-15,Rajasthan,Drought,4,11,56,89.4,5
+2017-01-15,Sikkim,Flood,9,17,64,42.1,5
+2017-01-15,Tamil Nadu,Drought,9,6,8,201.5,5
+2017-01-15,Telangana,Landslide,6,18,47,61.3,5
+2017-01-15,Tripura,Cyclone,4,0,57,191.1,5
+2017-01-15,Uttar Pradesh,Flood,9,0,92,91.8,5
+2017-01-15,Uttarakhand,Flood,7,0,17,189.0,5
+2017-01-15,West Bengal,Earthquake,3,0,0,117.6,5
+2017-02-15,Andhra Pradesh,Flood,3,14,26,144.3,4
+2017-02-15,Arunachal Pradesh,Earthquake,7,11,47,180.3,4
+2017-02-15,Assam,Landslide,5,20,17,37.2,4
+2017-02-15,Bihar,Forest Fire,4,9,10,72.5,4
+2017-02-15,Chhattisgarh,Drought,6,0,47,81.3,4
+2017-02-15,Goa,Flood,6,15,98,77.4,4
+2017-02-15,Gujarat,Heatwave,3,7,0,160.4,4
+2017-02-15,Haryana,Drought,7,3,37,149.4,4
+2017-02-15,Himachal Pradesh,Forest Fire,4,7,63,63.2,4
+2017-02-15,Jharkhand,Landslide,6,0,0,2.0,4
+2017-02-15,Karnataka,Cyclone,7,0,36,218.0,4
+2017-02-15,Kerala,Forest Fire,5,15,10,87.5,4
+2017-02-15,Madhya Pradesh,Earthquake,4,16,68,111.7,4
+2017-02-15,Maharashtra,Flood,4,4,0,93.7,4
+2017-02-15,Manipur,Drought,8,25,46,227.1,4
+2017-02-15,Meghalaya,Earthquake,9,18,18,64.4,4
+2017-02-15,Mizoram,Flood,5,0,35,44.3,4
+2017-02-15,Nagaland,Drought,3,3,85,19.9,4
+2017-02-15,Odisha,Earthquake,5,5,37,158.0,4
+2017-02-15,Punjab,Earthquake,8,13,55,48.7,4
+2017-02-15,Rajasthan,Flood,4,0,138,318.8,4
+2017-02-15,Sikkim,Earthquake,7,15,57,64.0,4
+2017-02-15,Tamil Nadu,Cyclone,4,11,51,139.3,4
+2017-02-15,Telangana,Forest Fire,9,18,59,16.4,4
+2017-02-15,Tripura,Flood,7,17,94,80.1,4
+2017-02-15,Uttar Pradesh,Flood,4,8,73,109.3,4
+2017-02-15,Uttarakhand,Heatwave,9,18,11,127.3,4
+2017-02-15,West Bengal,Drought,6,5,74,179.5,4
+2017-03-15,Andhra Pradesh,Cyclone,9,15,60,11.3,7
+2017-03-15,Arunachal Pradesh,Forest Fire,8,0,63,208.7,7
+2017-03-15,Assam,Earthquake,5,10,89,8.4,7
+2017-03-15,Bihar,Heatwave,9,13,40,138.7,7
+2017-03-15,Chhattisgarh,Landslide,9,24,53,102.1,7
+2017-03-15,Goa,Earthquake,5,8,46,222.6,7
+2017-03-15,Gujarat,Cyclone,6,15,37,79.3,7
+2017-03-15,Haryana,Forest Fire,6,12,63,49.6,7
+2017-03-15,Himachal Pradesh,Cyclone,7,10,37,189.2,7
+2017-03-15,Jharkhand,Drought,9,9,116,69.8,7
+2017-03-15,Karnataka,Flood,3,12,20,16.4,7
+2017-03-15,Kerala,Cyclone,5,11,20,107.5,7
+2017-03-15,Madhya Pradesh,Landslide,9,17,96,163.6,7
+2017-03-15,Maharashtra,Landslide,9,7,0,36.5,7
+2017-03-15,Manipur,Drought,7,14,53,37.1,7
+2017-03-15,Meghalaya,Earthquake,9,0,0,192.8,7
+2017-03-15,Mizoram,Flood,5,0,62,175.9,7
+2017-03-15,Nagaland,Flood,8,5,52,71.5,7
+2017-03-15,Odisha,Landslide,6,6,0,84.5,7
+2017-03-15,Punjab,Forest Fire,5,13,72,65.4,7
+2017-03-15,Rajasthan,Drought,3,9,71,91.5,7
+2017-03-15,Sikkim,Landslide,3,9,160,5.3,7
+2017-03-15,Tamil Nadu,Flood,9,10,36,14.3,7
+2017-03-15,Telangana,Cyclone,8,25,76,91.7,7
+2017-03-15,Tripura,Flood,8,23,31,34.2,7
+2017-03-15,Uttar Pradesh,Flood,4,9,102,27.1,7
+2017-03-15,Uttarakhand,Heatwave,9,3,75,61.4,7
+2017-03-15,West Bengal,Forest Fire,9,2,48,66.7,7
+2017-04-15,Andhra Pradesh,Heatwave,3,15,58,153.4,5
+2017-04-15,Arunachal Pradesh,Flood,3,18,8,130.4,5
+2017-04-15,Assam,Earthquake,8,6,23,94.5,5
+2017-04-15,Bihar,Drought,3,0,146,85.4,5
+2017-04-15,Chhattisgarh,Cyclone,8,15,20,186.1,5
+2017-04-15,Goa,Cyclone,5,2,47,75.1,5
+2017-04-15,Gujarat,Cyclone,4,8,24,62.3,5
+2017-04-15,Haryana,Heatwave,6,15,7,143.0,5
+2017-04-15,Himachal Pradesh,Drought,9,13,95,237.0,5
+2017-04-15,Jharkhand,Forest Fire,6,0,0,123.0,5
+2017-04-15,Karnataka,Cyclone,6,17,73,25.0,5
+2017-04-15,Kerala,Landslide,4,4,64,27.0,5
+2017-04-15,Madhya Pradesh,Drought,5,0,95,155.5,5
+2017-04-15,Maharashtra,Forest Fire,3,17,69,26.3,5
+2017-04-15,Manipur,Flood,7,5,43,94.1,5
+2017-04-15,Meghalaya,Earthquake,4,0,86,105.3,5
+2017-04-15,Mizoram,Cyclone,3,3,76,79.7,5
+2017-04-15,Nagaland,Flood,3,1,67,108.9,5
+2017-04-15,Odisha,Heatwave,3,10,11,47.8,5
+2017-04-15,Punjab,Forest Fire,7,5,0,62.4,5
+2017-04-15,Rajasthan,Earthquake,9,5,96,202.9,5
+2017-04-15,Sikkim,Heatwave,6,20,32,28.4,5
+2017-04-15,Tamil Nadu,Heatwave,5,8,33,29.1,5
+2017-04-15,Telangana,Forest Fire,8,17,14,111.9,5
+2017-04-15,Tripura,Landslide,7,3,110,31.5,5
+2017-04-15,Uttar Pradesh,Earthquake,6,6,27,230.2,5
+2017-04-15,Uttarakhand,Heatwave,9,11,52,41.3,5
+2017-04-15,West Bengal,Earthquake,7,13,84,67.4,5
+2017-05-15,Andhra Pradesh,Flood,8,7,22,56.4,6
+2017-05-15,Arunachal Pradesh,Drought,5,17,20,158.3,6
+2017-05-15,Assam,Heatwave,5,12,17,59.9,6
+2017-05-15,Bihar,Drought,9,18,86,5.0,6
+2017-05-15,Chhattisgarh,Drought,6,0,30,128.9,6
+2017-05-15,Goa,Heatwave,9,8,102,55.1,6
+2017-05-15,Gujarat,Flood,3,2,55,36.0,6
+2017-05-15,Haryana,Earthquake,9,8,110,45.4,6
+2017-05-15,Himachal Pradesh,Forest Fire,3,6,32,44.3,6
+2017-05-15,Jharkhand,Earthquake,5,13,99,75.0,6
+2017-05-15,Karnataka,Drought,5,12,70,253.7,6
+2017-05-15,Kerala,Drought,8,2,8,99.3,6
+2017-05-15,Madhya Pradesh,Earthquake,8,0,49,194.5,6
+2017-05-15,Maharashtra,Earthquake,8,12,29,201.0,6
+2017-05-15,Manipur,Drought,8,10,96,44.1,6
+2017-05-15,Meghalaya,Flood,6,25,54,59.7,6
+2017-05-15,Mizoram,Cyclone,5,21,82,62.0,6
+2017-05-15,Nagaland,Cyclone,6,7,52,188.6,6
+2017-05-15,Odisha,Heatwave,6,12,114,101.9,6
+2017-05-15,Punjab,Landslide,8,2,0,142.9,6
+2017-05-15,Rajasthan,Forest Fire,7,0,28,116.7,6
+2017-05-15,Sikkim,Earthquake,3,12,34,109.3,6
+2017-05-15,Tamil Nadu,Forest Fire,6,6,0,71.7,6
+2017-05-15,Telangana,Heatwave,6,14,56,234.8,6
+2017-05-15,Tripura,Flood,6,21,15,86.5,6
+2017-05-15,Uttar Pradesh,Flood,5,28,89,218.2,6
+2017-05-15,Uttarakhand,Cyclone,9,17,4,113.9,6
+2017-05-15,West Bengal,Landslide,7,0,19,38.2,6
+2017-06-15,Andhra Pradesh,Cyclone,7,0,61,118.2,5
+2017-06-15,Arunachal Pradesh,Drought,9,12,63,90.5,5
+2017-06-15,Assam,Landslide,9,4,74,26.1,5
+2017-06-15,Bihar,Landslide,6,31,44,161.6,5
+2017-06-15,Chhattisgarh,Heatwave,5,9,86,20.3,5
+2017-06-15,Goa,Flood,4,6,69,9.6,5
+2017-06-15,Gujarat,Flood,5,21,28,118.8,5
+2017-06-15,Haryana,Landslide,8,13,94,16.3,5
+2017-06-15,Himachal Pradesh,Cyclone,7,3,67,172.9,5
+2017-06-15,Jharkhand,Flood,5,5,88,81.6,5
+2017-06-15,Karnataka,Earthquake,6,0,0,183.4,5
+2017-06-15,Kerala,Flood,5,9,84,133.5,5
+2017-06-15,Madhya Pradesh,Heatwave,4,24,88,81.0,5
+2017-06-15,Maharashtra,Drought,4,1,82,137.6,5
+2017-06-15,Manipur,Heatwave,3,6,56,106.6,5
+2017-06-15,Meghalaya,Drought,9,15,78,93.9,5
+2017-06-15,Mizoram,Drought,6,5,58,139.5,5
+2017-06-15,Nagaland,Landslide,5,17,91,24.0,5
+2017-06-15,Odisha,Earthquake,7,18,34,61.4,5
+2017-06-15,Punjab,Landslide,9,13,31,262.2,5
+2017-06-15,Rajasthan,Cyclone,7,4,0,110.1,5
+2017-06-15,Sikkim,Cyclone,4,13,0,57.0,5
+2017-06-15,Tamil Nadu,Drought,4,8,78,95.0,5
+2017-06-15,Telangana,Cyclone,6,4,10,280.5,5
+2017-06-15,Tripura,Cyclone,4,12,73,19.8,5
+2017-06-15,Uttar Pradesh,Forest Fire,9,5,92,81.2,5
+2017-06-15,Uttarakhand,Cyclone,8,24,80,94.2,5
+2017-06-15,West Bengal,Landslide,5,19,66,57.4,5
+2017-07-15,Andhra Pradesh,Forest Fire,8,18,0,252.4,3
+2017-07-15,Arunachal Pradesh,Flood,5,7,0,170.6,3
+2017-07-15,Assam,Earthquake,7,4,33,34.9,3
+2017-07-15,Bihar,Landslide,4,2,77,27.4,3
+2017-07-15,Chhattisgarh,Forest Fire,5,22,64,95.3,3
+2017-07-15,Goa,Heatwave,6,14,9,9.5,3
+2017-07-15,Gujarat,Cyclone,8,11,43,158.5,3
+2017-07-15,Haryana,Forest Fire,9,7,51,120.5,3
+2017-07-15,Himachal Pradesh,Landslide,8,19,0,27.0,3
+2017-07-15,Jharkhand,Earthquake,3,1,67,160.2,3
+2017-07-15,Karnataka,Forest Fire,3,4,72,216.8,3
+2017-07-15,Kerala,Flood,3,10,47,60.5,3
+2017-07-15,Madhya Pradesh,Cyclone,5,15,38,137.1,3
+2017-07-15,Maharashtra,Forest Fire,3,7,78,113.4,3
+2017-07-15,Manipur,Drought,5,26,113,88.7,3
+2017-07-15,Meghalaya,Earthquake,7,12,16,119.7,3
+2017-07-15,Mizoram,Earthquake,9,0,79,7.7,3
+2017-07-15,Nagaland,Drought,6,9,131,64.8,3
+2017-07-15,Odisha,Flood,7,16,98,62.4,3
+2017-07-15,Punjab,Landslide,3,4,0,187.6,3
+2017-07-15,Rajasthan,Heatwave,7,8,36,55.0,3
+2017-07-15,Sikkim,Drought,9,17,6,151.1,3
+2017-07-15,Tamil Nadu,Heatwave,4,7,54,176.1,3
+2017-07-15,Telangana,Cyclone,5,16,105,71.3,3
+2017-07-15,Tripura,Cyclone,9,17,0,11.4,3
+2017-07-15,Uttar Pradesh,Earthquake,4,1,70,53.1,3
+2017-07-15,Uttarakhand,Landslide,3,18,0,70.9,3
+2017-07-15,West Bengal,Drought,7,13,97,114.1,3
+2017-08-15,Andhra Pradesh,Forest Fire,5,17,33,182.7,5
+2017-08-15,Arunachal Pradesh,Drought,9,3,0,30.9,5
+2017-08-15,Assam,Flood,6,12,134,54.9,5
+2017-08-15,Bihar,Earthquake,6,9,43,265.9,5
+2017-08-15,Chhattisgarh,Flood,4,0,85,205.4,5
+2017-08-15,Goa,Cyclone,7,16,55,131.9,5
+2017-08-15,Gujarat,Cyclone,7,4,65,144.5,5
+2017-08-15,Haryana,Cyclone,8,11,27,92.9,5
+2017-08-15,Himachal Pradesh,Flood,5,9,17,112.2,5
+2017-08-15,Jharkhand,Landslide,4,0,0,170.1,5
+2017-08-15,Karnataka,Forest Fire,3,0,47,71.9,5
+2017-08-15,Kerala,Heatwave,9,11,72,54.5,5
+2017-08-15,Madhya Pradesh,Cyclone,4,17,75,182.6,5
+2017-08-15,Maharashtra,Forest Fire,3,9,53,40.8,5
+2017-08-15,Manipur,Drought,7,6,15,86.8,5
+2017-08-15,Meghalaya,Flood,5,19,59,215.5,5
+2017-08-15,Mizoram,Forest Fire,9,17,70,95.2,5
+2017-08-15,Nagaland,Flood,8,17,66,43.0,5
+2017-08-15,Odisha,Drought,6,24,74,144.2,5
+2017-08-15,Punjab,Heatwave,8,10,105,17.5,5
+2017-08-15,Rajasthan,Heatwave,5,16,0,39.8,5
+2017-08-15,Sikkim,Flood,3,4,8,278.1,5
+2017-08-15,Tamil Nadu,Drought,8,0,0,168.3,5
+2017-08-15,Telangana,Flood,7,40,0,172.1,5
+2017-08-15,Tripura,Forest Fire,8,9,74,105.4,5
+2017-08-15,Uttar Pradesh,Forest Fire,5,7,74,127.7,5
+2017-08-15,Uttarakhand,Flood,9,10,0,106.7,5
+2017-08-15,West Bengal,Landslide,7,0,154,81.3,5
+2017-09-15,Andhra Pradesh,Earthquake,7,16,88,69.7,6
+2017-09-15,Arunachal Pradesh,Forest Fire,6,11,41,97.9,6
+2017-09-15,Assam,Cyclone,5,11,81,122.3,6
+2017-09-15,Bihar,Forest Fire,8,0,0,4.1,6
+2017-09-15,Chhattisgarh,Cyclone,8,11,51,108.6,6
+2017-09-15,Goa,Earthquake,5,20,99,73.4,6
+2017-09-15,Gujarat,Landslide,8,20,134,88.6,6
+2017-09-15,Haryana,Landslide,8,26,37,17.6,6
+2017-09-15,Himachal Pradesh,Landslide,9,14,0,92.2,6
+2017-09-15,Jharkhand,Forest Fire,3,19,62,209.8,6
+2017-09-15,Karnataka,Drought,4,7,23,3.4,6
+2017-09-15,Kerala,Cyclone,4,1,73,136.8,6
+2017-09-15,Madhya Pradesh,Earthquake,4,20,15,307.2,6
+2017-09-15,Maharashtra,Heatwave,6,18,95,68.2,6
+2017-09-15,Manipur,Earthquake,8,16,41,32.1,6
+2017-09-15,Meghalaya,Heatwave,6,20,65,52.1,6
+2017-09-15,Mizoram,Landslide,4,24,51,206.0,6
+2017-09-15,Nagaland,Landslide,7,0,57,79.9,6
+2017-09-15,Odisha,Heatwave,8,8,62,62.4,6
+2017-09-15,Punjab,Drought,5,15,25,51.8,6
+2017-09-15,Rajasthan,Forest Fire,6,10,86,28.4,6
+2017-09-15,Sikkim,Flood,3,15,30,58.3,6
+2017-09-15,Tamil Nadu,Forest Fire,4,15,25,143.4,6
+2017-09-15,Telangana,Drought,8,0,9,110.8,6
+2017-09-15,Tripura,Heatwave,3,25,104,12.5,6
+2017-09-15,Uttar Pradesh,Flood,3,0,68,199.2,6
+2017-09-15,Uttarakhand,Heatwave,4,13,19,158.5,6
+2017-09-15,West Bengal,Landslide,6,9,57,41.4,6
+2017-10-15,Andhra Pradesh,Flood,4,0,32,129.7,4
+2017-10-15,Arunachal Pradesh,Earthquake,9,8,60,124.3,4
+2017-10-15,Assam,Heatwave,3,4,20,198.7,4
+2017-10-15,Bihar,Forest Fire,3,14,47,71.8,4
+2017-10-15,Chhattisgarh,Flood,9,0,63,128.5,4
+2017-10-15,Goa,Forest Fire,8,6,32,63.9,4
+2017-10-15,Gujarat,Drought,7,29,72,44.5,4
+2017-10-15,Haryana,Flood,9,8,1,232.8,4
+2017-10-15,Himachal Pradesh,Drought,5,0,25,76.3,4
+2017-10-15,Jharkhand,Cyclone,3,3,63,149.9,4
+2017-10-15,Karnataka,Heatwave,9,11,111,99.4,4
+2017-10-15,Kerala,Flood,8,6,135,128.8,4
+2017-10-15,Madhya Pradesh,Cyclone,6,8,18,96.2,4
+2017-10-15,Maharashtra,Heatwave,4,2,49,194.9,4
+2017-10-15,Manipur,Heatwave,6,18,29,67.6,4
+2017-10-15,Meghalaya,Flood,8,11,63,18.1,4
+2017-10-15,Mizoram,Cyclone,8,5,111,76.3,4
+2017-10-15,Nagaland,Flood,3,6,15,97.6,4
+2017-10-15,Odisha,Cyclone,8,0,7,237.0,4
+2017-10-15,Punjab,Earthquake,7,4,20,296.3,4
+2017-10-15,Rajasthan,Flood,5,10,7,114.6,4
+2017-10-15,Sikkim,Forest Fire,5,15,20,99.7,4
+2017-10-15,Tamil Nadu,Earthquake,8,12,110,53.8,4
+2017-10-15,Telangana,Cyclone,3,17,96,84.9,4
+2017-10-15,Tripura,Drought,9,7,83,109.8,4
+2017-10-15,Uttar Pradesh,Drought,9,16,55,34.5,4
+2017-10-15,Uttarakhand,Forest Fire,6,3,0,242.4,4
+2017-10-15,West Bengal,Forest Fire,3,10,69,112.4,4
+2017-11-15,Andhra Pradesh,Drought,3,5,0,166.7,5
+2017-11-15,Arunachal Pradesh,Landslide,7,13,50,185.3,5
+2017-11-15,Assam,Forest Fire,8,4,36,137.9,5
+2017-11-15,Bihar,Cyclone,6,0,88,87.3,5
+2017-11-15,Chhattisgarh,Heatwave,7,14,81,58.9,5
+2017-11-15,Goa,Cyclone,4,10,29,214.5,5
+2017-11-15,Gujarat,Drought,9,17,101,18.8,5
+2017-11-15,Haryana,Forest Fire,8,16,40,113.6,5
+2017-11-15,Himachal Pradesh,Flood,4,0,35,159.0,5
+2017-11-15,Jharkhand,Earthquake,9,9,70,16.2,5
+2017-11-15,Karnataka,Flood,7,24,0,110.7,5
+2017-11-15,Kerala,Drought,7,17,84,128.4,5
+2017-11-15,Madhya Pradesh,Drought,7,5,26,40.8,5
+2017-11-15,Maharashtra,Earthquake,4,8,89,71.4,5
+2017-11-15,Manipur,Forest Fire,3,6,34,112.5,5
+2017-11-15,Meghalaya,Flood,9,4,0,252.5,5
+2017-11-15,Mizoram,Cyclone,9,1,73,20.1,5
+2017-11-15,Nagaland,Landslide,6,8,99,120.7,5
+2017-11-15,Odisha,Earthquake,9,11,15,138.5,5
+2017-11-15,Punjab,Forest Fire,5,10,64,106.8,5
+2017-11-15,Rajasthan,Landslide,9,12,11,29.8,5
+2017-11-15,Sikkim,Forest Fire,3,0,143,6.0,5
+2017-11-15,Tamil Nadu,Forest Fire,4,3,92,208.4,5
+2017-11-15,Telangana,Forest Fire,5,12,96,159.6,5
+2017-11-15,Tripura,Earthquake,6,9,73,183.1,5
+2017-11-15,Uttar Pradesh,Drought,8,7,12,178.6,5
+2017-11-15,Uttarakhand,Heatwave,5,0,80,193.2,5
+2017-11-15,West Bengal,Flood,6,16,13,115.2,5
+2017-12-15,Andhra Pradesh,Earthquake,7,10,62,81.2,6
+2017-12-15,Arunachal Pradesh,Cyclone,5,21,89,18.0,6
+2017-12-15,Assam,Cyclone,7,13,54,175.0,6
+2017-12-15,Bihar,Earthquake,7,12,48,29.1,6
+2017-12-15,Chhattisgarh,Landslide,5,0,67,51.6,6
+2017-12-15,Goa,Heatwave,8,15,19,135.6,6
+2017-12-15,Gujarat,Earthquake,9,7,35,135.7,6
+2017-12-15,Haryana,Cyclone,5,7,12,63.7,6
+2017-12-15,Himachal Pradesh,Cyclone,5,27,59,236.5,6
+2017-12-15,Jharkhand,Landslide,7,3,2,69.0,6
+2017-12-15,Karnataka,Landslide,8,12,21,84.0,6
+2017-12-15,Kerala,Forest Fire,7,4,77,210.5,6
+2017-12-15,Madhya Pradesh,Cyclone,3,16,47,27.4,6
+2017-12-15,Maharashtra,Forest Fire,4,10,58,77.5,6
+2017-12-15,Manipur,Earthquake,5,0,33,31.4,6
+2017-12-15,Meghalaya,Cyclone,9,5,16,161.4,6
+2017-12-15,Mizoram,Landslide,8,6,32,122.5,6
+2017-12-15,Nagaland,Cyclone,5,0,24,48.5,6
+2017-12-15,Odisha,Heatwave,7,4,90,113.2,6
+2017-12-15,Punjab,Forest Fire,3,23,28,166.4,6
+2017-12-15,Rajasthan,Drought,8,18,77,203.2,6
+2017-12-15,Sikkim,Flood,4,0,8,101.8,6
+2017-12-15,Tamil Nadu,Earthquake,8,5,41,118.6,6
+2017-12-15,Telangana,Drought,9,8,50,171.5,6
+2017-12-15,Tripura,Cyclone,4,10,0,61.6,6
+2017-12-15,Uttar Pradesh,Earthquake,6,10,115,2.3,6
+2017-12-15,Uttarakhand,Heatwave,6,10,8,293.5,6
+2017-12-15,West Bengal,Landslide,6,16,0,48.2,6
+2018-01-15,Andhra Pradesh,Forest Fire,9,0,35,46.6,6
+2018-01-15,Arunachal Pradesh,Earthquake,3,17,63,251.9,6
+2018-01-15,Assam,Cyclone,4,6,60,24.9,6
+2018-01-15,Bihar,Drought,8,7,25,67.3,6
+2018-01-15,Chhattisgarh,Landslide,4,0,0,183.5,6
+2018-01-15,Goa,Landslide,6,7,55,59.5,6
+2018-01-15,Gujarat,Earthquake,8,13,81,113.7,6
+2018-01-15,Haryana,Landslide,5,0,19,139.8,6
+2018-01-15,Himachal Pradesh,Flood,3,11,19,95.1,6
+2018-01-15,Jharkhand,Drought,4,24,4,238.0,6
+2018-01-15,Karnataka,Flood,5,9,10,195.2,6
+2018-01-15,Kerala,Cyclone,5,20,64,19.4,6
+2018-01-15,Madhya Pradesh,Drought,8,21,83,74.5,6
+2018-01-15,Maharashtra,Cyclone,4,8,4,129.3,6
+2018-01-15,Manipur,Cyclone,3,12,30,87.9,6
+2018-01-15,Meghalaya,Cyclone,5,17,115,63.9,6
+2018-01-15,Mizoram,Cyclone,6,0,20,107.4,6
+2018-01-15,Nagaland,Earthquake,5,5,49,135.3,6
+2018-01-15,Odisha,Flood,3,12,59,114.2,6
+2018-01-15,Punjab,Flood,5,1,63,85.7,6
+2018-01-15,Rajasthan,Heatwave,6,15,0,113.4,6
+2018-01-15,Sikkim,Flood,5,12,38,162.4,6
+2018-01-15,Tamil Nadu,Drought,5,14,129,40.7,6
+2018-01-15,Telangana,Forest Fire,5,14,0,89.0,6
+2018-01-15,Tripura,Heatwave,8,10,91,18.0,6
+2018-01-15,Uttar Pradesh,Landslide,3,2,31,85.7,6
+2018-01-15,Uttarakhand,Heatwave,4,23,51,192.1,6
+2018-01-15,West Bengal,Landslide,4,17,16,73.3,6
+2018-02-15,Andhra Pradesh,Flood,7,0,83,113.7,4
+2018-02-15,Arunachal Pradesh,Landslide,5,20,32,74.7,4
+2018-02-15,Assam,Heatwave,4,13,101,38.2,4
+2018-02-15,Bihar,Heatwave,5,7,38,21.8,4
+2018-02-15,Chhattisgarh,Landslide,9,12,93,42.1,4
+2018-02-15,Goa,Landslide,5,11,59,120.8,4
+2018-02-15,Gujarat,Drought,3,3,104,94.7,4
+2018-02-15,Haryana,Drought,4,0,86,71.8,4
+2018-02-15,Himachal Pradesh,Forest Fire,6,23,86,191.9,4
+2018-02-15,Jharkhand,Landslide,5,27,0,197.6,4
+2018-02-15,Karnataka,Landslide,7,0,84,138.1,4
+2018-02-15,Kerala,Forest Fire,6,9,0,35.0,4
+2018-02-15,Madhya Pradesh,Drought,9,4,66,269.5,4
+2018-02-15,Maharashtra,Heatwave,7,10,24,112.0,4
+2018-02-15,Manipur,Heatwave,8,0,28,45.3,4
+2018-02-15,Meghalaya,Cyclone,4,3,33,73.7,4
+2018-02-15,Mizoram,Drought,8,12,38,154.9,4
+2018-02-15,Nagaland,Cyclone,3,0,12,163.8,4
+2018-02-15,Odisha,Landslide,8,4,90,110.9,4
+2018-02-15,Punjab,Heatwave,9,16,62,128.3,4
+2018-02-15,Rajasthan,Earthquake,5,15,69,15.2,4
+2018-02-15,Sikkim,Earthquake,6,13,61,197.6,4
+2018-02-15,Tamil Nadu,Landslide,9,5,105,190.0,4
+2018-02-15,Telangana,Forest Fire,5,10,78,131.5,4
+2018-02-15,Tripura,Earthquake,8,8,88,166.8,4
+2018-02-15,Uttar Pradesh,Flood,6,1,13,48.9,4
+2018-02-15,Uttarakhand,Heatwave,8,6,0,163.0,4
+2018-02-15,West Bengal,Cyclone,4,4,36,55.5,4
+2018-03-15,Andhra Pradesh,Drought,3,13,70,108.0,2
+2018-03-15,Arunachal Pradesh,Flood,4,8,0,4.4,2
+2018-03-15,Assam,Heatwave,8,8,4,38.8,2
+2018-03-15,Bihar,Landslide,5,18,72,69.4,2
+2018-03-15,Chhattisgarh,Forest Fire,6,21,43,28.7,2
+2018-03-15,Goa,Cyclone,7,14,100,105.6,2
+2018-03-15,Gujarat,Cyclone,9,11,97,32.1,2
+2018-03-15,Haryana,Earthquake,4,12,16,149.2,2
+2018-03-15,Himachal Pradesh,Flood,3,20,21,27.2,2
+2018-03-15,Jharkhand,Earthquake,3,11,23,70.7,2
+2018-03-15,Karnataka,Forest Fire,5,10,43,122.4,2
+2018-03-15,Kerala,Earthquake,4,2,30,90.9,2
+2018-03-15,Madhya Pradesh,Landslide,5,6,118,2.7,2
+2018-03-15,Maharashtra,Drought,4,0,16,65.7,2
+2018-03-15,Manipur,Earthquake,4,5,13,261.0,2
+2018-03-15,Meghalaya,Drought,6,6,26,193.6,2
+2018-03-15,Mizoram,Landslide,5,0,61,73.6,2
+2018-03-15,Nagaland,Earthquake,7,2,84,151.0,2
+2018-03-15,Odisha,Drought,9,0,46,168.5,2
+2018-03-15,Punjab,Earthquake,5,18,58,11.4,2
+2018-03-15,Rajasthan,Flood,7,7,114,69.6,2
+2018-03-15,Sikkim,Forest Fire,4,24,24,27.0,2
+2018-03-15,Tamil Nadu,Earthquake,6,17,97,138.3,2
+2018-03-15,Telangana,Earthquake,3,0,77,79.7,2
+2018-03-15,Tripura,Landslide,5,19,61,158.3,2
+2018-03-15,Uttar Pradesh,Forest Fire,6,2,93,154.4,2
+2018-03-15,Uttarakhand,Forest Fire,9,0,24,40.5,2
+2018-03-15,West Bengal,Forest Fire,8,14,0,39.9,2
+2018-04-15,Andhra Pradesh,Landslide,8,6,88,283.5,2
+2018-04-15,Arunachal Pradesh,Flood,7,0,0,1.2,2
+2018-04-15,Assam,Forest Fire,4,15,16,32.5,2
+2018-04-15,Bihar,Heatwave,6,0,21,28.1,2
+2018-04-15,Chhattisgarh,Cyclone,5,7,109,95.8,2
+2018-04-15,Goa,Forest Fire,4,4,89,103.8,2
+2018-04-15,Gujarat,Drought,3,17,56,174.8,2
+2018-04-15,Haryana,Landslide,5,19,15,86.3,2
+2018-04-15,Himachal Pradesh,Cyclone,3,17,45,95.7,2
+2018-04-15,Jharkhand,Cyclone,3,6,59,81.5,2
+2018-04-15,Karnataka,Drought,9,7,0,310.5,2
+2018-04-15,Kerala,Earthquake,7,10,43,73.7,2
+2018-04-15,Madhya Pradesh,Flood,4,17,9,159.1,2
+2018-04-15,Maharashtra,Landslide,6,10,125,169.3,2
+2018-04-15,Manipur,Forest Fire,4,14,106,39.4,2
+2018-04-15,Meghalaya,Landslide,5,18,10,15.1,2
+2018-04-15,Mizoram,Flood,5,21,39,161.4,2
+2018-04-15,Nagaland,Heatwave,9,15,89,121.7,2
+2018-04-15,Odisha,Drought,5,11,102,3.6,2
+2018-04-15,Punjab,Cyclone,4,7,37,24.8,2
+2018-04-15,Rajasthan,Forest Fire,5,13,70,8.6,2
+2018-04-15,Sikkim,Landslide,9,0,30,142.1,2
+2018-04-15,Tamil Nadu,Flood,5,15,70,23.9,2
+2018-04-15,Telangana,Heatwave,8,1,53,201.9,2
+2018-04-15,Tripura,Drought,6,13,22,25.9,2
+2018-04-15,Uttar Pradesh,Earthquake,3,7,38,84.8,2
+2018-04-15,Uttarakhand,Landslide,3,10,34,123.7,2
+2018-04-15,West Bengal,Heatwave,7,16,48,21.9,2
+2018-05-15,Andhra Pradesh,Cyclone,5,2,87,143.4,6
+2018-05-15,Arunachal Pradesh,Heatwave,3,1,0,159.7,6
+2018-05-15,Assam,Cyclone,8,4,82,121.4,6
+2018-05-15,Bihar,Drought,5,13,9,247.2,6
+2018-05-15,Chhattisgarh,Forest Fire,5,6,0,149.1,6
+2018-05-15,Goa,Earthquake,9,9,23,48.7,6
+2018-05-15,Gujarat,Heatwave,8,26,74,3.2,6
+2018-05-15,Haryana,Landslide,6,4,0,56.9,6
+2018-05-15,Himachal Pradesh,Flood,7,4,86,33.1,6
+2018-05-15,Jharkhand,Drought,6,0,17,44.5,6
+2018-05-15,Karnataka,Earthquake,4,0,52,208.5,6
+2018-05-15,Kerala,Flood,4,11,77,33.0,6
+2018-05-15,Madhya Pradesh,Flood,4,28,43,215.6,6
+2018-05-15,Maharashtra,Forest Fire,7,11,88,281.7,6
+2018-05-15,Manipur,Cyclone,9,5,83,32.0,6
+2018-05-15,Meghalaya,Earthquake,6,10,12,44.7,6
+2018-05-15,Mizoram,Heatwave,8,12,31,150.1,6
+2018-05-15,Nagaland,Drought,9,0,40,29.2,6
+2018-05-15,Odisha,Heatwave,7,0,45,140.6,6
+2018-05-15,Punjab,Drought,8,12,73,149.9,6
+2018-05-15,Rajasthan,Landslide,6,9,70,217.6,6
+2018-05-15,Sikkim,Drought,4,19,0,132.7,6
+2018-05-15,Tamil Nadu,Landslide,4,11,24,165.1,6
+2018-05-15,Telangana,Landslide,4,11,21,66.2,6
+2018-05-15,Tripura,Flood,4,12,39,245.6,6
+2018-05-15,Uttar Pradesh,Earthquake,5,9,22,82.4,6
+2018-05-15,Uttarakhand,Flood,5,11,17,131.6,6
+2018-05-15,West Bengal,Earthquake,9,0,37,99.4,6
+2018-06-15,Andhra Pradesh,Forest Fire,8,9,47,23.3,2
+2018-06-15,Arunachal Pradesh,Drought,5,4,135,194.8,2
+2018-06-15,Assam,Drought,8,3,94,13.4,2
+2018-06-15,Bihar,Cyclone,5,10,106,111.7,2
+2018-06-15,Chhattisgarh,Drought,3,6,69,196.0,2
+2018-06-15,Goa,Flood,8,5,67,13.8,2
+2018-06-15,Gujarat,Heatwave,5,28,61,129.9,2
+2018-06-15,Haryana,Heatwave,8,9,92,62.7,2
+2018-06-15,Himachal Pradesh,Earthquake,7,21,0,56.3,2
+2018-06-15,Jharkhand,Landslide,6,5,68,83.1,2
+2018-06-15,Karnataka,Cyclone,9,12,24,108.5,2
+2018-06-15,Kerala,Drought,6,7,126,135.8,2
+2018-06-15,Madhya Pradesh,Forest Fire,7,10,28,181.4,2
+2018-06-15,Maharashtra,Landslide,6,8,0,169.3,2
+2018-06-15,Manipur,Flood,3,22,61,92.2,2
+2018-06-15,Meghalaya,Flood,7,0,0,280.1,2
+2018-06-15,Mizoram,Earthquake,7,4,27,109.9,2
+2018-06-15,Nagaland,Earthquake,8,2,0,221.0,2
+2018-06-15,Odisha,Heatwave,7,9,0,53.0,2
+2018-06-15,Punjab,Heatwave,8,14,93,5.9,2
+2018-06-15,Rajasthan,Drought,5,0,148,172.2,2
+2018-06-15,Sikkim,Forest Fire,8,11,102,55.0,2
+2018-06-15,Tamil Nadu,Earthquake,8,8,80,24.2,2
+2018-06-15,Telangana,Drought,6,24,117,205.3,2
+2018-06-15,Tripura,Flood,7,8,49,246.0,2
+2018-06-15,Uttar Pradesh,Flood,5,8,34,207.9,2
+2018-06-15,Uttarakhand,Heatwave,9,11,67,80.4,2
+2018-06-15,West Bengal,Heatwave,7,0,51,83.3,2
+2018-07-15,Andhra Pradesh,Flood,4,8,73,50.3,6
+2018-07-15,Arunachal Pradesh,Earthquake,7,8,78,89.2,6
+2018-07-15,Assam,Landslide,7,9,73,11.9,6
+2018-07-15,Bihar,Forest Fire,3,15,54,20.1,6
+2018-07-15,Chhattisgarh,Cyclone,9,16,59,105.0,6
+2018-07-15,Goa,Earthquake,9,25,101,123.5,6
+2018-07-15,Gujarat,Earthquake,7,6,0,136.4,6
+2018-07-15,Haryana,Landslide,5,18,57,116.2,6
+2018-07-15,Himachal Pradesh,Drought,8,10,30,159.8,6
+2018-07-15,Jharkhand,Cyclone,3,17,69,73.0,6
+2018-07-15,Karnataka,Forest Fire,9,17,33,66.4,6
+2018-07-15,Kerala,Earthquake,7,0,30,139.3,6
+2018-07-15,Madhya Pradesh,Drought,5,7,65,14.1,6
+2018-07-15,Maharashtra,Forest Fire,9,7,36,50.6,6
+2018-07-15,Manipur,Forest Fire,3,0,63,246.3,6
+2018-07-15,Meghalaya,Flood,5,19,38,78.7,6
+2018-07-15,Mizoram,Flood,9,8,47,273.1,6
+2018-07-15,Nagaland,Drought,7,8,89,95.6,6
+2018-07-15,Odisha,Landslide,5,13,60,142.0,6
+2018-07-15,Punjab,Drought,3,21,62,95.0,6
+2018-07-15,Rajasthan,Forest Fire,4,7,54,165.3,6
+2018-07-15,Sikkim,Flood,5,18,11,152.0,6
+2018-07-15,Tamil Nadu,Drought,7,13,25,44.7,6
+2018-07-15,Telangana,Earthquake,7,21,41,67.8,6
+2018-07-15,Tripura,Heatwave,6,0,68,218.9,6
+2018-07-15,Uttar Pradesh,Drought,3,16,122,106.9,6
+2018-07-15,Uttarakhand,Landslide,5,10,28,148.2,6
+2018-07-15,West Bengal,Drought,6,16,36,47.2,6
+2018-08-15,Andhra Pradesh,Flood,5,11,64,136.9,5
+2018-08-15,Arunachal Pradesh,Earthquake,6,3,0,82.7,5
+2018-08-15,Assam,Heatwave,3,5,8,130.3,5
+2018-08-15,Bihar,Earthquake,3,20,33,325.7,5
+2018-08-15,Chhattisgarh,Forest Fire,8,10,45,150.2,5
+2018-08-15,Goa,Heatwave,5,7,0,74.6,5
+2018-08-15,Gujarat,Flood,5,3,139,195.8,5
+2018-08-15,Haryana,Landslide,6,15,35,299.8,5
+2018-08-15,Himachal Pradesh,Cyclone,3,27,133,179.3,5
+2018-08-15,Jharkhand,Earthquake,7,14,120,68.1,5
+2018-08-15,Karnataka,Earthquake,3,4,56,129.7,5
+2018-08-15,Kerala,Flood,3,12,55,21.0,5
+2018-08-15,Madhya Pradesh,Flood,7,22,96,11.5,5
+2018-08-15,Maharashtra,Drought,8,32,68,114.8,5
+2018-08-15,Manipur,Earthquake,4,28,81,251.3,5
+2018-08-15,Meghalaya,Landslide,5,15,15,105.8,5
+2018-08-15,Mizoram,Earthquake,9,0,80,109.2,5
+2018-08-15,Nagaland,Earthquake,6,0,133,151.5,5
+2018-08-15,Odisha,Heatwave,5,19,0,92.1,5
+2018-08-15,Punjab,Earthquake,5,0,119,174.5,5
+2018-08-15,Rajasthan,Forest Fire,9,10,76,132.7,5
+2018-08-15,Sikkim,Heatwave,3,0,91,125.9,5
+2018-08-15,Tamil Nadu,Forest Fire,8,13,29,84.9,5
+2018-08-15,Telangana,Cyclone,4,0,38,62.8,5
+2018-08-15,Tripura,Forest Fire,9,8,13,112.5,5
+2018-08-15,Uttar Pradesh,Heatwave,8,17,128,204.1,5
+2018-08-15,Uttarakhand,Heatwave,6,21,61,73.1,5
+2018-08-15,West Bengal,Forest Fire,7,6,0,69.9,5
+2018-09-15,Andhra Pradesh,Earthquake,7,14,107,166.4,4
+2018-09-15,Arunachal Pradesh,Heatwave,6,14,0,32.2,4
+2018-09-15,Assam,Cyclone,3,1,51,225.0,4
+2018-09-15,Bihar,Landslide,5,14,50,351.7,4
+2018-09-15,Chhattisgarh,Flood,8,2,37,104.2,4
+2018-09-15,Goa,Landslide,4,8,28,10.0,4
+2018-09-15,Gujarat,Flood,6,0,92,41.6,4
+2018-09-15,Haryana,Cyclone,4,8,3,183.5,4
+2018-09-15,Himachal Pradesh,Cyclone,9,0,58,38.2,4
+2018-09-15,Jharkhand,Drought,3,9,42,205.2,4
+2018-09-15,Karnataka,Cyclone,8,13,53,228.3,4
+2018-09-15,Kerala,Heatwave,6,8,55,122.1,4
+2018-09-15,Madhya Pradesh,Forest Fire,5,20,50,77.8,4
+2018-09-15,Maharashtra,Heatwave,8,8,68,129.3,4
+2018-09-15,Manipur,Forest Fire,6,14,0,26.0,4
+2018-09-15,Meghalaya,Landslide,3,16,63,34.8,4
+2018-09-15,Mizoram,Heatwave,6,19,96,108.7,4
+2018-09-15,Nagaland,Forest Fire,4,23,4,272.4,4
+2018-09-15,Odisha,Drought,9,9,0,51.8,4
+2018-09-15,Punjab,Cyclone,4,6,29,169.1,4
+2018-09-15,Rajasthan,Cyclone,7,15,53,101.6,4
+2018-09-15,Sikkim,Drought,6,0,80,239.1,4
+2018-09-15,Tamil Nadu,Flood,9,11,9,132.7,4
+2018-09-15,Telangana,Earthquake,4,16,88,157.0,4
+2018-09-15,Tripura,Drought,9,0,43,87.0,4
+2018-09-15,Uttar Pradesh,Flood,9,30,3,86.5,4
+2018-09-15,Uttarakhand,Drought,4,7,107,189.9,4
+2018-09-15,West Bengal,Drought,4,2,57,135.8,4
+2018-10-15,Andhra Pradesh,Cyclone,9,5,63,64.8,2
+2018-10-15,Arunachal Pradesh,Heatwave,7,5,0,133.7,2
+2018-10-15,Assam,Flood,5,3,55,3.0,2
+2018-10-15,Bihar,Heatwave,5,6,81,73.6,2
+2018-10-15,Chhattisgarh,Forest Fire,5,0,82,270.8,2
+2018-10-15,Goa,Flood,4,7,127,218.7,2
+2018-10-15,Gujarat,Flood,4,6,70,82.4,2
+2018-10-15,Haryana,Flood,8,11,13,60.8,2
+2018-10-15,Himachal Pradesh,Landslide,8,1,39,47.1,2
+2018-10-15,Jharkhand,Flood,6,13,0,114.8,2
+2018-10-15,Karnataka,Flood,5,21,0,216.0,2
+2018-10-15,Kerala,Flood,4,17,24,73.0,2
+2018-10-15,Madhya Pradesh,Earthquake,4,1,22,112.4,2
+2018-10-15,Maharashtra,Drought,7,26,0,1.3,2
+2018-10-15,Manipur,Drought,6,18,0,24.6,2
+2018-10-15,Meghalaya,Forest Fire,9,3,60,107.2,2
+2018-10-15,Mizoram,Cyclone,4,10,65,82.3,2
+2018-10-15,Nagaland,Landslide,7,21,103,101.0,2
+2018-10-15,Odisha,Flood,4,7,124,64.7,2
+2018-10-15,Punjab,Cyclone,7,5,78,120.6,2
+2018-10-15,Rajasthan,Landslide,4,0,71,85.1,2
+2018-10-15,Sikkim,Earthquake,7,14,30,136.7,2
+2018-10-15,Tamil Nadu,Heatwave,8,12,67,152.4,2
+2018-10-15,Telangana,Earthquake,5,14,49,115.9,2
+2018-10-15,Tripura,Flood,4,9,52,28.7,2
+2018-10-15,Uttar Pradesh,Earthquake,7,0,53,171.0,2
+2018-10-15,Uttarakhand,Landslide,5,3,80,7.3,2
+2018-10-15,West Bengal,Forest Fire,3,11,61,90.0,2
+2018-11-15,Andhra Pradesh,Cyclone,5,6,90,269.5,8
+2018-11-15,Arunachal Pradesh,Drought,5,16,64,206.6,8
+2018-11-15,Assam,Drought,4,7,25,195.6,8
+2018-11-15,Bihar,Earthquake,3,8,53,139.8,8
+2018-11-15,Chhattisgarh,Heatwave,9,1,19,101.7,8
+2018-11-15,Goa,Earthquake,4,11,0,174.9,8
+2018-11-15,Gujarat,Earthquake,7,0,83,46.2,8
+2018-11-15,Haryana,Landslide,4,8,104,229.2,8
+2018-11-15,Himachal Pradesh,Heatwave,8,11,94,3.5,8
+2018-11-15,Jharkhand,Earthquake,4,10,52,77.5,8
+2018-11-15,Karnataka,Drought,8,14,0,194.9,8
+2018-11-15,Kerala,Earthquake,5,4,44,172.0,8
+2018-11-15,Madhya Pradesh,Cyclone,6,25,90,35.7,8
+2018-11-15,Maharashtra,Forest Fire,9,22,17,102.8,8
+2018-11-15,Manipur,Forest Fire,3,0,51,103.2,8
+2018-11-15,Meghalaya,Flood,4,3,56,70.3,8
+2018-11-15,Mizoram,Earthquake,4,17,66,127.1,8
+2018-11-15,Nagaland,Heatwave,3,13,84,99.3,8
+2018-11-15,Odisha,Cyclone,9,6,98,151.5,8
+2018-11-15,Punjab,Forest Fire,3,23,61,9.0,8
+2018-11-15,Rajasthan,Cyclone,6,2,44,43.2,8
+2018-11-15,Sikkim,Earthquake,4,4,35,162.9,8
+2018-11-15,Tamil Nadu,Cyclone,9,24,68,27.7,8
+2018-11-15,Telangana,Forest Fire,4,0,9,68.1,8
+2018-11-15,Tripura,Earthquake,4,6,0,139.2,8
+2018-11-15,Uttar Pradesh,Forest Fire,9,5,11,37.4,8
+2018-11-15,Uttarakhand,Flood,9,10,5,48.0,8
+2018-11-15,West Bengal,Earthquake,4,9,123,19.4,8
+2018-12-15,Andhra Pradesh,Forest Fire,3,1,1,65.6,6
+2018-12-15,Arunachal Pradesh,Landslide,9,0,20,52.4,6
+2018-12-15,Assam,Landslide,5,6,11,4.9,6
+2018-12-15,Bihar,Flood,4,1,49,15.7,6
+2018-12-15,Chhattisgarh,Flood,5,2,53,169.6,6
+2018-12-15,Goa,Flood,6,6,117,99.7,6
+2018-12-15,Gujarat,Heatwave,6,5,41,290.2,6
+2018-12-15,Haryana,Drought,5,21,0,110.1,6
+2018-12-15,Himachal Pradesh,Forest Fire,5,10,40,175.2,6
+2018-12-15,Jharkhand,Forest Fire,3,21,35,74.3,6
+2018-12-15,Karnataka,Heatwave,5,5,9,14.5,6
+2018-12-15,Kerala,Cyclone,6,9,73,20.3,6
+2018-12-15,Madhya Pradesh,Drought,8,8,71,192.6,6
+2018-12-15,Maharashtra,Heatwave,9,5,36,10.0,6
+2018-12-15,Manipur,Heatwave,7,17,56,77.7,6
+2018-12-15,Meghalaya,Earthquake,6,8,39,119.5,6
+2018-12-15,Mizoram,Flood,9,20,49,234.4,6
+2018-12-15,Nagaland,Heatwave,8,25,90,35.6,6
+2018-12-15,Odisha,Earthquake,5,3,111,65.5,6
+2018-12-15,Punjab,Landslide,3,7,80,63.3,6
+2018-12-15,Rajasthan,Heatwave,9,17,112,56.2,6
+2018-12-15,Sikkim,Drought,9,13,72,60.4,6
+2018-12-15,Tamil Nadu,Earthquake,3,11,129,96.5,6
+2018-12-15,Telangana,Forest Fire,6,9,114,58.0,6
+2018-12-15,Tripura,Drought,6,10,76,84.1,6
+2018-12-15,Uttar Pradesh,Drought,5,5,122,79.0,6
+2018-12-15,Uttarakhand,Cyclone,7,12,80,52.7,6
+2018-12-15,West Bengal,Earthquake,3,3,55,175.5,6
+2019-01-15,Andhra Pradesh,Earthquake,9,10,34,98.2,3
+2019-01-15,Arunachal Pradesh,Landslide,8,17,64,90.8,3
+2019-01-15,Assam,Earthquake,5,8,30,142.4,3
+2019-01-15,Bihar,Flood,3,6,67,156.8,3
+2019-01-15,Chhattisgarh,Landslide,4,7,95,280.9,3
+2019-01-15,Goa,Cyclone,5,8,52,10.2,3
+2019-01-15,Gujarat,Heatwave,8,11,88,160.8,3
+2019-01-15,Haryana,Flood,8,15,12,165.4,3
+2019-01-15,Himachal Pradesh,Forest Fire,3,17,5,19.2,3
+2019-01-15,Jharkhand,Earthquake,9,14,28,165.4,3
+2019-01-15,Karnataka,Earthquake,3,14,109,84.4,3
+2019-01-15,Kerala,Cyclone,4,13,87,21.4,3
+2019-01-15,Madhya Pradesh,Cyclone,3,18,29,148.1,3
+2019-01-15,Maharashtra,Forest Fire,7,12,24,18.2,3
+2019-01-15,Manipur,Landslide,9,6,54,188.8,3
+2019-01-15,Meghalaya,Flood,3,7,78,78.0,3
+2019-01-15,Mizoram,Earthquake,7,15,57,60.1,3
+2019-01-15,Nagaland,Drought,5,18,28,171.8,3
+2019-01-15,Odisha,Heatwave,5,0,0,9.6,3
+2019-01-15,Punjab,Landslide,7,3,71,36.7,3
+2019-01-15,Rajasthan,Cyclone,7,15,32,197.9,3
+2019-01-15,Sikkim,Landslide,8,19,139,160.5,3
+2019-01-15,Tamil Nadu,Heatwave,7,2,76,159.4,3
+2019-01-15,Telangana,Flood,4,18,66,24.3,3
+2019-01-15,Tripura,Flood,8,11,66,69.1,3
+2019-01-15,Uttar Pradesh,Cyclone,6,13,10,100.3,3
+2019-01-15,Uttarakhand,Cyclone,9,6,63,209.6,3
+2019-01-15,West Bengal,Earthquake,7,12,24,134.9,3
+2019-02-15,Andhra Pradesh,Flood,6,0,0,31.3,4
+2019-02-15,Arunachal Pradesh,Heatwave,5,21,0,54.3,4
+2019-02-15,Assam,Forest Fire,9,17,60,60.4,4
+2019-02-15,Bihar,Forest Fire,7,2,48,60.1,4
+2019-02-15,Chhattisgarh,Flood,3,15,45,61.4,4
+2019-02-15,Goa,Heatwave,3,8,28,187.4,4
+2019-02-15,Gujarat,Flood,8,16,62,160.7,4
+2019-02-15,Haryana,Heatwave,6,14,74,122.4,4
+2019-02-15,Himachal Pradesh,Landslide,4,9,57,166.6,4
+2019-02-15,Jharkhand,Cyclone,9,0,143,73.9,4
+2019-02-15,Karnataka,Forest Fire,5,12,21,40.1,4
+2019-02-15,Kerala,Heatwave,8,6,47,73.7,4
+2019-02-15,Madhya Pradesh,Cyclone,8,22,0,145.4,4
+2019-02-15,Maharashtra,Landslide,8,9,33,127.1,4
+2019-02-15,Manipur,Flood,3,0,15,73.5,4
+2019-02-15,Meghalaya,Landslide,9,16,86,66.0,4
+2019-02-15,Mizoram,Flood,4,0,17,105.0,4
+2019-02-15,Nagaland,Drought,4,12,71,111.3,4
+2019-02-15,Odisha,Flood,4,3,42,125.1,4
+2019-02-15,Punjab,Landslide,4,12,44,178.1,4
+2019-02-15,Rajasthan,Landslide,8,3,22,116.5,4
+2019-02-15,Sikkim,Heatwave,7,9,59,59.5,4
+2019-02-15,Tamil Nadu,Cyclone,3,27,100,22.4,4
+2019-02-15,Telangana,Earthquake,4,4,26,70.4,4
+2019-02-15,Tripura,Flood,8,4,47,1.9,4
+2019-02-15,Uttar Pradesh,Forest Fire,8,10,84,39.9,4
+2019-02-15,Uttarakhand,Heatwave,3,8,45,42.2,4
+2019-02-15,West Bengal,Forest Fire,3,20,54,33.6,4
+2019-03-15,Andhra Pradesh,Drought,4,11,6,184.7,6
+2019-03-15,Arunachal Pradesh,Earthquake,7,24,29,59.1,6
+2019-03-15,Assam,Forest Fire,3,0,61,83.2,6
+2019-03-15,Bihar,Earthquake,5,6,25,187.5,6
+2019-03-15,Chhattisgarh,Earthquake,6,29,72,234.3,6
+2019-03-15,Goa,Earthquake,3,13,50,22.5,6
+2019-03-15,Gujarat,Cyclone,9,0,0,117.9,6
+2019-03-15,Haryana,Drought,7,24,39,182.0,6
+2019-03-15,Himachal Pradesh,Landslide,6,11,86,73.1,6
+2019-03-15,Jharkhand,Earthquake,8,7,97,209.0,6
+2019-03-15,Karnataka,Landslide,6,0,105,65.3,6
+2019-03-15,Kerala,Flood,5,4,54,74.8,6
+2019-03-15,Madhya Pradesh,Cyclone,5,1,29,174.1,6
+2019-03-15,Maharashtra,Cyclone,6,10,60,123.0,6
+2019-03-15,Manipur,Flood,5,24,28,12.4,6
+2019-03-15,Meghalaya,Heatwave,8,0,52,168.8,6
+2019-03-15,Mizoram,Flood,5,5,66,118.8,6
+2019-03-15,Nagaland,Drought,4,18,104,133.9,6
+2019-03-15,Odisha,Forest Fire,7,10,16,124.5,6
+2019-03-15,Punjab,Cyclone,9,10,24,16.7,6
+2019-03-15,Rajasthan,Forest Fire,5,6,57,267.6,6
+2019-03-15,Sikkim,Cyclone,4,9,15,76.4,6
+2019-03-15,Tamil Nadu,Heatwave,3,8,8,68.0,6
+2019-03-15,Telangana,Earthquake,7,6,29,219.0,6
+2019-03-15,Tripura,Cyclone,8,4,89,113.3,6
+2019-03-15,Uttar Pradesh,Cyclone,6,0,20,105.8,6
+2019-03-15,Uttarakhand,Drought,7,0,58,2.8,6
+2019-03-15,West Bengal,Forest Fire,3,9,78,15.3,6
+2019-04-15,Andhra Pradesh,Earthquake,5,8,62,69.3,7
+2019-04-15,Arunachal Pradesh,Flood,7,0,102,78.0,7
+2019-04-15,Assam,Drought,5,1,63,244.2,7
+2019-04-15,Bihar,Cyclone,4,15,28,77.8,7
+2019-04-15,Chhattisgarh,Heatwave,5,7,6,96.9,7
+2019-04-15,Goa,Drought,7,20,50,120.5,7
+2019-04-15,Gujarat,Drought,3,5,40,300.4,7
+2019-04-15,Haryana,Heatwave,5,6,33,36.9,7
+2019-04-15,Himachal Pradesh,Forest Fire,7,9,0,71.2,7
+2019-04-15,Jharkhand,Forest Fire,5,2,17,107.8,7
+2019-04-15,Karnataka,Earthquake,5,16,53,16.8,7
+2019-04-15,Kerala,Heatwave,5,7,48,210.1,7
+2019-04-15,Madhya Pradesh,Heatwave,5,0,149,153.9,7
+2019-04-15,Maharashtra,Cyclone,7,8,121,101.5,7
+2019-04-15,Manipur,Forest Fire,9,6,0,134.4,7
+2019-04-15,Meghalaya,Earthquake,4,25,45,171.4,7
+2019-04-15,Mizoram,Cyclone,9,7,0,74.4,7
+2019-04-15,Nagaland,Forest Fire,8,22,4,143.3,7
+2019-04-15,Odisha,Landslide,8,13,12,53.6,7
+2019-04-15,Punjab,Forest Fire,8,4,73,129.8,7
+2019-04-15,Rajasthan,Earthquake,4,6,68,83.6,7
+2019-04-15,Sikkim,Earthquake,3,0,26,212.5,7
+2019-04-15,Tamil Nadu,Flood,6,7,81,186.7,7
+2019-04-15,Telangana,Earthquake,9,11,0,62.8,7
+2019-04-15,Tripura,Landslide,8,17,73,120.1,7
+2019-04-15,Uttar Pradesh,Landslide,6,7,33,1.8,7
+2019-04-15,Uttarakhand,Heatwave,8,21,97,97.0,7
+2019-04-15,West Bengal,Cyclone,8,5,40,185.0,7
+2019-05-15,Andhra Pradesh,Landslide,7,18,27,205.1,5
+2019-05-15,Arunachal Pradesh,Cyclone,9,15,45,37.1,5
+2019-05-15,Assam,Earthquake,7,23,36,285.6,5
+2019-05-15,Bihar,Flood,4,4,34,12.2,5
+2019-05-15,Chhattisgarh,Earthquake,3,9,17,138.2,5
+2019-05-15,Goa,Drought,9,8,91,63.0,5
+2019-05-15,Gujarat,Drought,3,16,106,140.9,5
+2019-05-15,Haryana,Cyclone,4,6,0,33.7,5
+2019-05-15,Himachal Pradesh,Cyclone,9,8,27,195.2,5
+2019-05-15,Jharkhand,Landslide,4,0,68,73.6,5
+2019-05-15,Karnataka,Forest Fire,5,15,0,4.8,5
+2019-05-15,Kerala,Forest Fire,8,20,93,175.3,5
+2019-05-15,Madhya Pradesh,Landslide,4,26,97,153.9,5
+2019-05-15,Maharashtra,Heatwave,8,0,17,74.6,5
+2019-05-15,Manipur,Drought,6,11,30,82.0,5
+2019-05-15,Meghalaya,Heatwave,4,16,27,2.3,5
+2019-05-15,Mizoram,Drought,9,9,50,79.8,5
+2019-05-15,Nagaland,Cyclone,4,5,32,125.2,5
+2019-05-15,Odisha,Drought,6,26,130,52.0,5
+2019-05-15,Punjab,Cyclone,6,0,43,4.7,5
+2019-05-15,Rajasthan,Heatwave,3,18,0,58.3,5
+2019-05-15,Sikkim,Forest Fire,6,11,41,72.5,5
+2019-05-15,Tamil Nadu,Flood,9,18,96,54.3,5
+2019-05-15,Telangana,Landslide,5,10,0,159.6,5
+2019-05-15,Tripura,Drought,3,5,0,11.5,5
+2019-05-15,Uttar Pradesh,Earthquake,8,0,0,47.3,5
+2019-05-15,Uttarakhand,Drought,3,0,10,75.8,5
+2019-05-15,West Bengal,Flood,3,0,67,235.4,5
+2019-06-15,Andhra Pradesh,Earthquake,3,16,32,58.9,4
+2019-06-15,Arunachal Pradesh,Earthquake,9,20,88,16.2,4
+2019-06-15,Assam,Landslide,7,16,48,94.7,4
+2019-06-15,Bihar,Earthquake,4,0,0,170.3,4
+2019-06-15,Chhattisgarh,Landslide,8,7,25,36.2,4
+2019-06-15,Goa,Drought,6,11,45,44.7,4
+2019-06-15,Gujarat,Drought,7,1,0,28.6,4
+2019-06-15,Haryana,Drought,4,12,118,108.4,4
+2019-06-15,Himachal Pradesh,Heatwave,7,26,49,125.4,4
+2019-06-15,Jharkhand,Cyclone,9,0,43,79.6,4
+2019-06-15,Karnataka,Earthquake,3,3,95,111.1,4
+2019-06-15,Kerala,Drought,8,22,33,107.8,4
+2019-06-15,Madhya Pradesh,Landslide,4,2,45,273.6,4
+2019-06-15,Maharashtra,Earthquake,7,6,85,98.0,4
+2019-06-15,Manipur,Cyclone,8,8,40,55.9,4
+2019-06-15,Meghalaya,Landslide,7,11,116,192.0,4
+2019-06-15,Mizoram,Drought,8,13,28,134.6,4
+2019-06-15,Nagaland,Cyclone,8,9,59,98.4,4
+2019-06-15,Odisha,Earthquake,7,7,52,57.1,4
+2019-06-15,Punjab,Landslide,3,12,44,144.2,4
+2019-06-15,Rajasthan,Heatwave,4,2,0,37.9,4
+2019-06-15,Sikkim,Forest Fire,3,3,16,22.9,4
+2019-06-15,Tamil Nadu,Flood,3,15,50,45.7,4
+2019-06-15,Telangana,Flood,8,2,48,50.0,4
+2019-06-15,Tripura,Landslide,8,13,0,23.1,4
+2019-06-15,Uttar Pradesh,Flood,7,14,31,165.7,4
+2019-06-15,Uttarakhand,Earthquake,7,28,117,166.6,4
+2019-06-15,West Bengal,Cyclone,9,2,125,149.5,4
+2019-07-15,Andhra Pradesh,Landslide,3,7,115,199.8,2
+2019-07-15,Arunachal Pradesh,Heatwave,9,15,35,40.2,2
+2019-07-15,Assam,Landslide,3,13,0,66.2,2
+2019-07-15,Bihar,Cyclone,8,0,0,41.4,2
+2019-07-15,Chhattisgarh,Flood,4,7,66,96.9,2
+2019-07-15,Goa,Heatwave,9,9,64,148.2,2
+2019-07-15,Gujarat,Cyclone,6,18,0,29.0,2
+2019-07-15,Haryana,Heatwave,3,21,57,128.9,2
+2019-07-15,Himachal Pradesh,Heatwave,5,20,38,91.6,2
+2019-07-15,Jharkhand,Flood,5,14,60,22.6,2
+2019-07-15,Karnataka,Cyclone,5,6,56,199.1,2
+2019-07-15,Kerala,Earthquake,6,3,59,30.8,2
+2019-07-15,Madhya Pradesh,Landslide,9,10,70,112.6,2
+2019-07-15,Maharashtra,Landslide,9,9,66,16.9,2
+2019-07-15,Manipur,Landslide,9,21,81,324.6,2
+2019-07-15,Meghalaya,Forest Fire,4,20,85,262.9,2
+2019-07-15,Mizoram,Flood,3,13,134,216.6,2
+2019-07-15,Nagaland,Forest Fire,4,15,16,171.8,2
+2019-07-15,Odisha,Flood,6,28,24,28.4,2
+2019-07-15,Punjab,Cyclone,6,0,56,98.4,2
+2019-07-15,Rajasthan,Cyclone,7,15,37,196.7,2
+2019-07-15,Sikkim,Landslide,4,8,88,144.1,2
+2019-07-15,Tamil Nadu,Heatwave,3,18,15,86.2,2
+2019-07-15,Telangana,Cyclone,8,0,63,93.1,2
+2019-07-15,Tripura,Landslide,6,11,0,9.8,2
+2019-07-15,Uttar Pradesh,Landslide,9,16,56,25.6,2
+2019-07-15,Uttarakhand,Flood,4,5,16,148.7,2
+2019-07-15,West Bengal,Drought,5,10,0,119.1,2
+2019-08-15,Andhra Pradesh,Heatwave,3,3,36,245.0,3
+2019-08-15,Arunachal Pradesh,Flood,5,10,97,117.7,3
+2019-08-15,Assam,Cyclone,5,16,92,81.6,3
+2019-08-15,Bihar,Earthquake,6,7,44,79.0,3
+2019-08-15,Chhattisgarh,Forest Fire,4,14,158,77.4,3
+2019-08-15,Goa,Drought,6,5,93,270.7,3
+2019-08-15,Gujarat,Heatwave,4,8,54,114.3,3
+2019-08-15,Haryana,Landslide,4,7,29,203.5,3
+2019-08-15,Himachal Pradesh,Cyclone,4,5,52,62.8,3
+2019-08-15,Jharkhand,Drought,7,22,40,25.1,3
+2019-08-15,Karnataka,Earthquake,6,0,105,16.0,3
+2019-08-15,Kerala,Heatwave,5,0,0,155.6,3
+2019-08-15,Madhya Pradesh,Flood,4,2,42,46.6,3
+2019-08-15,Maharashtra,Cyclone,7,16,31,2.6,3
+2019-08-15,Manipur,Drought,4,10,55,205.7,3
+2019-08-15,Meghalaya,Landslide,4,3,37,58.1,3
+2019-08-15,Mizoram,Landslide,7,14,105,148.8,3
+2019-08-15,Nagaland,Drought,8,12,9,1.0,3
+2019-08-15,Odisha,Forest Fire,5,4,54,121.2,3
+2019-08-15,Punjab,Heatwave,7,0,53,52.4,3
+2019-08-15,Rajasthan,Drought,4,10,72,246.2,3
+2019-08-15,Sikkim,Cyclone,7,22,29,106.2,3
+2019-08-15,Tamil Nadu,Heatwave,8,9,0,230.0,3
+2019-08-15,Telangana,Cyclone,4,8,47,98.0,3
+2019-08-15,Tripura,Forest Fire,3,20,64,123.9,3
+2019-08-15,Uttar Pradesh,Forest Fire,8,4,0,28.5,3
+2019-08-15,Uttarakhand,Heatwave,7,18,65,163.5,3
+2019-08-15,West Bengal,Drought,9,11,57,126.2,3
+2019-09-15,Andhra Pradesh,Earthquake,8,15,35,112.6,5
+2019-09-15,Arunachal Pradesh,Cyclone,8,0,52,9.7,5
+2019-09-15,Assam,Forest Fire,9,4,71,258.5,5
+2019-09-15,Bihar,Cyclone,4,6,45,77.3,5
+2019-09-15,Chhattisgarh,Earthquake,3,28,53,0.3,5
+2019-09-15,Goa,Forest Fire,6,16,57,165.0,5
+2019-09-15,Gujarat,Flood,7,4,45,109.7,5
+2019-09-15,Haryana,Landslide,9,7,35,63.0,5
+2019-09-15,Himachal Pradesh,Forest Fire,9,9,40,138.9,5
+2019-09-15,Jharkhand,Cyclone,6,6,92,20.8,5
+2019-09-15,Karnataka,Earthquake,7,1,99,159.5,5
+2019-09-15,Kerala,Forest Fire,4,18,74,78.9,5
+2019-09-15,Madhya Pradesh,Heatwave,9,7,81,42.0,5
+2019-09-15,Maharashtra,Heatwave,9,2,0,196.2,5
+2019-09-15,Manipur,Cyclone,3,4,0,9.4,5
+2019-09-15,Meghalaya,Heatwave,4,22,113,92.0,5
+2019-09-15,Mizoram,Heatwave,6,5,68,163.1,5
+2019-09-15,Nagaland,Cyclone,5,13,79,112.4,5
+2019-09-15,Odisha,Forest Fire,8,9,79,101.4,5
+2019-09-15,Punjab,Earthquake,6,13,8,183.4,5
+2019-09-15,Rajasthan,Landslide,3,13,89,156.9,5
+2019-09-15,Sikkim,Heatwave,3,0,110,4.2,5
+2019-09-15,Tamil Nadu,Heatwave,3,6,108,152.8,5
+2019-09-15,Telangana,Drought,8,16,12,25.4,5
+2019-09-15,Tripura,Landslide,8,10,91,42.5,5
+2019-09-15,Uttar Pradesh,Heatwave,3,4,60,113.3,5
+2019-09-15,Uttarakhand,Landslide,4,0,11,52.1,5
+2019-09-15,West Bengal,Forest Fire,7,18,20,112.1,5
+2019-10-15,Andhra Pradesh,Forest Fire,3,26,0,255.8,2
+2019-10-15,Arunachal Pradesh,Flood,4,10,37,9.8,2
+2019-10-15,Assam,Landslide,6,5,89,23.2,2
+2019-10-15,Bihar,Landslide,9,6,78,31.5,2
+2019-10-15,Chhattisgarh,Cyclone,3,6,0,107.2,2
+2019-10-15,Goa,Landslide,4,11,37,165.7,2
+2019-10-15,Gujarat,Landslide,8,7,1,28.2,2
+2019-10-15,Haryana,Earthquake,6,22,27,139.9,2
+2019-10-15,Himachal Pradesh,Heatwave,4,11,45,391.6,2
+2019-10-15,Jharkhand,Landslide,5,3,16,129.0,2
+2019-10-15,Karnataka,Heatwave,8,5,73,15.0,2
+2019-10-15,Kerala,Drought,4,13,90,118.1,2
+2019-10-15,Madhya Pradesh,Landslide,5,1,55,186.9,2
+2019-10-15,Maharashtra,Forest Fire,9,0,40,108.3,2
+2019-10-15,Manipur,Flood,4,0,110,106.1,2
+2019-10-15,Meghalaya,Cyclone,4,12,0,20.9,2
+2019-10-15,Mizoram,Flood,3,16,24,128.2,2
+2019-10-15,Nagaland,Heatwave,5,23,58,126.4,2
+2019-10-15,Odisha,Earthquake,8,25,78,121.2,2
+2019-10-15,Punjab,Cyclone,8,20,80,7.3,2
+2019-10-15,Rajasthan,Heatwave,7,7,65,32.4,2
+2019-10-15,Sikkim,Earthquake,8,19,123,107.4,2
+2019-10-15,Tamil Nadu,Drought,4,4,53,153.3,2
+2019-10-15,Telangana,Flood,3,9,26,87.8,2
+2019-10-15,Tripura,Cyclone,3,1,55,10.3,2
+2019-10-15,Uttar Pradesh,Flood,7,8,10,328.3,2
+2019-10-15,Uttarakhand,Cyclone,8,28,53,54.7,2
+2019-10-15,West Bengal,Landslide,7,4,39,171.5,2
+2019-11-15,Andhra Pradesh,Landslide,6,0,78,350.8,6
+2019-11-15,Arunachal Pradesh,Cyclone,5,7,11,11.0,6
+2019-11-15,Assam,Forest Fire,6,20,0,37.2,6
+2019-11-15,Bihar,Forest Fire,8,9,68,143.5,6
+2019-11-15,Chhattisgarh,Heatwave,7,8,45,142.2,6
+2019-11-15,Goa,Earthquake,7,10,0,35.5,6
+2019-11-15,Gujarat,Flood,3,0,27,73.6,6
+2019-11-15,Haryana,Landslide,7,2,0,46.5,6
+2019-11-15,Himachal Pradesh,Cyclone,6,22,39,185.8,6
+2019-11-15,Jharkhand,Cyclone,8,18,0,138.4,6
+2019-11-15,Karnataka,Drought,9,15,88,117.2,6
+2019-11-15,Kerala,Forest Fire,8,6,25,25.7,6
+2019-11-15,Madhya Pradesh,Landslide,3,5,74,114.7,6
+2019-11-15,Maharashtra,Forest Fire,4,16,46,258.2,6
+2019-11-15,Manipur,Cyclone,9,12,167,103.8,6
+2019-11-15,Meghalaya,Drought,5,12,0,174.7,6
+2019-11-15,Mizoram,Earthquake,8,18,97,110.1,6
+2019-11-15,Nagaland,Cyclone,5,21,48,20.8,6
+2019-11-15,Odisha,Earthquake,3,15,29,35.0,6
+2019-11-15,Punjab,Heatwave,3,5,119,101.8,6
+2019-11-15,Rajasthan,Cyclone,6,13,22,155.1,6
+2019-11-15,Sikkim,Forest Fire,9,6,48,16.4,6
+2019-11-15,Tamil Nadu,Forest Fire,7,11,76,8.4,6
+2019-11-15,Telangana,Forest Fire,6,9,69,236.7,6
+2019-11-15,Tripura,Forest Fire,4,0,97,227.8,6
+2019-11-15,Uttar Pradesh,Flood,5,18,19,128.8,6
+2019-11-15,Uttarakhand,Cyclone,4,14,49,260.8,6
+2019-11-15,West Bengal,Drought,6,14,0,144.6,6
+2019-12-15,Andhra Pradesh,Cyclone,4,8,56,71.3,3
+2019-12-15,Arunachal Pradesh,Drought,7,5,83,31.2,3
+2019-12-15,Assam,Forest Fire,7,0,36,31.2,3
+2019-12-15,Bihar,Heatwave,4,0,121,107.7,3
+2019-12-15,Chhattisgarh,Flood,8,7,72,4.2,3
+2019-12-15,Goa,Heatwave,8,14,37,247.4,3
+2019-12-15,Gujarat,Earthquake,8,12,0,73.6,3
+2019-12-15,Haryana,Cyclone,6,0,92,47.6,3
+2019-12-15,Himachal Pradesh,Heatwave,8,2,92,13.8,3
+2019-12-15,Jharkhand,Drought,8,9,25,88.2,3
+2019-12-15,Karnataka,Flood,9,5,64,118.3,3
+2019-12-15,Kerala,Drought,5,0,14,48.5,3
+2019-12-15,Madhya Pradesh,Drought,5,0,3,137.8,3
+2019-12-15,Maharashtra,Landslide,8,26,75,58.6,3
+2019-12-15,Manipur,Earthquake,8,12,50,163.0,3
+2019-12-15,Meghalaya,Landslide,6,4,0,25.9,3
+2019-12-15,Mizoram,Landslide,6,4,43,29.1,3
+2019-12-15,Nagaland,Drought,5,17,0,180.7,3
+2019-12-15,Odisha,Heatwave,3,10,0,216.5,3
+2019-12-15,Punjab,Cyclone,4,9,70,104.2,3
+2019-12-15,Rajasthan,Cyclone,8,19,59,56.4,3
+2019-12-15,Sikkim,Heatwave,4,11,61,14.7,3
+2019-12-15,Tamil Nadu,Forest Fire,5,10,36,119.4,3
+2019-12-15,Telangana,Landslide,8,5,4,25.2,3
+2019-12-15,Tripura,Landslide,7,11,35,88.5,3
+2019-12-15,Uttar Pradesh,Flood,8,7,141,36.5,3
+2019-12-15,Uttarakhand,Landslide,3,26,91,142.4,3
+2019-12-15,West Bengal,Heatwave,3,15,86,134.6,3
+2020-01-15,Andhra Pradesh,Flood,5,0,63,161.7,2
+2020-01-15,Arunachal Pradesh,Drought,6,0,0,6.5,2
+2020-01-15,Assam,Landslide,3,0,0,137.1,2
+2020-01-15,Bihar,Cyclone,5,2,96,97.7,2
+2020-01-15,Chhattisgarh,Earthquake,3,0,27,234.4,2
+2020-01-15,Goa,Cyclone,7,2,87,131.9,2
+2020-01-15,Gujarat,Earthquake,7,14,69,164.0,2
+2020-01-15,Haryana,Forest Fire,9,26,5,158.5,2
+2020-01-15,Himachal Pradesh,Forest Fire,5,1,107,165.5,2
+2020-01-15,Jharkhand,Flood,7,12,79,9.6,2
+2020-01-15,Karnataka,Forest Fire,3,13,58,132.4,2
+2020-01-15,Kerala,Earthquake,5,2,62,56.1,2
+2020-01-15,Madhya Pradesh,Landslide,7,10,22,253.1,2
+2020-01-15,Maharashtra,Forest Fire,4,8,0,120.4,2
+2020-01-15,Manipur,Forest Fire,3,11,47,170.5,2
+2020-01-15,Meghalaya,Earthquake,8,0,79,130.6,2
+2020-01-15,Mizoram,Landslide,4,12,33,8.5,2
+2020-01-15,Nagaland,Cyclone,3,16,104,0.4,2
+2020-01-15,Odisha,Flood,4,21,47,54.1,2
+2020-01-15,Punjab,Cyclone,4,19,24,8.5,2
+2020-01-15,Rajasthan,Flood,4,15,154,3.0,2
+2020-01-15,Sikkim,Flood,5,0,64,248.0,2
+2020-01-15,Tamil Nadu,Heatwave,3,21,83,176.8,2
+2020-01-15,Telangana,Landslide,3,15,46,199.3,2
+2020-01-15,Tripura,Forest Fire,9,20,49,45.2,2
+2020-01-15,Uttar Pradesh,Landslide,7,15,35,58.4,2
+2020-01-15,Uttarakhand,Heatwave,5,12,56,85.5,2
+2020-01-15,West Bengal,Earthquake,3,18,108,100.4,2
+2020-02-15,Andhra Pradesh,Flood,6,3,43,109.5,5
+2020-02-15,Arunachal Pradesh,Drought,4,37,74,70.8,5
+2020-02-15,Assam,Drought,3,7,81,64.8,5
+2020-02-15,Bihar,Heatwave,6,9,39,7.5,5
+2020-02-15,Chhattisgarh,Forest Fire,6,17,99,125.7,5
+2020-02-15,Goa,Flood,6,14,70,107.4,5
+2020-02-15,Gujarat,Drought,6,14,29,7.7,5
+2020-02-15,Haryana,Heatwave,5,2,46,26.8,5
+2020-02-15,Himachal Pradesh,Forest Fire,5,3,85,23.2,5
+2020-02-15,Jharkhand,Flood,8,0,84,153.2,5
+2020-02-15,Karnataka,Earthquake,3,0,0,82.2,5
+2020-02-15,Kerala,Drought,5,10,0,137.5,5
+2020-02-15,Madhya Pradesh,Cyclone,6,10,0,55.0,5
+2020-02-15,Maharashtra,Drought,9,3,33,141.5,5
+2020-02-15,Manipur,Heatwave,4,5,0,31.8,5
+2020-02-15,Meghalaya,Flood,6,3,91,27.5,5
+2020-02-15,Mizoram,Landslide,4,14,102,298.9,5
+2020-02-15,Nagaland,Heatwave,3,5,0,60.9,5
+2020-02-15,Odisha,Drought,9,1,84,176.0,5
+2020-02-15,Punjab,Drought,3,17,81,197.0,5
+2020-02-15,Rajasthan,Flood,9,5,56,15.7,5
+2020-02-15,Sikkim,Forest Fire,7,0,33,202.6,5
+2020-02-15,Tamil Nadu,Forest Fire,8,0,86,111.1,5
+2020-02-15,Telangana,Landslide,3,5,70,166.1,5
+2020-02-15,Tripura,Cyclone,4,16,33,130.8,5
+2020-02-15,Uttar Pradesh,Landslide,3,1,136,108.5,5
+2020-02-15,Uttarakhand,Flood,9,15,59,50.8,5
+2020-02-15,West Bengal,Forest Fire,9,21,64,189.1,5
+2020-03-15,Andhra Pradesh,Cyclone,5,0,42,134.8,2
+2020-03-15,Arunachal Pradesh,Forest Fire,3,0,17,24.4,2
+2020-03-15,Assam,Forest Fire,8,12,120,113.1,2
+2020-03-15,Bihar,Drought,6,13,62,195.6,2
+2020-03-15,Chhattisgarh,Earthquake,6,9,92,302.1,2
+2020-03-15,Goa,Flood,9,8,27,151.4,2
+2020-03-15,Gujarat,Heatwave,9,4,4,91.0,2
+2020-03-15,Haryana,Landslide,5,0,13,194.4,2
+2020-03-15,Himachal Pradesh,Heatwave,9,12,58,58.1,2
+2020-03-15,Jharkhand,Drought,7,12,112,119.1,2
+2020-03-15,Karnataka,Drought,4,13,93,230.3,2
+2020-03-15,Kerala,Landslide,3,13,128,101.8,2
+2020-03-15,Madhya Pradesh,Flood,8,4,34,32.9,2
+2020-03-15,Maharashtra,Earthquake,8,2,10,72.9,2
+2020-03-15,Manipur,Heatwave,3,4,6,84.3,2
+2020-03-15,Meghalaya,Earthquake,9,5,0,164.3,2
+2020-03-15,Mizoram,Earthquake,4,1,26,201.8,2
+2020-03-15,Nagaland,Landslide,3,6,88,107.0,2
+2020-03-15,Odisha,Drought,3,0,0,10.4,2
+2020-03-15,Punjab,Landslide,9,4,0,78.0,2
+2020-03-15,Rajasthan,Flood,3,10,70,86.9,2
+2020-03-15,Sikkim,Earthquake,6,20,98,76.5,2
+2020-03-15,Tamil Nadu,Landslide,3,5,61,0.9,2
+2020-03-15,Telangana,Forest Fire,3,17,8,0.3,2
+2020-03-15,Tripura,Drought,3,13,0,52.6,2
+2020-03-15,Uttar Pradesh,Drought,8,13,33,50.9,2
+2020-03-15,Uttarakhand,Earthquake,9,12,87,93.2,2
+2020-03-15,West Bengal,Landslide,7,9,60,17.9,2
+2020-04-15,Andhra Pradesh,Forest Fire,6,8,50,128.7,3
+2020-04-15,Arunachal Pradesh,Earthquake,4,4,71,85.9,3
+2020-04-15,Assam,Cyclone,6,17,74,40.6,3
+2020-04-15,Bihar,Heatwave,5,13,122,97.1,3
+2020-04-15,Chhattisgarh,Heatwave,3,4,114,238.8,3
+2020-04-15,Goa,Flood,6,19,149,37.7,3
+2020-04-15,Gujarat,Flood,6,8,41,45.9,3
+2020-04-15,Haryana,Forest Fire,9,9,2,178.8,3
+2020-04-15,Himachal Pradesh,Flood,7,12,82,127.9,3
+2020-04-15,Jharkhand,Landslide,5,9,28,89.9,3
+2020-04-15,Karnataka,Forest Fire,7,12,103,169.1,3
+2020-04-15,Kerala,Earthquake,3,21,34,178.9,3
+2020-04-15,Madhya Pradesh,Forest Fire,4,12,72,89.6,3
+2020-04-15,Maharashtra,Earthquake,4,3,89,136.9,3
+2020-04-15,Manipur,Landslide,6,7,25,129.5,3
+2020-04-15,Meghalaya,Drought,5,0,16,24.2,3
+2020-04-15,Mizoram,Forest Fire,6,30,3,103.9,3
+2020-04-15,Nagaland,Drought,6,5,0,133.3,3
+2020-04-15,Odisha,Flood,8,21,85,157.1,3
+2020-04-15,Punjab,Earthquake,7,18,44,167.7,3
+2020-04-15,Rajasthan,Drought,7,17,25,195.4,3
+2020-04-15,Sikkim,Heatwave,8,9,82,70.5,3
+2020-04-15,Tamil Nadu,Cyclone,7,20,0,174.9,3
+2020-04-15,Telangana,Flood,6,8,25,117.9,3
+2020-04-15,Tripura,Cyclone,5,12,103,173.1,3
+2020-04-15,Uttar Pradesh,Forest Fire,7,0,52,31.1,3
+2020-04-15,Uttarakhand,Drought,5,17,118,163.4,3
+2020-04-15,West Bengal,Earthquake,3,1,117,37.6,3
+2020-05-15,Andhra Pradesh,Flood,3,8,13,132.2,4
+2020-05-15,Arunachal Pradesh,Landslide,7,5,94,18.1,4
+2020-05-15,Assam,Cyclone,4,14,0,115.9,4
+2020-05-15,Bihar,Cyclone,6,5,126,224.3,4
+2020-05-15,Chhattisgarh,Landslide,3,0,23,15.4,4
+2020-05-15,Goa,Forest Fire,5,6,60,20.0,4
+2020-05-15,Gujarat,Landslide,9,10,0,1.0,4
+2020-05-15,Haryana,Flood,6,18,67,158.5,4
+2020-05-15,Himachal Pradesh,Earthquake,3,4,40,178.6,4
+2020-05-15,Jharkhand,Forest Fire,3,3,43,260.3,4
+2020-05-15,Karnataka,Cyclone,9,8,42,66.3,4
+2020-05-15,Kerala,Heatwave,8,19,0,203.6,4
+2020-05-15,Madhya Pradesh,Heatwave,4,16,43,139.8,4
+2020-05-15,Maharashtra,Earthquake,3,21,66,17.0,4
+2020-05-15,Manipur,Forest Fire,7,15,22,105.9,4
+2020-05-15,Meghalaya,Drought,7,22,1,57.8,4
+2020-05-15,Mizoram,Landslide,6,6,24,115.4,4
+2020-05-15,Nagaland,Earthquake,4,21,88,122.2,4
+2020-05-15,Odisha,Drought,5,22,28,135.7,4
+2020-05-15,Punjab,Landslide,5,12,30,154.4,4
+2020-05-15,Rajasthan,Earthquake,8,3,51,149.1,4
+2020-05-15,Sikkim,Landslide,3,1,97,25.9,4
+2020-05-15,Tamil Nadu,Forest Fire,3,0,23,142.2,4
+2020-05-15,Telangana,Cyclone,5,20,10,187.0,4
+2020-05-15,Tripura,Flood,4,0,87,141.5,4
+2020-05-15,Uttar Pradesh,Drought,6,13,61,1.1,4
+2020-05-15,Uttarakhand,Flood,8,12,72,161.5,4
+2020-05-15,West Bengal,Earthquake,9,13,35,132.1,4
+2020-06-15,Andhra Pradesh,Cyclone,9,8,54,21.0,4
+2020-06-15,Arunachal Pradesh,Landslide,3,3,34,8.8,4
+2020-06-15,Assam,Earthquake,3,17,85,88.9,4
+2020-06-15,Bihar,Drought,4,11,0,11.8,4
+2020-06-15,Chhattisgarh,Earthquake,7,11,38,34.4,4
+2020-06-15,Goa,Forest Fire,9,6,24,131.5,4
+2020-06-15,Gujarat,Earthquake,6,4,13,176.0,4
+2020-06-15,Haryana,Landslide,9,21,25,342.7,4
+2020-06-15,Himachal Pradesh,Landslide,6,13,45,12.2,4
+2020-06-15,Jharkhand,Cyclone,5,17,44,86.5,4
+2020-06-15,Karnataka,Forest Fire,8,0,43,113.2,4
+2020-06-15,Kerala,Drought,9,5,30,115.4,4
+2020-06-15,Madhya Pradesh,Heatwave,8,7,0,23.8,4
+2020-06-15,Maharashtra,Landslide,5,19,29,29.3,4
+2020-06-15,Manipur,Cyclone,4,17,70,120.6,4
+2020-06-15,Meghalaya,Flood,8,6,129,189.1,4
+2020-06-15,Mizoram,Earthquake,4,17,87,92.4,4
+2020-06-15,Nagaland,Drought,8,23,27,113.8,4
+2020-06-15,Odisha,Landslide,8,22,58,10.3,4
+2020-06-15,Punjab,Heatwave,5,0,63,169.7,4
+2020-06-15,Rajasthan,Drought,5,2,57,145.4,4
+2020-06-15,Sikkim,Earthquake,3,10,45,143.9,4
+2020-06-15,Tamil Nadu,Forest Fire,8,17,3,133.2,4
+2020-06-15,Telangana,Heatwave,6,8,25,150.9,4
+2020-06-15,Tripura,Earthquake,3,10,45,145.3,4
+2020-06-15,Uttar Pradesh,Drought,4,0,0,165.5,4
+2020-06-15,Uttarakhand,Flood,3,0,23,149.8,4
+2020-06-15,West Bengal,Earthquake,6,14,48,84.3,4
+2020-07-15,Andhra Pradesh,Forest Fire,9,17,67,111.3,6
+2020-07-15,Arunachal Pradesh,Heatwave,8,0,37,185.0,6
+2020-07-15,Assam,Drought,3,6,85,133.2,6
+2020-07-15,Bihar,Heatwave,3,2,24,186.7,6
+2020-07-15,Chhattisgarh,Heatwave,9,7,50,10.0,6
+2020-07-15,Goa,Heatwave,9,10,54,230.0,6
+2020-07-15,Gujarat,Landslide,9,18,41,87.5,6
+2020-07-15,Haryana,Forest Fire,3,0,44,196.8,6
+2020-07-15,Himachal Pradesh,Forest Fire,5,10,50,55.5,6
+2020-07-15,Jharkhand,Cyclone,7,9,14,69.7,6
+2020-07-15,Karnataka,Forest Fire,9,1,104,81.2,6
+2020-07-15,Kerala,Forest Fire,3,12,79,3.7,6
+2020-07-15,Madhya Pradesh,Heatwave,8,7,111,137.0,6
+2020-07-15,Maharashtra,Drought,3,3,50,187.5,6
+2020-07-15,Manipur,Landslide,9,6,0,134.1,6
+2020-07-15,Meghalaya,Forest Fire,8,14,100,3.0,6
+2020-07-15,Mizoram,Drought,9,11,93,61.6,6
+2020-07-15,Nagaland,Landslide,3,0,72,110.0,6
+2020-07-15,Odisha,Landslide,7,18,46,61.5,6
+2020-07-15,Punjab,Drought,8,22,45,56.5,6
+2020-07-15,Rajasthan,Forest Fire,5,16,116,79.7,6
+2020-07-15,Sikkim,Forest Fire,9,6,0,109.7,6
+2020-07-15,Tamil Nadu,Cyclone,3,17,0,200.8,6
+2020-07-15,Telangana,Heatwave,9,12,68,25.0,6
+2020-07-15,Tripura,Heatwave,7,13,51,124.9,6
+2020-07-15,Uttar Pradesh,Forest Fire,7,10,126,211.8,6
+2020-07-15,Uttarakhand,Forest Fire,3,27,29,186.9,6
+2020-07-15,West Bengal,Heatwave,9,1,83,101.7,6
+2020-08-15,Andhra Pradesh,Drought,6,5,0,162.3,5
+2020-08-15,Arunachal Pradesh,Flood,5,17,4,212.1,5
+2020-08-15,Assam,Landslide,8,9,54,37.8,5
+2020-08-15,Bihar,Landslide,6,1,0,26.8,5
+2020-08-15,Chhattisgarh,Flood,4,10,26,152.1,5
+2020-08-15,Goa,Forest Fire,8,9,14,101.6,5
+2020-08-15,Gujarat,Forest Fire,8,3,59,84.2,5
+2020-08-15,Haryana,Drought,6,11,2,102.8,5
+2020-08-15,Himachal Pradesh,Landslide,9,7,38,70.3,5
+2020-08-15,Jharkhand,Landslide,3,1,48,19.2,5
+2020-08-15,Karnataka,Flood,3,5,29,51.4,5
+2020-08-15,Kerala,Flood,6,7,32,77.5,5
+2020-08-15,Madhya Pradesh,Drought,5,0,10,125.7,5
+2020-08-15,Maharashtra,Earthquake,4,12,106,39.4,5
+2020-08-15,Manipur,Earthquake,8,11,60,242.5,5
+2020-08-15,Meghalaya,Heatwave,5,14,52,188.9,5
+2020-08-15,Mizoram,Earthquake,7,23,53,57.2,5
+2020-08-15,Nagaland,Heatwave,4,19,6,40.9,5
+2020-08-15,Odisha,Earthquake,4,24,74,182.6,5
+2020-08-15,Punjab,Earthquake,3,1,0,84.7,5
+2020-08-15,Rajasthan,Drought,3,7,63,107.9,5
+2020-08-15,Sikkim,Flood,7,5,95,71.8,5
+2020-08-15,Tamil Nadu,Landslide,6,3,67,79.1,5
+2020-08-15,Telangana,Heatwave,6,9,119,111.6,5
+2020-08-15,Tripura,Drought,9,21,26,137.4,5
+2020-08-15,Uttar Pradesh,Forest Fire,6,15,18,37.6,5
+2020-08-15,Uttarakhand,Landslide,3,1,53,116.3,5
+2020-08-15,West Bengal,Forest Fire,5,5,63,143.9,5
+2020-09-15,Andhra Pradesh,Flood,6,8,12,226.3,8
+2020-09-15,Arunachal Pradesh,Forest Fire,8,24,12,140.6,8
+2020-09-15,Assam,Heatwave,6,3,75,79.1,8
+2020-09-15,Bihar,Forest Fire,4,28,21,149.1,8
+2020-09-15,Chhattisgarh,Flood,6,6,12,4.8,8
+2020-09-15,Goa,Heatwave,6,7,29,126.9,8
+2020-09-15,Gujarat,Landslide,3,18,71,209.6,8
+2020-09-15,Haryana,Heatwave,5,16,102,40.1,8
+2020-09-15,Himachal Pradesh,Landslide,3,9,77,185.2,8
+2020-09-15,Jharkhand,Heatwave,7,8,63,39.0,8
+2020-09-15,Karnataka,Forest Fire,8,16,13,215.0,8
+2020-09-15,Kerala,Earthquake,9,12,52,37.0,8
+2020-09-15,Madhya Pradesh,Cyclone,7,0,95,197.4,8
+2020-09-15,Maharashtra,Heatwave,3,12,26,238.6,8
+2020-09-15,Manipur,Heatwave,8,1,52,159.0,8
+2020-09-15,Meghalaya,Cyclone,4,23,111,127.2,8
+2020-09-15,Mizoram,Heatwave,6,0,30,149.0,8
+2020-09-15,Nagaland,Drought,8,12,114,62.5,8
+2020-09-15,Odisha,Drought,4,9,43,107.4,8
+2020-09-15,Punjab,Cyclone,7,7,48,54.6,8
+2020-09-15,Rajasthan,Earthquake,9,10,20,29.6,8
+2020-09-15,Sikkim,Drought,3,24,91,148.5,8
+2020-09-15,Tamil Nadu,Drought,5,25,16,25.5,8
+2020-09-15,Telangana,Forest Fire,4,3,119,214.2,8
+2020-09-15,Tripura,Forest Fire,4,11,0,53.2,8
+2020-09-15,Uttar Pradesh,Forest Fire,8,9,27,199.0,8
+2020-09-15,Uttarakhand,Landslide,8,21,31,115.1,8
+2020-09-15,West Bengal,Drought,8,11,43,110.9,8
+2020-10-15,Andhra Pradesh,Cyclone,5,12,66,71.8,6
+2020-10-15,Arunachal Pradesh,Drought,5,9,73,14.5,6
+2020-10-15,Assam,Cyclone,4,0,0,5.3,6
+2020-10-15,Bihar,Flood,6,10,54,117.7,6
+2020-10-15,Chhattisgarh,Flood,4,0,91,99.2,6
+2020-10-15,Goa,Heatwave,9,10,51,152.3,6
+2020-10-15,Gujarat,Landslide,5,9,67,135.3,6
+2020-10-15,Haryana,Heatwave,7,0,122,117.8,6
+2020-10-15,Himachal Pradesh,Flood,4,3,134,40.3,6
+2020-10-15,Jharkhand,Flood,6,16,0,49.8,6
+2020-10-15,Karnataka,Forest Fire,3,13,122,252.3,6
+2020-10-15,Kerala,Flood,6,0,61,177.4,6
+2020-10-15,Madhya Pradesh,Forest Fire,3,10,26,53.3,6
+2020-10-15,Maharashtra,Cyclone,7,7,66,143.1,6
+2020-10-15,Manipur,Cyclone,9,9,50,83.4,6
+2020-10-15,Meghalaya,Drought,6,8,20,21.2,6
+2020-10-15,Mizoram,Drought,8,21,63,10.2,6
+2020-10-15,Nagaland,Flood,8,31,12,320.0,6
+2020-10-15,Odisha,Heatwave,5,23,12,137.1,6
+2020-10-15,Punjab,Landslide,9,0,50,113.6,6
+2020-10-15,Rajasthan,Heatwave,8,19,113,151.4,6
+2020-10-15,Sikkim,Cyclone,3,11,0,106.4,6
+2020-10-15,Tamil Nadu,Landslide,3,12,18,109.3,6
+2020-10-15,Telangana,Flood,5,13,0,224.2,6
+2020-10-15,Tripura,Earthquake,5,4,104,67.5,6
+2020-10-15,Uttar Pradesh,Landslide,5,15,121,50.1,6
+2020-10-15,Uttarakhand,Earthquake,5,14,19,96.9,6
+2020-10-15,West Bengal,Heatwave,8,16,79,74.3,6
+2020-11-15,Andhra Pradesh,Flood,5,14,55,65.1,5
+2020-11-15,Arunachal Pradesh,Landslide,8,9,84,99.6,5
+2020-11-15,Assam,Flood,5,11,73,72.8,5
+2020-11-15,Bihar,Earthquake,4,10,40,69.1,5
+2020-11-15,Chhattisgarh,Drought,4,9,23,25.7,5
+2020-11-15,Goa,Drought,6,15,99,73.3,5
+2020-11-15,Gujarat,Flood,7,1,91,20.4,5
+2020-11-15,Haryana,Heatwave,4,5,53,99.3,5
+2020-11-15,Himachal Pradesh,Landslide,9,10,60,18.7,5
+2020-11-15,Jharkhand,Flood,3,2,50,19.8,5
+2020-11-15,Karnataka,Landslide,7,21,76,180.5,5
+2020-11-15,Kerala,Drought,3,13,17,76.2,5
+2020-11-15,Madhya Pradesh,Flood,3,9,35,80.9,5
+2020-11-15,Maharashtra,Cyclone,9,4,11,82.6,5
+2020-11-15,Manipur,Earthquake,9,15,30,96.9,5
+2020-11-15,Meghalaya,Heatwave,6,24,11,243.5,5
+2020-11-15,Mizoram,Cyclone,4,3,42,39.5,5
+2020-11-15,Nagaland,Landslide,5,16,24,94.0,5
+2020-11-15,Odisha,Forest Fire,4,6,53,103.4,5
+2020-11-15,Punjab,Drought,5,0,51,121.7,5
+2020-11-15,Rajasthan,Forest Fire,6,8,64,46.8,5
+2020-11-15,Sikkim,Earthquake,6,5,78,117.6,5
+2020-11-15,Tamil Nadu,Cyclone,7,2,74,151.8,5
+2020-11-15,Telangana,Flood,6,10,69,66.5,5
+2020-11-15,Tripura,Cyclone,3,0,50,139.0,5
+2020-11-15,Uttar Pradesh,Landslide,7,3,86,40.6,5
+2020-11-15,Uttarakhand,Earthquake,4,7,67,1.7,5
+2020-11-15,West Bengal,Drought,4,16,87,115.7,5
+2020-12-15,Andhra Pradesh,Heatwave,7,6,88,166.1,6
+2020-12-15,Arunachal Pradesh,Drought,8,19,91,117.0,6
+2020-12-15,Assam,Landslide,9,21,64,229.5,6
+2020-12-15,Bihar,Flood,3,23,37,71.6,6
+2020-12-15,Chhattisgarh,Landslide,3,3,31,129.9,6
+2020-12-15,Goa,Landslide,8,10,71,93.8,6
+2020-12-15,Gujarat,Cyclone,8,0,0,31.0,6
+2020-12-15,Haryana,Drought,7,0,0,0.6,6
+2020-12-15,Himachal Pradesh,Heatwave,4,0,54,93.9,6
+2020-12-15,Jharkhand,Earthquake,4,1,0,40.4,6
+2020-12-15,Karnataka,Flood,4,7,82,2.4,6
+2020-12-15,Kerala,Heatwave,4,17,50,267.5,6
+2020-12-15,Madhya Pradesh,Drought,4,13,0,136.8,6
+2020-12-15,Maharashtra,Forest Fire,4,16,37,3.8,6
+2020-12-15,Manipur,Drought,4,11,46,182.5,6
+2020-12-15,Meghalaya,Forest Fire,5,12,55,173.4,6
+2020-12-15,Mizoram,Landslide,6,14,63,25.7,6
+2020-12-15,Nagaland,Cyclone,7,0,56,80.1,6
+2020-12-15,Odisha,Drought,8,3,51,99.6,6
+2020-12-15,Punjab,Drought,4,0,56,146.8,6
+2020-12-15,Rajasthan,Landslide,7,16,7,251.8,6
+2020-12-15,Sikkim,Earthquake,6,4,81,57.7,6
+2020-12-15,Tamil Nadu,Cyclone,7,0,0,31.4,6
+2020-12-15,Telangana,Flood,6,0,24,74.2,6
+2020-12-15,Tripura,Heatwave,9,13,0,210.3,6
+2020-12-15,Uttar Pradesh,Forest Fire,4,0,22,73.9,6
+2020-12-15,Uttarakhand,Flood,6,13,21,62.2,6
+2020-12-15,West Bengal,Flood,7,7,15,98.2,6
+2021-01-15,Andhra Pradesh,Forest Fire,5,14,22,256.3,8
+2021-01-15,Arunachal Pradesh,Forest Fire,6,13,62,72.2,8
+2021-01-15,Assam,Earthquake,9,7,72,104.2,8
+2021-01-15,Bihar,Heatwave,5,23,79,54.9,8
+2021-01-15,Chhattisgarh,Cyclone,6,5,76,187.7,8
+2021-01-15,Goa,Flood,9,10,71,184.4,8
+2021-01-15,Gujarat,Drought,5,7,0,109.6,8
+2021-01-15,Haryana,Forest Fire,6,19,43,108.4,8
+2021-01-15,Himachal Pradesh,Drought,9,12,46,140.0,8
+2021-01-15,Jharkhand,Forest Fire,4,22,4,66.7,8
+2021-01-15,Karnataka,Cyclone,3,17,24,53.0,8
+2021-01-15,Kerala,Earthquake,7,19,117,177.7,8
+2021-01-15,Madhya Pradesh,Cyclone,5,15,57,152.8,8
+2021-01-15,Maharashtra,Heatwave,3,7,16,161.3,8
+2021-01-15,Manipur,Landslide,9,13,23,216.8,8
+2021-01-15,Meghalaya,Forest Fire,7,8,145,100.4,8
+2021-01-15,Mizoram,Drought,9,6,65,26.4,8
+2021-01-15,Nagaland,Cyclone,4,2,73,131.5,8
+2021-01-15,Odisha,Drought,4,21,0,82.5,8
+2021-01-15,Punjab,Flood,5,16,18,31.3,8
+2021-01-15,Rajasthan,Earthquake,6,6,79,136.1,8
+2021-01-15,Sikkim,Landslide,5,0,60,119.8,8
+2021-01-15,Tamil Nadu,Forest Fire,6,34,79,110.3,8
+2021-01-15,Telangana,Forest Fire,3,0,20,252.2,8
+2021-01-15,Tripura,Earthquake,5,2,74,34.9,8
+2021-01-15,Uttar Pradesh,Cyclone,8,6,46,91.5,8
+2021-01-15,Uttarakhand,Heatwave,9,17,43,101.5,8
+2021-01-15,West Bengal,Drought,3,22,92,70.3,8
+2021-02-15,Andhra Pradesh,Drought,9,14,42,215.3,5
+2021-02-15,Arunachal Pradesh,Flood,7,6,117,79.0,5
+2021-02-15,Assam,Drought,7,13,46,253.2,5
+2021-02-15,Bihar,Cyclone,3,17,52,30.5,5
+2021-02-15,Chhattisgarh,Earthquake,7,7,56,29.8,5
+2021-02-15,Goa,Heatwave,7,12,23,0.9,5
+2021-02-15,Gujarat,Forest Fire,7,11,42,23.4,5
+2021-02-15,Haryana,Earthquake,8,4,17,105.9,5
+2021-02-15,Himachal Pradesh,Landslide,9,22,81,48.2,5
+2021-02-15,Jharkhand,Heatwave,7,10,57,44.0,5
+2021-02-15,Karnataka,Drought,7,9,42,211.0,5
+2021-02-15,Kerala,Forest Fire,6,4,44,114.5,5
+2021-02-15,Madhya Pradesh,Landslide,6,24,52,130.9,5
+2021-02-15,Maharashtra,Drought,8,6,55,113.6,5
+2021-02-15,Manipur,Heatwave,7,11,67,257.8,5
+2021-02-15,Meghalaya,Landslide,8,10,56,22.9,5
+2021-02-15,Mizoram,Landslide,7,6,52,218.8,5
+2021-02-15,Nagaland,Earthquake,4,0,124,19.5,5
+2021-02-15,Odisha,Heatwave,5,0,67,173.8,5
+2021-02-15,Punjab,Flood,9,7,56,229.5,5
+2021-02-15,Rajasthan,Earthquake,4,6,3,114.2,5
+2021-02-15,Sikkim,Drought,3,11,43,86.9,5
+2021-02-15,Tamil Nadu,Forest Fire,4,0,111,77.8,5
+2021-02-15,Telangana,Landslide,9,15,11,25.8,5
+2021-02-15,Tripura,Cyclone,9,7,28,73.1,5
+2021-02-15,Uttar Pradesh,Forest Fire,4,27,53,27.6,5
+2021-02-15,Uttarakhand,Earthquake,9,8,49,163.4,5
+2021-02-15,West Bengal,Earthquake,4,2,0,120.4,5
+2021-03-15,Andhra Pradesh,Heatwave,8,13,96,63.6,6
+2021-03-15,Arunachal Pradesh,Drought,3,11,56,136.5,6
+2021-03-15,Assam,Landslide,8,17,0,12.2,6
+2021-03-15,Bihar,Landslide,9,0,40,117.7,6
+2021-03-15,Chhattisgarh,Forest Fire,5,7,59,76.9,6
+2021-03-15,Goa,Forest Fire,7,8,89,104.0,6
+2021-03-15,Gujarat,Flood,7,18,47,68.5,6
+2021-03-15,Haryana,Heatwave,4,6,76,291.2,6
+2021-03-15,Himachal Pradesh,Cyclone,8,3,52,40.5,6
+2021-03-15,Jharkhand,Forest Fire,8,0,86,169.1,6
+2021-03-15,Karnataka,Drought,7,9,22,209.2,6
+2021-03-15,Kerala,Heatwave,7,21,70,48.7,6
+2021-03-15,Madhya Pradesh,Landslide,5,4,60,224.9,6
+2021-03-15,Maharashtra,Earthquake,6,0,8,76.4,6
+2021-03-15,Manipur,Heatwave,6,5,33,217.5,6
+2021-03-15,Meghalaya,Earthquake,9,16,29,22.4,6
+2021-03-15,Mizoram,Forest Fire,4,4,18,110.3,6
+2021-03-15,Nagaland,Forest Fire,7,8,80,82.5,6
+2021-03-15,Odisha,Drought,6,20,57,131.8,6
+2021-03-15,Punjab,Heatwave,7,11,35,226.9,6
+2021-03-15,Rajasthan,Flood,7,17,30,38.7,6
+2021-03-15,Sikkim,Earthquake,9,14,32,161.2,6
+2021-03-15,Tamil Nadu,Earthquake,3,11,0,146.1,6
+2021-03-15,Telangana,Heatwave,8,9,109,36.8,6
+2021-03-15,Tripura,Forest Fire,9,8,47,129.8,6
+2021-03-15,Uttar Pradesh,Forest Fire,8,12,91,56.1,6
+2021-03-15,Uttarakhand,Drought,5,19,36,96.5,6
+2021-03-15,West Bengal,Drought,5,7,51,133.7,6
+2021-04-15,Andhra Pradesh,Earthquake,8,26,101,231.3,4
+2021-04-15,Arunachal Pradesh,Landslide,3,22,57,144.4,4
+2021-04-15,Assam,Earthquake,7,4,83,206.8,4
+2021-04-15,Bihar,Heatwave,5,20,28,48.8,4
+2021-04-15,Chhattisgarh,Flood,4,13,22,79.9,4
+2021-04-15,Goa,Drought,3,11,46,41.5,4
+2021-04-15,Gujarat,Forest Fire,5,16,0,267.1,4
+2021-04-15,Haryana,Cyclone,8,4,96,191.5,4
+2021-04-15,Himachal Pradesh,Drought,5,2,61,61.9,4
+2021-04-15,Jharkhand,Cyclone,6,12,87,204.4,4
+2021-04-15,Karnataka,Landslide,6,20,31,93.2,4
+2021-04-15,Kerala,Flood,4,7,43,171.9,4
+2021-04-15,Madhya Pradesh,Forest Fire,6,5,44,46.8,4
+2021-04-15,Maharashtra,Earthquake,8,29,11,210.7,4
+2021-04-15,Manipur,Heatwave,5,13,66,62.9,4
+2021-04-15,Meghalaya,Earthquake,8,5,84,89.3,4
+2021-04-15,Mizoram,Landslide,7,7,0,130.5,4
+2021-04-15,Nagaland,Cyclone,9,19,0,155.3,4
+2021-04-15,Odisha,Drought,3,11,56,105.4,4
+2021-04-15,Punjab,Heatwave,4,17,47,4.3,4
+2021-04-15,Rajasthan,Flood,7,14,61,72.2,4
+2021-04-15,Sikkim,Landslide,9,9,53,19.8,4
+2021-04-15,Tamil Nadu,Flood,7,23,52,75.9,4
+2021-04-15,Telangana,Flood,3,0,53,190.2,4
+2021-04-15,Tripura,Flood,3,12,20,6.7,4
+2021-04-15,Uttar Pradesh,Earthquake,6,21,6,60.1,4
+2021-04-15,Uttarakhand,Landslide,6,19,0,88.5,4
+2021-04-15,West Bengal,Cyclone,3,1,0,231.4,4
+2021-05-15,Andhra Pradesh,Earthquake,7,20,16,135.8,7
+2021-05-15,Arunachal Pradesh,Forest Fire,6,6,32,114.7,7
+2021-05-15,Assam,Flood,5,7,89,24.3,7
+2021-05-15,Bihar,Heatwave,7,12,99,125.4,7
+2021-05-15,Chhattisgarh,Heatwave,6,6,46,231.7,7
+2021-05-15,Goa,Heatwave,5,13,37,33.9,7
+2021-05-15,Gujarat,Drought,6,9,0,94.2,7
+2021-05-15,Haryana,Landslide,3,15,50,51.2,7
+2021-05-15,Himachal Pradesh,Heatwave,9,0,73,51.3,7
+2021-05-15,Jharkhand,Landslide,7,0,92,170.5,7
+2021-05-15,Karnataka,Cyclone,5,10,0,294.2,7
+2021-05-15,Kerala,Heatwave,5,5,80,80.9,7
+2021-05-15,Madhya Pradesh,Forest Fire,4,3,79,44.1,7
+2021-05-15,Maharashtra,Landslide,9,0,42,130.4,7
+2021-05-15,Manipur,Cyclone,4,11,83,195.4,7
+2021-05-15,Meghalaya,Landslide,3,0,14,28.8,7
+2021-05-15,Mizoram,Earthquake,6,19,19,113.8,7
+2021-05-15,Nagaland,Flood,5,10,49,25.0,7
+2021-05-15,Odisha,Forest Fire,4,6,49,111.4,7
+2021-05-15,Punjab,Earthquake,8,3,86,107.3,7
+2021-05-15,Rajasthan,Landslide,5,31,64,148.7,7
+2021-05-15,Sikkim,Flood,7,7,60,115.0,7
+2021-05-15,Tamil Nadu,Earthquake,5,5,76,116.8,7
+2021-05-15,Telangana,Forest Fire,3,17,36,137.5,7
+2021-05-15,Tripura,Drought,8,20,68,105.9,7
+2021-05-15,Uttar Pradesh,Forest Fire,6,14,0,103.6,7
+2021-05-15,Uttarakhand,Flood,6,0,73,174.2,7
+2021-05-15,West Bengal,Drought,6,22,70,140.4,7
+2021-06-15,Andhra Pradesh,Cyclone,8,14,119,220.4,4
+2021-06-15,Arunachal Pradesh,Forest Fire,6,1,87,22.5,4
+2021-06-15,Assam,Drought,3,6,67,149.1,4
+2021-06-15,Bihar,Heatwave,4,15,57,77.1,4
+2021-06-15,Chhattisgarh,Landslide,9,2,8,81.0,4
+2021-06-15,Goa,Earthquake,4,0,111,148.0,4
+2021-06-15,Gujarat,Forest Fire,3,22,63,149.2,4
+2021-06-15,Haryana,Flood,4,6,72,89.3,4
+2021-06-15,Himachal Pradesh,Landslide,9,16,87,128.9,4
+2021-06-15,Jharkhand,Landslide,7,11,82,43.3,4
+2021-06-15,Karnataka,Heatwave,3,11,83,79.6,4
+2021-06-15,Kerala,Earthquake,9,19,44,16.8,4
+2021-06-15,Madhya Pradesh,Cyclone,6,15,8,22.5,4
+2021-06-15,Maharashtra,Landslide,5,26,16,24.8,4
+2021-06-15,Manipur,Heatwave,9,6,24,108.4,4
+2021-06-15,Meghalaya,Forest Fire,9,16,44,15.4,4
+2021-06-15,Mizoram,Cyclone,5,2,50,4.1,4
+2021-06-15,Nagaland,Flood,9,3,13,139.7,4
+2021-06-15,Odisha,Flood,5,11,49,193.4,4
+2021-06-15,Punjab,Landslide,7,23,60,5.3,4
+2021-06-15,Rajasthan,Earthquake,8,17,33,36.4,4
+2021-06-15,Sikkim,Drought,7,0,75,25.7,4
+2021-06-15,Tamil Nadu,Flood,9,9,46,191.8,4
+2021-06-15,Telangana,Earthquake,7,0,56,72.7,4
+2021-06-15,Tripura,Cyclone,5,12,0,85.9,4
+2021-06-15,Uttar Pradesh,Cyclone,7,4,46,155.9,4
+2021-06-15,Uttarakhand,Landslide,8,3,89,136.4,4
+2021-06-15,West Bengal,Flood,9,23,4,59.6,4
+2021-07-15,Andhra Pradesh,Cyclone,8,15,106,17.1,5
+2021-07-15,Arunachal Pradesh,Drought,7,0,70,169.0,5
+2021-07-15,Assam,Earthquake,9,1,1,173.5,5
+2021-07-15,Bihar,Flood,5,4,16,85.3,5
+2021-07-15,Chhattisgarh,Landslide,3,12,15,171.8,5
+2021-07-15,Goa,Flood,3,6,30,48.0,5
+2021-07-15,Gujarat,Cyclone,6,8,21,6.2,5
+2021-07-15,Haryana,Heatwave,9,17,56,15.8,5
+2021-07-15,Himachal Pradesh,Earthquake,5,11,49,100.9,5
+2021-07-15,Jharkhand,Earthquake,8,23,54,138.9,5
+2021-07-15,Karnataka,Cyclone,7,1,32,81.2,5
+2021-07-15,Kerala,Forest Fire,8,12,67,97.2,5
+2021-07-15,Madhya Pradesh,Earthquake,7,15,108,87.4,5
+2021-07-15,Maharashtra,Landslide,8,3,111,84.9,5
+2021-07-15,Manipur,Flood,6,20,86,18.1,5
+2021-07-15,Meghalaya,Flood,3,4,66,54.0,5
+2021-07-15,Mizoram,Flood,7,13,52,58.5,5
+2021-07-15,Nagaland,Flood,6,7,41,6.3,5
+2021-07-15,Odisha,Landslide,7,13,34,110.7,5
+2021-07-15,Punjab,Cyclone,3,9,19,105.3,5
+2021-07-15,Rajasthan,Landslide,6,15,0,188.1,5
+2021-07-15,Sikkim,Drought,8,7,79,152.5,5
+2021-07-15,Tamil Nadu,Earthquake,8,11,68,263.4,5
+2021-07-15,Telangana,Earthquake,4,4,12,48.3,5
+2021-07-15,Tripura,Heatwave,7,18,20,34.1,5
+2021-07-15,Uttar Pradesh,Cyclone,9,6,0,2.6,5
+2021-07-15,Uttarakhand,Forest Fire,6,16,48,222.0,5
+2021-07-15,West Bengal,Drought,8,0,0,68.9,5
+2021-08-15,Andhra Pradesh,Flood,9,24,59,31.8,6
+2021-08-15,Arunachal Pradesh,Drought,5,25,59,12.0,6
+2021-08-15,Assam,Landslide,9,14,5,169.3,6
+2021-08-15,Bihar,Flood,7,5,78,3.6,6
+2021-08-15,Chhattisgarh,Drought,5,0,18,193.4,6
+2021-08-15,Goa,Earthquake,5,7,0,135.9,6
+2021-08-15,Gujarat,Cyclone,7,10,54,215.7,6
+2021-08-15,Haryana,Earthquake,4,6,57,192.2,6
+2021-08-15,Himachal Pradesh,Flood,3,18,60,59.3,6
+2021-08-15,Jharkhand,Earthquake,6,14,33,224.8,6
+2021-08-15,Karnataka,Cyclone,3,0,66,281.8,6
+2021-08-15,Kerala,Drought,8,14,67,149.1,6
+2021-08-15,Madhya Pradesh,Cyclone,3,5,103,143.3,6
+2021-08-15,Maharashtra,Flood,3,5,120,47.2,6
+2021-08-15,Manipur,Landslide,6,10,50,5.5,6
+2021-08-15,Meghalaya,Earthquake,6,0,35,176.2,6
+2021-08-15,Mizoram,Landslide,6,21,0,97.8,6
+2021-08-15,Nagaland,Heatwave,3,23,50,68.4,6
+2021-08-15,Odisha,Drought,3,9,36,34.0,6
+2021-08-15,Punjab,Heatwave,8,2,81,62.2,6
+2021-08-15,Rajasthan,Heatwave,3,8,64,185.1,6
+2021-08-15,Sikkim,Cyclone,5,15,38,53.5,6
+2021-08-15,Tamil Nadu,Landslide,7,0,34,204.7,6
+2021-08-15,Telangana,Drought,5,14,93,13.3,6
+2021-08-15,Tripura,Forest Fire,5,18,106,11.4,6
+2021-08-15,Uttar Pradesh,Heatwave,7,17,74,44.5,6
+2021-08-15,Uttarakhand,Drought,9,6,20,70.8,6
+2021-08-15,West Bengal,Drought,8,15,106,198.9,6
+2021-09-15,Andhra Pradesh,Forest Fire,5,0,75,68.4,2
+2021-09-15,Arunachal Pradesh,Drought,3,1,91,172.5,2
+2021-09-15,Assam,Flood,4,14,90,100.4,2
+2021-09-15,Bihar,Landslide,6,3,105,38.2,2
+2021-09-15,Chhattisgarh,Landslide,9,10,0,200.1,2
+2021-09-15,Goa,Heatwave,8,15,39,120.0,2
+2021-09-15,Gujarat,Flood,5,19,52,220.0,2
+2021-09-15,Haryana,Earthquake,3,18,45,99.4,2
+2021-09-15,Himachal Pradesh,Flood,4,11,109,210.6,2
+2021-09-15,Jharkhand,Cyclone,6,17,102,19.0,2
+2021-09-15,Karnataka,Cyclone,3,5,53,52.7,2
+2021-09-15,Kerala,Forest Fire,7,12,44,149.9,2
+2021-09-15,Madhya Pradesh,Drought,4,21,80,164.2,2
+2021-09-15,Maharashtra,Flood,8,11,0,112.6,2
+2021-09-15,Manipur,Landslide,7,16,59,17.5,2
+2021-09-15,Meghalaya,Cyclone,6,3,64,46.4,2
+2021-09-15,Mizoram,Earthquake,3,13,33,43.3,2
+2021-09-15,Nagaland,Cyclone,6,7,83,105.0,2
+2021-09-15,Odisha,Drought,4,15,92,176.2,2
+2021-09-15,Punjab,Drought,6,14,78,20.9,2
+2021-09-15,Rajasthan,Forest Fire,5,18,8,66.5,2
+2021-09-15,Sikkim,Forest Fire,3,11,68,226.9,2
+2021-09-15,Tamil Nadu,Landslide,3,0,41,193.9,2
+2021-09-15,Telangana,Drought,9,9,89,68.8,2
+2021-09-15,Tripura,Landslide,3,3,39,73.5,2
+2021-09-15,Uttar Pradesh,Cyclone,6,13,24,10.6,2
+2021-09-15,Uttarakhand,Drought,3,9,44,71.7,2
+2021-09-15,West Bengal,Forest Fire,5,16,69,112.0,2
+2021-10-15,Andhra Pradesh,Landslide,9,12,113,3.1,6
+2021-10-15,Arunachal Pradesh,Earthquake,4,6,165,226.4,6
+2021-10-15,Assam,Landslide,8,6,87,77.8,6
+2021-10-15,Bihar,Drought,3,0,55,183.2,6
+2021-10-15,Chhattisgarh,Flood,7,3,68,196.7,6
+2021-10-15,Goa,Landslide,4,0,40,85.6,6
+2021-10-15,Gujarat,Landslide,7,7,0,233.6,6
+2021-10-15,Haryana,Earthquake,3,16,110,62.1,6
+2021-10-15,Himachal Pradesh,Heatwave,4,9,113,65.2,6
+2021-10-15,Jharkhand,Earthquake,3,18,96,138.2,6
+2021-10-15,Karnataka,Heatwave,6,4,36,69.8,6
+2021-10-15,Kerala,Landslide,3,9,22,103.2,6
+2021-10-15,Madhya Pradesh,Forest Fire,4,14,65,75.6,6
+2021-10-15,Maharashtra,Earthquake,3,0,66,166.1,6
+2021-10-15,Manipur,Forest Fire,6,6,26,75.7,6
+2021-10-15,Meghalaya,Forest Fire,6,17,78,159.3,6
+2021-10-15,Mizoram,Heatwave,3,13,23,0.4,6
+2021-10-15,Nagaland,Landslide,8,16,18,86.0,6
+2021-10-15,Odisha,Heatwave,4,21,44,168.1,6
+2021-10-15,Punjab,Landslide,4,4,98,118.7,6
+2021-10-15,Rajasthan,Landslide,4,24,27,13.4,6
+2021-10-15,Sikkim,Flood,5,1,0,108.7,6
+2021-10-15,Tamil Nadu,Heatwave,4,14,111,157.8,6
+2021-10-15,Telangana,Earthquake,4,0,94,60.2,6
+2021-10-15,Tripura,Cyclone,4,0,97,163.5,6
+2021-10-15,Uttar Pradesh,Drought,8,20,84,141.9,6
+2021-10-15,Uttarakhand,Drought,5,4,23,109.9,6
+2021-10-15,West Bengal,Drought,8,6,0,119.5,6
+2021-11-15,Andhra Pradesh,Drought,8,10,0,117.3,3
+2021-11-15,Arunachal Pradesh,Flood,6,5,83,63.8,3
+2021-11-15,Assam,Flood,6,24,32,45.3,3
+2021-11-15,Bihar,Cyclone,9,10,43,7.4,3
+2021-11-15,Chhattisgarh,Heatwave,7,3,132,260.6,3
+2021-11-15,Goa,Heatwave,5,6,12,30.9,3
+2021-11-15,Gujarat,Heatwave,4,0,62,61.2,3
+2021-11-15,Haryana,Cyclone,6,11,0,90.6,3
+2021-11-15,Himachal Pradesh,Earthquake,9,11,0,196.1,3
+2021-11-15,Jharkhand,Landslide,6,17,38,99.9,3
+2021-11-15,Karnataka,Drought,6,22,17,133.4,3
+2021-11-15,Kerala,Forest Fire,9,1,95,186.7,3
+2021-11-15,Madhya Pradesh,Flood,8,15,0,38.8,3
+2021-11-15,Maharashtra,Cyclone,6,4,0,146.7,3
+2021-11-15,Manipur,Flood,3,5,76,136.6,3
+2021-11-15,Meghalaya,Forest Fire,3,6,0,181.9,3
+2021-11-15,Mizoram,Flood,4,19,34,292.5,3
+2021-11-15,Nagaland,Heatwave,7,16,50,201.5,3
+2021-11-15,Odisha,Landslide,9,21,55,170.1,3
+2021-11-15,Punjab,Heatwave,7,18,68,32.2,3
+2021-11-15,Rajasthan,Earthquake,7,10,31,126.0,3
+2021-11-15,Sikkim,Heatwave,8,5,32,25.0,3
+2021-11-15,Tamil Nadu,Forest Fire,9,18,101,225.7,3
+2021-11-15,Telangana,Heatwave,8,13,36,4.2,3
+2021-11-15,Tripura,Forest Fire,9,7,47,77.1,3
+2021-11-15,Uttar Pradesh,Earthquake,3,15,131,121.5,3
+2021-11-15,Uttarakhand,Earthquake,5,22,19,68.1,3
+2021-11-15,West Bengal,Flood,4,0,25,38.7,3
+2021-12-15,Andhra Pradesh,Earthquake,7,6,0,104.5,8
+2021-12-15,Arunachal Pradesh,Cyclone,6,7,43,87.1,8
+2021-12-15,Assam,Flood,8,0,65,140.1,8
+2021-12-15,Bihar,Forest Fire,6,23,41,98.2,8
+2021-12-15,Chhattisgarh,Drought,9,0,38,126.2,8
+2021-12-15,Goa,Drought,3,4,70,227.0,8
+2021-12-15,Gujarat,Heatwave,9,27,0,27.4,8
+2021-12-15,Haryana,Cyclone,4,10,52,108.8,8
+2021-12-15,Himachal Pradesh,Cyclone,3,0,99,64.5,8
+2021-12-15,Jharkhand,Drought,9,0,0,11.5,8
+2021-12-15,Karnataka,Flood,6,25,18,160.0,8
+2021-12-15,Kerala,Landslide,7,18,79,62.3,8
+2021-12-15,Madhya Pradesh,Flood,6,0,19,250.2,8
+2021-12-15,Maharashtra,Flood,8,15,115,103.3,8
+2021-12-15,Manipur,Landslide,9,0,98,39.5,8
+2021-12-15,Meghalaya,Cyclone,7,6,34,140.5,8
+2021-12-15,Mizoram,Flood,3,0,35,11.0,8
+2021-12-15,Nagaland,Flood,7,24,123,131.6,8
+2021-12-15,Odisha,Earthquake,3,3,79,79.7,8
+2021-12-15,Punjab,Earthquake,4,0,56,187.7,8
+2021-12-15,Rajasthan,Forest Fire,4,4,40,195.4,8
+2021-12-15,Sikkim,Heatwave,9,19,36,30.1,8
+2021-12-15,Tamil Nadu,Heatwave,8,9,29,113.7,8
+2021-12-15,Telangana,Flood,9,14,119,89.9,8
+2021-12-15,Tripura,Cyclone,6,16,93,173.8,8
+2021-12-15,Uttar Pradesh,Heatwave,3,0,96,84.6,8
+2021-12-15,Uttarakhand,Forest Fire,8,16,0,119.0,8
+2021-12-15,West Bengal,Landslide,3,0,45,235.2,8
+2022-01-15,Andhra Pradesh,Cyclone,5,19,128,72.6,4
+2022-01-15,Arunachal Pradesh,Drought,5,0,39,93.1,4
+2022-01-15,Assam,Heatwave,5,6,117,169.6,4
+2022-01-15,Bihar,Earthquake,7,17,72,106.5,4
+2022-01-15,Chhattisgarh,Landslide,3,8,0,229.4,4
+2022-01-15,Goa,Drought,5,2,51,43.9,4
+2022-01-15,Gujarat,Heatwave,6,3,35,181.8,4
+2022-01-15,Haryana,Cyclone,9,13,114,11.3,4
+2022-01-15,Himachal Pradesh,Drought,3,0,72,94.8,4
+2022-01-15,Jharkhand,Drought,8,19,65,201.2,4
+2022-01-15,Karnataka,Flood,3,6,0,273.5,4
+2022-01-15,Kerala,Cyclone,3,20,134,102.0,4
+2022-01-15,Madhya Pradesh,Landslide,4,1,89,117.4,4
+2022-01-15,Maharashtra,Heatwave,6,3,54,144.3,4
+2022-01-15,Manipur,Heatwave,4,7,12,77.4,4
+2022-01-15,Meghalaya,Flood,3,21,58,71.5,4
+2022-01-15,Mizoram,Forest Fire,9,4,68,0.4,4
+2022-01-15,Nagaland,Forest Fire,9,15,49,5.5,4
+2022-01-15,Odisha,Flood,7,13,13,115.0,4
+2022-01-15,Punjab,Landslide,4,0,43,87.4,4
+2022-01-15,Rajasthan,Earthquake,3,19,30,209.6,4
+2022-01-15,Sikkim,Earthquake,5,11,123,45.2,4
+2022-01-15,Tamil Nadu,Drought,3,7,0,205.7,4
+2022-01-15,Telangana,Drought,4,0,34,24.5,4
+2022-01-15,Tripura,Drought,8,15,11,163.1,4
+2022-01-15,Uttar Pradesh,Drought,4,16,71,12.7,4
+2022-01-15,Uttarakhand,Heatwave,4,20,0,144.3,4
+2022-01-15,West Bengal,Earthquake,5,9,4,139.8,4
+2022-02-15,Andhra Pradesh,Forest Fire,3,5,63,147.9,8
+2022-02-15,Arunachal Pradesh,Drought,8,15,96,19.5,8
+2022-02-15,Assam,Drought,4,13,77,70.7,8
+2022-02-15,Bihar,Drought,8,9,115,110.7,8
+2022-02-15,Chhattisgarh,Cyclone,3,13,0,69.1,8
+2022-02-15,Goa,Heatwave,4,10,78,48.6,8
+2022-02-15,Gujarat,Flood,3,21,25,108.7,8
+2022-02-15,Haryana,Landslide,9,3,50,214.4,8
+2022-02-15,Himachal Pradesh,Flood,4,0,86,103.7,8
+2022-02-15,Jharkhand,Flood,4,20,25,83.1,8
+2022-02-15,Karnataka,Forest Fire,5,15,36,201.6,8
+2022-02-15,Kerala,Heatwave,3,1,49,166.4,8
+2022-02-15,Madhya Pradesh,Flood,3,12,115,34.2,8
+2022-02-15,Maharashtra,Flood,9,5,44,86.6,8
+2022-02-15,Manipur,Cyclone,9,0,7,99.5,8
+2022-02-15,Meghalaya,Cyclone,5,10,21,95.1,8
+2022-02-15,Mizoram,Heatwave,3,13,98,35.3,8
+2022-02-15,Nagaland,Heatwave,7,25,21,45.5,8
+2022-02-15,Odisha,Drought,8,20,69,84.9,8
+2022-02-15,Punjab,Landslide,5,10,105,90.8,8
+2022-02-15,Rajasthan,Cyclone,4,12,55,3.1,8
+2022-02-15,Sikkim,Landslide,4,19,87,4.1,8
+2022-02-15,Tamil Nadu,Landslide,7,15,13,177.0,8
+2022-02-15,Telangana,Forest Fire,4,10,14,1.4,8
+2022-02-15,Tripura,Forest Fire,7,12,45,130.3,8
+2022-02-15,Uttar Pradesh,Heatwave,9,13,0,144.6,8
+2022-02-15,Uttarakhand,Heatwave,9,16,64,193.7,8
+2022-02-15,West Bengal,Landslide,7,9,109,115.7,8
+2022-03-15,Andhra Pradesh,Drought,6,7,24,82.3,8
+2022-03-15,Arunachal Pradesh,Flood,6,0,55,7.3,8
+2022-03-15,Assam,Heatwave,3,11,23,80.7,8
+2022-03-15,Bihar,Drought,8,18,0,74.1,8
+2022-03-15,Chhattisgarh,Landslide,4,17,72,103.1,8
+2022-03-15,Goa,Landslide,3,7,53,106.0,8
+2022-03-15,Gujarat,Earthquake,8,4,37,122.4,8
+2022-03-15,Haryana,Heatwave,4,10,1,25.5,8
+2022-03-15,Himachal Pradesh,Landslide,3,4,43,90.7,8
+2022-03-15,Jharkhand,Flood,6,8,35,289.0,8
+2022-03-15,Karnataka,Forest Fire,5,3,71,204.1,8
+2022-03-15,Kerala,Cyclone,8,7,6,7.7,8
+2022-03-15,Madhya Pradesh,Earthquake,9,15,76,53.0,8
+2022-03-15,Maharashtra,Cyclone,4,7,35,99.8,8
+2022-03-15,Manipur,Cyclone,3,0,109,41.1,8
+2022-03-15,Meghalaya,Landslide,9,19,20,144.5,8
+2022-03-15,Mizoram,Heatwave,5,18,82,102.0,8
+2022-03-15,Nagaland,Landslide,4,19,54,2.4,8
+2022-03-15,Odisha,Cyclone,9,4,59,109.5,8
+2022-03-15,Punjab,Forest Fire,6,12,42,113.4,8
+2022-03-15,Rajasthan,Landslide,3,13,82,14.4,8
+2022-03-15,Sikkim,Drought,5,1,82,9.3,8
+2022-03-15,Tamil Nadu,Heatwave,9,1,88,49.5,8
+2022-03-15,Telangana,Forest Fire,9,0,21,102.9,8
+2022-03-15,Tripura,Landslide,7,1,0,35.4,8
+2022-03-15,Uttar Pradesh,Landslide,3,10,15,130.3,8
+2022-03-15,Uttarakhand,Earthquake,4,5,67,212.9,8
+2022-03-15,West Bengal,Cyclone,9,25,48,50.5,8
+2022-04-15,Andhra Pradesh,Flood,5,8,49,25.2,8
+2022-04-15,Arunachal Pradesh,Drought,3,17,0,78.0,8
+2022-04-15,Assam,Landslide,7,19,152,124.4,8
+2022-04-15,Bihar,Landslide,5,0,23,228.2,8
+2022-04-15,Chhattisgarh,Landslide,7,0,69,257.5,8
+2022-04-15,Goa,Landslide,3,30,67,67.9,8
+2022-04-15,Gujarat,Heatwave,7,2,0,36.7,8
+2022-04-15,Haryana,Drought,3,1,28,64.2,8
+2022-04-15,Himachal Pradesh,Forest Fire,3,0,1,37.0,8
+2022-04-15,Jharkhand,Drought,9,9,70,85.3,8
+2022-04-15,Karnataka,Drought,8,6,59,142.3,8
+2022-04-15,Kerala,Drought,7,18,41,123.9,8
+2022-04-15,Madhya Pradesh,Forest Fire,5,10,43,159.7,8
+2022-04-15,Maharashtra,Heatwave,5,23,5,27.0,8
+2022-04-15,Manipur,Landslide,3,10,131,53.0,8
+2022-04-15,Meghalaya,Heatwave,9,10,88,88.4,8
+2022-04-15,Mizoram,Drought,3,12,52,101.3,8
+2022-04-15,Nagaland,Earthquake,8,12,110,213.6,8
+2022-04-15,Odisha,Flood,7,16,33,70.3,8
+2022-04-15,Punjab,Cyclone,6,8,14,130.5,8
+2022-04-15,Rajasthan,Cyclone,8,14,0,240.8,8
+2022-04-15,Sikkim,Heatwave,6,24,41,37.9,8
+2022-04-15,Tamil Nadu,Landslide,9,8,35,129.7,8
+2022-04-15,Telangana,Flood,5,6,101,129.6,8
+2022-04-15,Tripura,Earthquake,7,11,25,7.0,8
+2022-04-15,Uttar Pradesh,Drought,6,19,0,146.4,8
+2022-04-15,Uttarakhand,Drought,8,7,39,112.5,8
+2022-04-15,West Bengal,Heatwave,4,6,110,75.5,8
+2022-05-15,Andhra Pradesh,Drought,4,17,11,32.7,2
+2022-05-15,Arunachal Pradesh,Drought,4,27,30,43.5,2
+2022-05-15,Assam,Drought,3,2,36,186.5,2
+2022-05-15,Bihar,Flood,3,16,30,139.8,2
+2022-05-15,Chhattisgarh,Drought,9,0,0,165.2,2
+2022-05-15,Goa,Flood,3,8,60,90.4,2
+2022-05-15,Gujarat,Earthquake,7,12,71,92.5,2
+2022-05-15,Haryana,Flood,4,14,0,180.9,2
+2022-05-15,Himachal Pradesh,Heatwave,7,23,47,84.8,2
+2022-05-15,Jharkhand,Earthquake,3,21,167,121.9,2
+2022-05-15,Karnataka,Heatwave,6,9,70,30.3,2
+2022-05-15,Kerala,Heatwave,4,16,0,104.5,2
+2022-05-15,Madhya Pradesh,Landslide,7,0,73,199.7,2
+2022-05-15,Maharashtra,Landslide,7,24,82,68.4,2
+2022-05-15,Manipur,Landslide,3,7,0,145.6,2
+2022-05-15,Meghalaya,Heatwave,5,6,82,140.2,2
+2022-05-15,Mizoram,Forest Fire,8,14,136,107.1,2
+2022-05-15,Nagaland,Landslide,4,0,70,31.8,2
+2022-05-15,Odisha,Forest Fire,3,14,37,172.3,2
+2022-05-15,Punjab,Flood,3,5,84,63.8,2
+2022-05-15,Rajasthan,Forest Fire,7,7,16,210.0,2
+2022-05-15,Sikkim,Landslide,4,18,27,6.1,2
+2022-05-15,Tamil Nadu,Cyclone,8,1,56,110.9,2
+2022-05-15,Telangana,Landslide,8,15,64,56.9,2
+2022-05-15,Tripura,Heatwave,4,0,63,168.4,2
+2022-05-15,Uttar Pradesh,Heatwave,5,0,13,213.2,2
+2022-05-15,Uttarakhand,Forest Fire,9,7,67,175.7,2
+2022-05-15,West Bengal,Forest Fire,4,25,27,25.7,2
+2022-06-15,Andhra Pradesh,Landslide,9,5,53,170.7,3
+2022-06-15,Arunachal Pradesh,Flood,5,0,83,8.8,3
+2022-06-15,Assam,Earthquake,7,16,0,7.8,3
+2022-06-15,Bihar,Flood,8,24,50,106.1,3
+2022-06-15,Chhattisgarh,Forest Fire,7,7,0,35.1,3
+2022-06-15,Goa,Cyclone,8,1,35,313.0,3
+2022-06-15,Gujarat,Flood,9,16,66,157.6,3
+2022-06-15,Haryana,Landslide,9,20,63,59.1,3
+2022-06-15,Himachal Pradesh,Earthquake,7,5,75,39.4,3
+2022-06-15,Jharkhand,Flood,9,9,31,71.1,3
+2022-06-15,Karnataka,Flood,6,4,99,2.4,3
+2022-06-15,Kerala,Cyclone,9,0,0,163.6,3
+2022-06-15,Madhya Pradesh,Heatwave,4,11,56,162.5,3
+2022-06-15,Maharashtra,Heatwave,3,7,65,134.4,3
+2022-06-15,Manipur,Heatwave,6,7,36,53.3,3
+2022-06-15,Meghalaya,Cyclone,9,12,25,83.8,3
+2022-06-15,Mizoram,Heatwave,3,13,45,189.8,3
+2022-06-15,Nagaland,Flood,7,18,181,259.0,3
+2022-06-15,Odisha,Drought,5,11,78,66.5,3
+2022-06-15,Punjab,Forest Fire,7,1,19,103.9,3
+2022-06-15,Rajasthan,Cyclone,7,20,85,100.0,3
+2022-06-15,Sikkim,Drought,9,17,42,70.6,3
+2022-06-15,Tamil Nadu,Flood,5,0,14,149.6,3
+2022-06-15,Telangana,Flood,6,9,0,118.9,3
+2022-06-15,Tripura,Cyclone,4,15,14,182.4,3
+2022-06-15,Uttar Pradesh,Landslide,3,18,71,148.4,3
+2022-06-15,Uttarakhand,Heatwave,3,3,29,219.8,3
+2022-06-15,West Bengal,Landslide,9,23,17,197.1,3
+2022-07-15,Andhra Pradesh,Drought,3,0,103,157.3,8
+2022-07-15,Arunachal Pradesh,Drought,4,18,44,178.8,8
+2022-07-15,Assam,Heatwave,4,21,67,43.9,8
+2022-07-15,Bihar,Drought,9,7,59,15.4,8
+2022-07-15,Chhattisgarh,Earthquake,6,3,65,26.3,8
+2022-07-15,Goa,Cyclone,7,11,37,29.0,8
+2022-07-15,Gujarat,Flood,8,23,85,0.8,8
+2022-07-15,Haryana,Landslide,5,8,1,104.9,8
+2022-07-15,Himachal Pradesh,Heatwave,8,14,74,169.0,8
+2022-07-15,Jharkhand,Forest Fire,4,3,8,56.9,8
+2022-07-15,Karnataka,Landslide,3,14,42,92.7,8
+2022-07-15,Kerala,Drought,8,15,0,58.3,8
+2022-07-15,Madhya Pradesh,Earthquake,5,1,16,11.6,8
+2022-07-15,Maharashtra,Landslide,8,7,0,91.8,8
+2022-07-15,Manipur,Earthquake,3,0,77,166.0,8
+2022-07-15,Meghalaya,Heatwave,5,13,0,69.3,8
+2022-07-15,Mizoram,Heatwave,4,19,100,38.4,8
+2022-07-15,Nagaland,Earthquake,9,12,19,113.8,8
+2022-07-15,Odisha,Cyclone,4,5,70,115.5,8
+2022-07-15,Punjab,Forest Fire,8,23,65,8.0,8
+2022-07-15,Rajasthan,Landslide,5,7,19,61.1,8
+2022-07-15,Sikkim,Cyclone,7,0,41,188.4,8
+2022-07-15,Tamil Nadu,Drought,6,7,45,171.6,8
+2022-07-15,Telangana,Earthquake,4,9,72,76.7,8
+2022-07-15,Tripura,Landslide,5,0,65,141.9,8
+2022-07-15,Uttar Pradesh,Cyclone,4,17,30,64.7,8
+2022-07-15,Uttarakhand,Cyclone,4,13,80,3.6,8
+2022-07-15,West Bengal,Flood,7,0,132,85.5,8
+2022-08-15,Andhra Pradesh,Landslide,6,20,109,156.0,6
+2022-08-15,Arunachal Pradesh,Forest Fire,6,6,0,139.0,6
+2022-08-15,Assam,Heatwave,9,21,15,33.4,6
+2022-08-15,Bihar,Forest Fire,9,15,89,82.5,6
+2022-08-15,Chhattisgarh,Forest Fire,4,9,35,15.1,6
+2022-08-15,Goa,Earthquake,4,15,24,7.3,6
+2022-08-15,Gujarat,Flood,6,0,12,100.2,6
+2022-08-15,Haryana,Drought,4,23,66,130.7,6
+2022-08-15,Himachal Pradesh,Drought,3,1,47,183.5,6
+2022-08-15,Jharkhand,Earthquake,4,1,71,2.1,6
+2022-08-15,Karnataka,Landslide,9,22,125,68.9,6
+2022-08-15,Kerala,Forest Fire,6,6,7,77.3,6
+2022-08-15,Madhya Pradesh,Heatwave,8,24,33,60.6,6
+2022-08-15,Maharashtra,Cyclone,5,14,111,79.2,6
+2022-08-15,Manipur,Earthquake,8,6,35,175.1,6
+2022-08-15,Meghalaya,Flood,8,10,114,71.9,6
+2022-08-15,Mizoram,Flood,5,7,31,83.8,6
+2022-08-15,Nagaland,Forest Fire,9,20,0,21.1,6
+2022-08-15,Odisha,Landslide,7,7,44,84.1,6
+2022-08-15,Punjab,Landslide,7,11,80,111.5,6
+2022-08-15,Rajasthan,Flood,8,8,0,111.1,6
+2022-08-15,Sikkim,Heatwave,3,10,55,141.5,6
+2022-08-15,Tamil Nadu,Landslide,3,18,9,62.1,6
+2022-08-15,Telangana,Forest Fire,9,0,31,58.5,6
+2022-08-15,Tripura,Forest Fire,3,16,75,49.1,6
+2022-08-15,Uttar Pradesh,Flood,3,11,0,103.4,6
+2022-08-15,Uttarakhand,Drought,3,4,63,19.8,6
+2022-08-15,West Bengal,Landslide,6,20,42,251.0,6
+2022-09-15,Andhra Pradesh,Drought,9,2,0,194.4,6
+2022-09-15,Arunachal Pradesh,Flood,7,11,18,15.7,6
+2022-09-15,Assam,Landslide,9,11,72,153.2,6
+2022-09-15,Bihar,Flood,9,19,64,123.0,6
+2022-09-15,Chhattisgarh,Cyclone,9,11,84,102.8,6
+2022-09-15,Goa,Landslide,8,17,42,17.1,6
+2022-09-15,Gujarat,Cyclone,5,10,50,99.9,6
+2022-09-15,Haryana,Cyclone,5,0,14,107.2,6
+2022-09-15,Himachal Pradesh,Cyclone,7,5,51,199.2,6
+2022-09-15,Jharkhand,Cyclone,5,14,16,3.1,6
+2022-09-15,Karnataka,Forest Fire,9,9,55,247.9,6
+2022-09-15,Kerala,Earthquake,5,2,84,172.1,6
+2022-09-15,Madhya Pradesh,Drought,6,2,23,121.2,6
+2022-09-15,Maharashtra,Drought,6,8,77,26.6,6
+2022-09-15,Manipur,Drought,3,9,108,38.8,6
+2022-09-15,Meghalaya,Landslide,7,17,0,84.8,6
+2022-09-15,Mizoram,Heatwave,7,15,72,112.9,6
+2022-09-15,Nagaland,Earthquake,6,18,126,39.3,6
+2022-09-15,Odisha,Cyclone,8,3,78,232.0,6
+2022-09-15,Punjab,Earthquake,5,15,65,49.0,6
+2022-09-15,Rajasthan,Heatwave,5,4,85,176.8,6
+2022-09-15,Sikkim,Cyclone,7,15,78,33.8,6
+2022-09-15,Tamil Nadu,Earthquake,5,4,43,56.9,6
+2022-09-15,Telangana,Heatwave,5,13,44,188.1,6
+2022-09-15,Tripura,Landslide,4,17,0,93.6,6
+2022-09-15,Uttar Pradesh,Forest Fire,4,27,8,27.6,6
+2022-09-15,Uttarakhand,Flood,3,15,94,61.0,6
+2022-09-15,West Bengal,Landslide,4,14,63,9.4,6
+2022-10-15,Andhra Pradesh,Heatwave,4,14,79,207.3,7
+2022-10-15,Arunachal Pradesh,Earthquake,4,6,76,66.0,7
+2022-10-15,Assam,Earthquake,3,16,78,68.1,7
+2022-10-15,Bihar,Earthquake,8,6,2,112.9,7
+2022-10-15,Chhattisgarh,Heatwave,9,10,29,148.6,7
+2022-10-15,Goa,Forest Fire,6,7,33,155.1,7
+2022-10-15,Gujarat,Flood,7,0,13,179.5,7
+2022-10-15,Haryana,Heatwave,8,4,35,175.4,7
+2022-10-15,Himachal Pradesh,Heatwave,5,5,22,144.9,7
+2022-10-15,Jharkhand,Flood,4,5,0,174.2,7
+2022-10-15,Karnataka,Landslide,9,15,12,82.2,7
+2022-10-15,Kerala,Drought,6,20,20,196.6,7
+2022-10-15,Madhya Pradesh,Earthquake,6,1,52,38.1,7
+2022-10-15,Maharashtra,Earthquake,3,14,74,36.4,7
+2022-10-15,Manipur,Cyclone,7,0,93,103.0,7
+2022-10-15,Meghalaya,Drought,8,13,75,154.9,7
+2022-10-15,Mizoram,Forest Fire,6,14,87,181.7,7
+2022-10-15,Nagaland,Landslide,8,21,13,43.0,7
+2022-10-15,Odisha,Forest Fire,5,0,79,304.5,7
+2022-10-15,Punjab,Cyclone,7,22,6,25.2,7
+2022-10-15,Rajasthan,Forest Fire,7,0,102,203.5,7
+2022-10-15,Sikkim,Heatwave,7,13,3,68.3,7
+2022-10-15,Tamil Nadu,Landslide,9,0,0,50.4,7
+2022-10-15,Telangana,Cyclone,3,14,33,192.6,7
+2022-10-15,Tripura,Earthquake,9,5,0,78.0,7
+2022-10-15,Uttar Pradesh,Heatwave,3,15,43,195.7,7
+2022-10-15,Uttarakhand,Forest Fire,4,14,45,195.2,7
+2022-10-15,West Bengal,Heatwave,3,6,96,146.2,7
+2022-11-15,Andhra Pradesh,Drought,5,24,22,109.1,2
+2022-11-15,Arunachal Pradesh,Flood,6,15,35,30.8,2
+2022-11-15,Assam,Flood,7,3,68,10.0,2
+2022-11-15,Bihar,Earthquake,4,11,39,147.5,2
+2022-11-15,Chhattisgarh,Drought,8,13,100,14.6,2
+2022-11-15,Goa,Drought,4,15,66,10.9,2
+2022-11-15,Gujarat,Drought,5,8,0,132.0,2
+2022-11-15,Haryana,Drought,3,0,59,182.4,2
+2022-11-15,Himachal Pradesh,Flood,3,23,52,212.8,2
+2022-11-15,Jharkhand,Landslide,4,6,78,106.4,2
+2022-11-15,Karnataka,Earthquake,4,17,59,32.6,2
+2022-11-15,Kerala,Flood,4,20,50,259.2,2
+2022-11-15,Madhya Pradesh,Landslide,9,1,117,77.4,2
+2022-11-15,Maharashtra,Landslide,6,18,54,200.8,2
+2022-11-15,Manipur,Flood,9,12,15,30.1,2
+2022-11-15,Meghalaya,Heatwave,3,4,41,37.0,2
+2022-11-15,Mizoram,Forest Fire,6,12,24,110.9,2
+2022-11-15,Nagaland,Flood,7,13,77,109.9,2
+2022-11-15,Odisha,Heatwave,8,6,26,45.1,2
+2022-11-15,Punjab,Heatwave,6,9,99,92.3,2
+2022-11-15,Rajasthan,Cyclone,3,21,0,72.6,2
+2022-11-15,Sikkim,Drought,6,20,21,91.6,2
+2022-11-15,Tamil Nadu,Drought,4,7,34,21.0,2
+2022-11-15,Telangana,Landslide,6,9,68,3.2,2
+2022-11-15,Tripura,Forest Fire,6,0,94,225.4,2
+2022-11-15,Uttar Pradesh,Earthquake,6,9,94,49.8,2
+2022-11-15,Uttarakhand,Earthquake,4,15,21,167.2,2
+2022-11-15,West Bengal,Heatwave,8,5,51,154.5,2
+2022-12-15,Andhra Pradesh,Earthquake,4,3,53,150.8,2
+2022-12-15,Arunachal Pradesh,Heatwave,9,3,38,21.4,2
+2022-12-15,Assam,Flood,6,0,33,185.0,2
+2022-12-15,Bihar,Flood,6,15,86,64.5,2
+2022-12-15,Chhattisgarh,Cyclone,4,14,89,196.1,2
+2022-12-15,Goa,Cyclone,9,9,34,33.9,2
+2022-12-15,Gujarat,Forest Fire,9,2,0,82.3,2
+2022-12-15,Haryana,Heatwave,5,14,104,129.6,2
+2022-12-15,Himachal Pradesh,Earthquake,5,8,0,118.1,2
+2022-12-15,Jharkhand,Heatwave,5,14,117,33.1,2
+2022-12-15,Karnataka,Flood,3,10,3,229.0,2
+2022-12-15,Kerala,Heatwave,3,14,4,62.2,2
+2022-12-15,Madhya Pradesh,Drought,8,0,78,119.7,2
+2022-12-15,Maharashtra,Landslide,4,3,0,215.2,2
+2022-12-15,Manipur,Earthquake,8,21,56,101.9,2
+2022-12-15,Meghalaya,Earthquake,8,7,150,99.9,2
+2022-12-15,Mizoram,Drought,3,16,48,13.4,2
+2022-12-15,Nagaland,Heatwave,6,0,0,44.4,2
+2022-12-15,Odisha,Landslide,5,7,0,114.8,2
+2022-12-15,Punjab,Forest Fire,8,14,68,134.5,2
+2022-12-15,Rajasthan,Drought,6,8,4,170.6,2
+2022-12-15,Sikkim,Cyclone,9,15,0,170.2,2
+2022-12-15,Tamil Nadu,Drought,4,13,0,74.0,2
+2022-12-15,Telangana,Cyclone,7,12,19,143.7,2
+2022-12-15,Tripura,Cyclone,9,7,100,135.4,2
+2022-12-15,Uttar Pradesh,Cyclone,9,5,35,17.2,2
+2022-12-15,Uttarakhand,Earthquake,9,2,31,133.2,2
+2022-12-15,West Bengal,Cyclone,3,0,62,32.8,2
+2023-01-15,Andhra Pradesh,Forest Fire,4,0,48,149.2,7
+2023-01-15,Arunachal Pradesh,Heatwave,8,2,51,12.6,7
+2023-01-15,Assam,Drought,7,0,81,117.7,7
+2023-01-15,Bihar,Heatwave,7,0,17,58.7,7
+2023-01-15,Chhattisgarh,Cyclone,8,5,90,161.8,7
+2023-01-15,Goa,Forest Fire,5,0,141,37.0,7
+2023-01-15,Gujarat,Earthquake,8,10,87,127.0,7
+2023-01-15,Haryana,Heatwave,6,0,44,49.5,7
+2023-01-15,Himachal Pradesh,Landslide,8,11,102,35.0,7
+2023-01-15,Jharkhand,Heatwave,4,12,14,71.2,7
+2023-01-15,Karnataka,Forest Fire,6,16,15,66.3,7
+2023-01-15,Kerala,Cyclone,5,3,80,325.0,7
+2023-01-15,Madhya Pradesh,Landslide,3,0,57,88.0,7
+2023-01-15,Maharashtra,Earthquake,9,3,55,132.3,7
+2023-01-15,Manipur,Drought,8,7,40,167.8,7
+2023-01-15,Meghalaya,Heatwave,4,3,42,20.0,7
+2023-01-15,Mizoram,Earthquake,3,9,102,86.5,7
+2023-01-15,Nagaland,Earthquake,8,17,44,218.3,7
+2023-01-15,Odisha,Earthquake,7,16,58,82.6,7
+2023-01-15,Punjab,Earthquake,4,5,40,121.2,7
+2023-01-15,Rajasthan,Flood,5,12,0,30.3,7
+2023-01-15,Sikkim,Forest Fire,9,3,0,168.1,7
+2023-01-15,Tamil Nadu,Cyclone,9,18,29,226.0,7
+2023-01-15,Telangana,Cyclone,7,0,0,26.4,7
+2023-01-15,Tripura,Forest Fire,4,9,11,236.2,7
+2023-01-15,Uttar Pradesh,Cyclone,5,12,0,105.3,7
+2023-01-15,Uttarakhand,Drought,4,17,101,92.0,7
+2023-01-15,West Bengal,Heatwave,3,17,0,106.8,7
+2023-02-15,Andhra Pradesh,Drought,5,0,42,158.6,7
+2023-02-15,Arunachal Pradesh,Drought,8,24,69,31.1,7
+2023-02-15,Assam,Landslide,9,31,37,127.6,7
+2023-02-15,Bihar,Drought,9,16,80,85.6,7
+2023-02-15,Chhattisgarh,Cyclone,3,16,35,29.3,7
+2023-02-15,Goa,Cyclone,3,0,0,127.3,7
+2023-02-15,Gujarat,Flood,7,6,21,55.6,7
+2023-02-15,Haryana,Cyclone,4,15,113,74.9,7
+2023-02-15,Himachal Pradesh,Earthquake,8,7,33,84.6,7
+2023-02-15,Jharkhand,Landslide,9,28,60,18.9,7
+2023-02-15,Karnataka,Drought,8,9,0,63.3,7
+2023-02-15,Kerala,Earthquake,7,10,68,27.1,7
+2023-02-15,Madhya Pradesh,Heatwave,7,7,81,219.6,7
+2023-02-15,Maharashtra,Heatwave,5,2,91,169.9,7
+2023-02-15,Manipur,Flood,4,18,0,162.2,7
+2023-02-15,Meghalaya,Earthquake,8,10,87,101.9,7
+2023-02-15,Mizoram,Flood,5,0,0,3.5,7
+2023-02-15,Nagaland,Drought,9,12,131,25.3,7
+2023-02-15,Odisha,Drought,5,8,101,11.4,7
+2023-02-15,Punjab,Drought,6,14,41,53.4,7
+2023-02-15,Rajasthan,Cyclone,6,0,82,200.6,7
+2023-02-15,Sikkim,Flood,8,4,37,83.3,7
+2023-02-15,Tamil Nadu,Drought,7,29,80,196.6,7
+2023-02-15,Telangana,Flood,9,7,108,78.0,7
+2023-02-15,Tripura,Drought,6,16,9,23.8,7
+2023-02-15,Uttar Pradesh,Drought,7,5,51,5.9,7
+2023-02-15,Uttarakhand,Cyclone,4,25,46,107.4,7
+2023-02-15,West Bengal,Forest Fire,4,4,0,87.3,7
+2023-03-15,Andhra Pradesh,Flood,4,27,16,127.0,8
+2023-03-15,Arunachal Pradesh,Forest Fire,7,14,49,42.3,8
+2023-03-15,Assam,Heatwave,3,14,4,166.0,8
+2023-03-15,Bihar,Drought,3,10,28,140.2,8
+2023-03-15,Chhattisgarh,Flood,6,6,103,251.7,8
+2023-03-15,Goa,Earthquake,3,13,19,121.2,8
+2023-03-15,Gujarat,Forest Fire,9,13,86,143.7,8
+2023-03-15,Haryana,Earthquake,9,5,50,127.8,8
+2023-03-15,Himachal Pradesh,Landslide,8,14,41,61.3,8
+2023-03-15,Jharkhand,Forest Fire,5,0,33,129.8,8
+2023-03-15,Karnataka,Earthquake,5,7,117,144.2,8
+2023-03-15,Kerala,Forest Fire,8,12,10,68.6,8
+2023-03-15,Madhya Pradesh,Landslide,6,21,94,69.9,8
+2023-03-15,Maharashtra,Heatwave,3,17,79,16.3,8
+2023-03-15,Manipur,Flood,4,16,55,31.2,8
+2023-03-15,Meghalaya,Heatwave,3,1,70,19.0,8
+2023-03-15,Mizoram,Forest Fire,7,7,70,172.8,8
+2023-03-15,Nagaland,Earthquake,4,0,86,78.3,8
+2023-03-15,Odisha,Flood,7,15,38,121.1,8
+2023-03-15,Punjab,Earthquake,4,6,27,162.4,8
+2023-03-15,Rajasthan,Heatwave,6,16,102,92.5,8
+2023-03-15,Sikkim,Earthquake,5,5,15,203.3,8
+2023-03-15,Tamil Nadu,Landslide,4,2,0,80.4,8
+2023-03-15,Telangana,Drought,6,25,68,188.8,8
+2023-03-15,Tripura,Earthquake,3,16,35,23.9,8
+2023-03-15,Uttar Pradesh,Earthquake,9,17,27,134.5,8
+2023-03-15,Uttarakhand,Landslide,4,19,86,99.7,8
+2023-03-15,West Bengal,Earthquake,6,3,58,221.2,8
+2023-04-15,Andhra Pradesh,Heatwave,7,4,0,123.8,2
+2023-04-15,Arunachal Pradesh,Heatwave,3,3,29,103.7,2
+2023-04-15,Assam,Heatwave,4,9,91,85.8,2
+2023-04-15,Bihar,Forest Fire,4,9,0,153.6,2
+2023-04-15,Chhattisgarh,Landslide,5,0,106,139.8,2
+2023-04-15,Goa,Landslide,3,28,0,110.0,2
+2023-04-15,Gujarat,Forest Fire,8,11,21,153.8,2
+2023-04-15,Haryana,Forest Fire,4,7,0,147.0,2
+2023-04-15,Himachal Pradesh,Forest Fire,5,1,0,93.4,2
+2023-04-15,Jharkhand,Forest Fire,3,9,39,126.6,2
+2023-04-15,Karnataka,Earthquake,6,13,0,226.9,2
+2023-04-15,Kerala,Cyclone,3,7,5,148.1,2
+2023-04-15,Madhya Pradesh,Cyclone,8,20,12,31.5,2
+2023-04-15,Maharashtra,Heatwave,6,12,57,141.5,2
+2023-04-15,Manipur,Cyclone,9,3,141,199.6,2
+2023-04-15,Meghalaya,Earthquake,3,8,111,35.5,2
+2023-04-15,Mizoram,Cyclone,8,2,60,97.4,2
+2023-04-15,Nagaland,Forest Fire,6,24,107,76.4,2
+2023-04-15,Odisha,Forest Fire,8,13,43,138.1,2
+2023-04-15,Punjab,Landslide,7,0,72,222.2,2
+2023-04-15,Rajasthan,Drought,6,0,0,41.8,2
+2023-04-15,Sikkim,Drought,7,24,50,82.5,2
+2023-04-15,Tamil Nadu,Drought,4,8,0,159.2,2
+2023-04-15,Telangana,Cyclone,4,17,65,19.6,2
+2023-04-15,Tripura,Earthquake,4,23,18,156.3,2
+2023-04-15,Uttar Pradesh,Cyclone,8,1,115,101.4,2
+2023-04-15,Uttarakhand,Heatwave,6,3,75,146.0,2
+2023-04-15,West Bengal,Forest Fire,3,0,0,81.7,2
+2023-05-15,Andhra Pradesh,Earthquake,9,0,29,132.7,4
+2023-05-15,Arunachal Pradesh,Drought,3,6,41,56.6,4
+2023-05-15,Assam,Cyclone,4,3,83,171.9,4
+2023-05-15,Bihar,Earthquake,6,0,62,222.7,4
+2023-05-15,Chhattisgarh,Forest Fire,4,16,0,98.9,4
+2023-05-15,Goa,Earthquake,3,13,0,191.8,4
+2023-05-15,Gujarat,Heatwave,8,17,113,35.8,4
+2023-05-15,Haryana,Cyclone,5,13,72,14.3,4
+2023-05-15,Himachal Pradesh,Flood,4,8,0,120.4,4
+2023-05-15,Jharkhand,Drought,6,5,64,75.7,4
+2023-05-15,Karnataka,Drought,7,1,30,173.4,4
+2023-05-15,Kerala,Earthquake,7,12,4,197.1,4
+2023-05-15,Madhya Pradesh,Drought,9,5,22,172.1,4
+2023-05-15,Maharashtra,Heatwave,5,0,94,81.6,4
+2023-05-15,Manipur,Earthquake,5,7,46,177.9,4
+2023-05-15,Meghalaya,Earthquake,3,16,90,150.3,4
+2023-05-15,Mizoram,Cyclone,8,32,91,95.8,4
+2023-05-15,Nagaland,Flood,3,5,80,105.7,4
+2023-05-15,Odisha,Cyclone,8,4,0,13.5,4
+2023-05-15,Punjab,Cyclone,7,9,66,43.1,4
+2023-05-15,Rajasthan,Flood,7,27,0,216.0,4
+2023-05-15,Sikkim,Drought,5,0,56,32.7,4
+2023-05-15,Tamil Nadu,Cyclone,5,8,14,136.4,4
+2023-05-15,Telangana,Drought,9,0,7,114.8,4
+2023-05-15,Tripura,Landslide,7,13,37,229.1,4
+2023-05-15,Uttar Pradesh,Landslide,6,9,39,208.9,4
+2023-05-15,Uttarakhand,Cyclone,7,6,6,131.3,4
+2023-05-15,West Bengal,Landslide,4,23,88,173.0,4
+2023-06-15,Andhra Pradesh,Heatwave,4,17,3,131.2,6
+2023-06-15,Arunachal Pradesh,Cyclone,6,16,72,77.3,6
+2023-06-15,Assam,Heatwave,3,14,77,51.3,6
+2023-06-15,Bihar,Landslide,4,16,84,182.3,6
+2023-06-15,Chhattisgarh,Forest Fire,7,13,63,50.5,6
+2023-06-15,Goa,Forest Fire,9,0,145,211.6,6
+2023-06-15,Gujarat,Heatwave,4,5,82,56.6,6
+2023-06-15,Haryana,Cyclone,5,27,48,52.3,6
+2023-06-15,Himachal Pradesh,Cyclone,7,2,9,99.4,6
+2023-06-15,Jharkhand,Forest Fire,8,2,15,91.2,6
+2023-06-15,Karnataka,Forest Fire,7,25,24,190.8,6
+2023-06-15,Kerala,Forest Fire,3,11,119,101.5,6
+2023-06-15,Madhya Pradesh,Flood,6,16,34,229.1,6
+2023-06-15,Maharashtra,Heatwave,8,0,8,54.4,6
+2023-06-15,Manipur,Earthquake,5,10,38,66.5,6
+2023-06-15,Meghalaya,Heatwave,6,0,59,98.4,6
+2023-06-15,Mizoram,Flood,7,8,55,137.4,6
+2023-06-15,Nagaland,Flood,8,16,44,50.5,6
+2023-06-15,Odisha,Flood,9,21,37,160.1,6
+2023-06-15,Punjab,Flood,9,1,66,171.5,6
+2023-06-15,Rajasthan,Drought,3,19,85,40.2,6
+2023-06-15,Sikkim,Forest Fire,5,6,51,11.4,6
+2023-06-15,Tamil Nadu,Heatwave,6,9,35,46.4,6
+2023-06-15,Telangana,Landslide,9,2,73,103.2,6
+2023-06-15,Tripura,Cyclone,6,15,45,40.7,6
+2023-06-15,Uttar Pradesh,Heatwave,3,18,47,198.2,6
+2023-06-15,Uttarakhand,Earthquake,7,8,82,62.6,6
+2023-06-15,West Bengal,Drought,9,0,62,38.1,6
+2023-07-15,Andhra Pradesh,Forest Fire,7,12,56,81.6,5
+2023-07-15,Arunachal Pradesh,Landslide,9,6,58,111.7,5
+2023-07-15,Assam,Drought,5,8,49,124.1,5
+2023-07-15,Bihar,Heatwave,9,20,30,86.2,5
+2023-07-15,Chhattisgarh,Flood,3,14,15,58.0,5
+2023-07-15,Goa,Forest Fire,8,10,48,19.4,5
+2023-07-15,Gujarat,Flood,8,11,0,63.1,5
+2023-07-15,Haryana,Drought,7,5,0,184.0,5
+2023-07-15,Himachal Pradesh,Drought,4,6,36,170.3,5
+2023-07-15,Jharkhand,Earthquake,5,20,63,46.6,5
+2023-07-15,Karnataka,Drought,9,5,74,22.2,5
+2023-07-15,Kerala,Cyclone,3,16,38,84.8,5
+2023-07-15,Madhya Pradesh,Earthquake,7,17,40,181.8,5
+2023-07-15,Maharashtra,Heatwave,8,8,74,43.4,5
+2023-07-15,Manipur,Forest Fire,3,7,65,107.2,5
+2023-07-15,Meghalaya,Landslide,7,0,97,28.3,5
+2023-07-15,Mizoram,Cyclone,7,23,33,43.2,5
+2023-07-15,Nagaland,Forest Fire,9,13,62,50.8,5
+2023-07-15,Odisha,Forest Fire,7,11,22,271.8,5
+2023-07-15,Punjab,Flood,4,16,57,98.2,5
+2023-07-15,Rajasthan,Forest Fire,8,6,72,67.7,5
+2023-07-15,Sikkim,Drought,5,1,67,85.2,5
+2023-07-15,Tamil Nadu,Landslide,5,0,71,61.3,5
+2023-07-15,Telangana,Landslide,9,10,67,112.4,5
+2023-07-15,Tripura,Drought,4,10,73,11.0,5
+2023-07-15,Uttar Pradesh,Drought,7,4,97,186.5,5
+2023-07-15,Uttarakhand,Cyclone,6,11,0,134.5,5
+2023-07-15,West Bengal,Heatwave,6,12,21,106.2,5
+2023-08-15,Andhra Pradesh,Earthquake,8,14,58,151.1,5
+2023-08-15,Arunachal Pradesh,Forest Fire,5,13,112,22.3,5
+2023-08-15,Assam,Heatwave,7,0,100,38.2,5
+2023-08-15,Bihar,Flood,6,0,15,103.2,5
+2023-08-15,Chhattisgarh,Drought,3,16,0,106.0,5
+2023-08-15,Goa,Drought,3,17,42,125.0,5
+2023-08-15,Gujarat,Drought,3,8,73,86.9,5
+2023-08-15,Haryana,Flood,5,6,8,126.0,5
+2023-08-15,Himachal Pradesh,Cyclone,6,14,71,48.3,5
+2023-08-15,Jharkhand,Earthquake,3,8,21,157.1,5
+2023-08-15,Karnataka,Landslide,7,1,23,15.7,5
+2023-08-15,Kerala,Landslide,3,12,108,79.2,5
+2023-08-15,Madhya Pradesh,Landslide,5,8,54,26.7,5
+2023-08-15,Maharashtra,Cyclone,6,14,55,35.3,5
+2023-08-15,Manipur,Heatwave,6,15,74,105.1,5
+2023-08-15,Meghalaya,Cyclone,5,6,21,80.9,5
+2023-08-15,Mizoram,Forest Fire,4,4,59,83.2,5
+2023-08-15,Nagaland,Flood,6,2,3,155.0,5
+2023-08-15,Odisha,Heatwave,4,19,67,74.7,5
+2023-08-15,Punjab,Drought,4,6,1,180.1,5
+2023-08-15,Rajasthan,Earthquake,9,12,35,54.1,5
+2023-08-15,Sikkim,Landslide,9,0,95,109.2,5
+2023-08-15,Tamil Nadu,Drought,4,21,25,195.5,5
+2023-08-15,Telangana,Earthquake,9,7,98,74.2,5
+2023-08-15,Tripura,Heatwave,4,7,33,39.5,5
+2023-08-15,Uttar Pradesh,Earthquake,5,0,103,106.1,5
+2023-08-15,Uttarakhand,Forest Fire,5,0,15,188.3,5
+2023-08-15,West Bengal,Cyclone,6,5,1,63.7,5
+2023-09-15,Andhra Pradesh,Drought,3,6,10,90.9,2
+2023-09-15,Arunachal Pradesh,Earthquake,4,10,96,162.6,2
+2023-09-15,Assam,Cyclone,8,9,121,66.0,2
+2023-09-15,Bihar,Landslide,9,9,145,106.8,2
+2023-09-15,Chhattisgarh,Landslide,8,10,0,7.6,2
+2023-09-15,Goa,Landslide,9,6,118,32.9,2
+2023-09-15,Gujarat,Forest Fire,5,18,106,240.6,2
+2023-09-15,Haryana,Cyclone,4,0,71,41.2,2
+2023-09-15,Himachal Pradesh,Drought,9,12,36,2.9,2
+2023-09-15,Jharkhand,Flood,7,14,98,87.0,2
+2023-09-15,Karnataka,Landslide,7,16,135,27.3,2
+2023-09-15,Kerala,Forest Fire,4,0,43,137.8,2
+2023-09-15,Madhya Pradesh,Earthquake,9,1,12,135.2,2
+2023-09-15,Maharashtra,Cyclone,6,14,5,69.5,2
+2023-09-15,Manipur,Drought,3,10,47,25.4,2
+2023-09-15,Meghalaya,Earthquake,4,13,45,104.6,2
+2023-09-15,Mizoram,Drought,8,0,36,83.1,2
+2023-09-15,Nagaland,Drought,8,12,13,223.1,2
+2023-09-15,Odisha,Heatwave,4,7,3,110.0,2
+2023-09-15,Punjab,Cyclone,3,15,43,131.6,2
+2023-09-15,Rajasthan,Forest Fire,9,21,25,58.2,2
+2023-09-15,Sikkim,Earthquake,7,4,28,42.3,2
+2023-09-15,Tamil Nadu,Forest Fire,3,0,48,130.9,2
+2023-09-15,Telangana,Drought,7,26,63,39.4,2
+2023-09-15,Tripura,Drought,9,8,49,109.1,2
+2023-09-15,Uttar Pradesh,Flood,9,9,34,79.0,2
+2023-09-15,Uttarakhand,Landslide,9,2,101,62.7,2
+2023-09-15,West Bengal,Earthquake,5,8,71,60.1,2
+2023-10-15,Andhra Pradesh,Earthquake,7,10,63,152.4,4
+2023-10-15,Arunachal Pradesh,Drought,3,15,31,226.0,4
+2023-10-15,Assam,Drought,7,0,38,21.7,4
+2023-10-15,Bihar,Drought,9,13,26,135.3,4
+2023-10-15,Chhattisgarh,Cyclone,8,10,32,2.8,4
+2023-10-15,Goa,Heatwave,3,9,41,163.2,4
+2023-10-15,Gujarat,Forest Fire,9,9,38,46.4,4
+2023-10-15,Haryana,Drought,8,5,96,146.7,4
+2023-10-15,Himachal Pradesh,Flood,3,0,60,88.0,4
+2023-10-15,Jharkhand,Flood,4,0,92,244.6,4
+2023-10-15,Karnataka,Landslide,6,5,34,1.5,4
+2023-10-15,Kerala,Flood,4,0,53,60.9,4
+2023-10-15,Madhya Pradesh,Landslide,9,15,17,74.0,4
+2023-10-15,Maharashtra,Landslide,4,12,0,24.9,4
+2023-10-15,Manipur,Earthquake,9,14,63,42.5,4
+2023-10-15,Meghalaya,Landslide,3,17,0,268.4,4
+2023-10-15,Mizoram,Landslide,3,21,41,28.0,4
+2023-10-15,Nagaland,Flood,4,9,0,225.2,4
+2023-10-15,Odisha,Heatwave,5,16,43,185.4,4
+2023-10-15,Punjab,Cyclone,5,9,28,200.7,4
+2023-10-15,Rajasthan,Drought,4,10,23,81.5,4
+2023-10-15,Sikkim,Landslide,8,19,25,32.1,4
+2023-10-15,Tamil Nadu,Landslide,8,14,22,3.6,4
+2023-10-15,Telangana,Drought,8,8,11,39.9,4
+2023-10-15,Tripura,Heatwave,9,3,42,224.8,4
+2023-10-15,Uttar Pradesh,Forest Fire,4,7,122,161.5,4
+2023-10-15,Uttarakhand,Drought,4,0,56,58.8,4
+2023-10-15,West Bengal,Forest Fire,3,0,33,51.2,4
+2023-11-15,Andhra Pradesh,Earthquake,4,7,27,75.7,6
+2023-11-15,Arunachal Pradesh,Drought,4,19,72,27.5,6
+2023-11-15,Assam,Forest Fire,4,23,12,114.4,6
+2023-11-15,Bihar,Landslide,9,1,29,4.8,6
+2023-11-15,Chhattisgarh,Cyclone,7,18,5,215.7,6
+2023-11-15,Goa,Heatwave,8,16,19,0.1,6
+2023-11-15,Gujarat,Earthquake,9,23,112,143.5,6
+2023-11-15,Haryana,Cyclone,9,10,0,223.6,6
+2023-11-15,Himachal Pradesh,Landslide,6,20,92,119.4,6
+2023-11-15,Jharkhand,Earthquake,8,3,77,59.5,6
+2023-11-15,Karnataka,Landslide,8,0,102,15.1,6
+2023-11-15,Kerala,Landslide,9,9,26,111.3,6
+2023-11-15,Madhya Pradesh,Flood,6,3,60,118.8,6
+2023-11-15,Maharashtra,Cyclone,6,0,3,205.8,6
+2023-11-15,Manipur,Flood,3,10,15,3.7,6
+2023-11-15,Meghalaya,Landslide,5,3,43,143.6,6
+2023-11-15,Mizoram,Drought,7,11,132,164.7,6
+2023-11-15,Nagaland,Drought,8,14,0,65.7,6
+2023-11-15,Odisha,Drought,8,15,0,139.8,6
+2023-11-15,Punjab,Flood,5,4,122,97.5,6
+2023-11-15,Rajasthan,Drought,3,14,52,54.9,6
+2023-11-15,Sikkim,Cyclone,7,13,50,22.5,6
+2023-11-15,Tamil Nadu,Landslide,4,0,60,15.5,6
+2023-11-15,Telangana,Cyclone,6,9,76,160.0,6
+2023-11-15,Tripura,Flood,9,0,47,116.3,6
+2023-11-15,Uttar Pradesh,Heatwave,6,15,87,30.8,6
+2023-11-15,Uttarakhand,Heatwave,5,20,60,9.2,6
+2023-11-15,West Bengal,Flood,8,11,83,48.7,6
+2023-12-15,Andhra Pradesh,Heatwave,4,15,6,87.0,7
+2023-12-15,Arunachal Pradesh,Cyclone,8,23,59,253.0,7
+2023-12-15,Assam,Drought,5,17,24,176.1,7
+2023-12-15,Bihar,Landslide,6,20,38,173.5,7
+2023-12-15,Chhattisgarh,Flood,7,3,58,100.1,7
+2023-12-15,Goa,Landslide,6,20,26,61.5,7
+2023-12-15,Gujarat,Earthquake,9,11,50,55.9,7
+2023-12-15,Haryana,Cyclone,7,13,0,23.9,7
+2023-12-15,Himachal Pradesh,Heatwave,6,1,0,56.7,7
+2023-12-15,Jharkhand,Flood,4,23,0,57.4,7
+2023-12-15,Karnataka,Cyclone,9,3,0,49.6,7
+2023-12-15,Kerala,Forest Fire,3,0,4,129.2,7
+2023-12-15,Madhya Pradesh,Landslide,5,10,89,98.3,7
+2023-12-15,Maharashtra,Flood,4,1,31,149.1,7
+2023-12-15,Manipur,Forest Fire,7,7,53,112.3,7
+2023-12-15,Meghalaya,Cyclone,4,11,66,109.3,7
+2023-12-15,Mizoram,Cyclone,6,4,33,79.2,7
+2023-12-15,Nagaland,Landslide,3,13,32,318.2,7
+2023-12-15,Odisha,Cyclone,5,13,49,61.0,7
+2023-12-15,Punjab,Drought,5,7,53,265.8,7
+2023-12-15,Rajasthan,Drought,5,13,6,85.3,7
+2023-12-15,Sikkim,Heatwave,9,8,0,31.2,7
+2023-12-15,Tamil Nadu,Earthquake,9,1,110,33.4,7
+2023-12-15,Telangana,Landslide,4,23,44,147.9,7
+2023-12-15,Tripura,Drought,9,4,45,53.6,7
+2023-12-15,Uttar Pradesh,Heatwave,8,0,80,82.3,7
+2023-12-15,Uttarakhand,Cyclone,5,8,102,125.6,7
+2023-12-15,West Bengal,Forest Fire,7,4,70,88.4,7
+2024-01-15,Andhra Pradesh,Cyclone,6,8,44,92.6,8
+2024-01-15,Arunachal Pradesh,Flood,7,27,32,153.4,8
+2024-01-15,Assam,Forest Fire,6,27,65,34.6,8
+2024-01-15,Bihar,Earthquake,6,14,43,38.1,8
+2024-01-15,Chhattisgarh,Drought,4,11,0,1.8,8
+2024-01-15,Goa,Flood,6,26,44,55.6,8
+2024-01-15,Gujarat,Cyclone,4,6,20,135.9,8
+2024-01-15,Haryana,Heatwave,7,11,117,68.6,8
+2024-01-15,Himachal Pradesh,Forest Fire,6,18,95,140.1,8
+2024-01-15,Jharkhand,Flood,4,0,87,16.2,8
+2024-01-15,Karnataka,Drought,6,0,0,45.0,8
+2024-01-15,Kerala,Earthquake,4,15,0,59.3,8
+2024-01-15,Madhya Pradesh,Earthquake,9,0,89,88.2,8
+2024-01-15,Maharashtra,Landslide,7,0,0,190.9,8
+2024-01-15,Manipur,Cyclone,7,20,8,30.2,8
+2024-01-15,Meghalaya,Cyclone,7,0,71,48.9,8
+2024-01-15,Mizoram,Drought,8,0,91,179.0,8
+2024-01-15,Nagaland,Flood,5,0,69,22.4,8
+2024-01-15,Odisha,Forest Fire,4,1,109,158.4,8
+2024-01-15,Punjab,Earthquake,5,13,62,98.8,8
+2024-01-15,Rajasthan,Earthquake,8,14,1,183.6,8
+2024-01-15,Sikkim,Flood,3,18,51,170.6,8
+2024-01-15,Tamil Nadu,Flood,8,10,65,73.1,8
+2024-01-15,Telangana,Heatwave,4,7,7,126.1,8
+2024-01-15,Tripura,Cyclone,8,0,55,59.6,8
+2024-01-15,Uttar Pradesh,Landslide,7,9,83,243.6,8
+2024-01-15,Uttarakhand,Heatwave,5,18,71,16.8,8
+2024-01-15,West Bengal,Cyclone,9,12,111,71.2,8
+2024-02-15,Andhra Pradesh,Flood,4,4,59,135.4,6
+2024-02-15,Arunachal Pradesh,Heatwave,9,19,67,142.9,6
+2024-02-15,Assam,Flood,6,8,79,181.2,6
+2024-02-15,Bihar,Earthquake,7,11,40,133.2,6
+2024-02-15,Chhattisgarh,Landslide,5,8,74,119.0,6
+2024-02-15,Goa,Heatwave,8,0,0,81.2,6
+2024-02-15,Gujarat,Drought,4,8,44,102.9,6
+2024-02-15,Haryana,Cyclone,9,5,104,177.2,6
+2024-02-15,Himachal Pradesh,Earthquake,6,15,83,112.9,6
+2024-02-15,Jharkhand,Flood,3,13,97,16.7,6
+2024-02-15,Karnataka,Heatwave,3,11,92,13.2,6
+2024-02-15,Kerala,Earthquake,6,11,16,40.9,6
+2024-02-15,Madhya Pradesh,Forest Fire,5,9,46,109.1,6
+2024-02-15,Maharashtra,Drought,3,5,32,118.3,6
+2024-02-15,Manipur,Earthquake,9,10,69,170.0,6
+2024-02-15,Meghalaya,Heatwave,7,1,44,221.5,6
+2024-02-15,Mizoram,Heatwave,8,3,43,187.0,6
+2024-02-15,Nagaland,Drought,8,4,72,0.5,6
+2024-02-15,Odisha,Cyclone,9,0,66,123.6,6
+2024-02-15,Punjab,Landslide,6,19,0,65.2,6
+2024-02-15,Rajasthan,Heatwave,7,0,132,49.7,6
+2024-02-15,Sikkim,Earthquake,5,16,40,19.6,6
+2024-02-15,Tamil Nadu,Heatwave,4,0,34,259.3,6
+2024-02-15,Telangana,Forest Fire,7,3,14,57.6,6
+2024-02-15,Tripura,Landslide,6,8,31,71.4,6
+2024-02-15,Uttar Pradesh,Forest Fire,9,12,121,45.0,6
+2024-02-15,Uttarakhand,Heatwave,4,11,73,83.5,6
+2024-02-15,West Bengal,Forest Fire,3,10,126,79.3,6
+2024-03-15,Andhra Pradesh,Cyclone,4,18,0,203.7,8
+2024-03-15,Arunachal Pradesh,Landslide,8,2,26,24.8,8
+2024-03-15,Assam,Cyclone,4,4,50,190.0,8
+2024-03-15,Bihar,Forest Fire,6,6,5,47.7,8
+2024-03-15,Chhattisgarh,Cyclone,5,20,76,8.7,8
+2024-03-15,Goa,Heatwave,6,1,0,117.0,8
+2024-03-15,Gujarat,Landslide,5,3,80,122.8,8
+2024-03-15,Haryana,Heatwave,8,8,0,93.6,8
+2024-03-15,Himachal Pradesh,Landslide,9,13,57,192.8,8
+2024-03-15,Jharkhand,Flood,5,0,26,55.5,8
+2024-03-15,Karnataka,Heatwave,9,15,36,41.3,8
+2024-03-15,Kerala,Cyclone,5,26,38,236.5,8
+2024-03-15,Madhya Pradesh,Heatwave,4,2,82,123.6,8
+2024-03-15,Maharashtra,Drought,5,0,46,16.2,8
+2024-03-15,Manipur,Heatwave,8,15,43,226.2,8
+2024-03-15,Meghalaya,Landslide,6,4,41,113.5,8
+2024-03-15,Mizoram,Forest Fire,6,4,24,109.5,8
+2024-03-15,Nagaland,Cyclone,6,7,57,212.4,8
+2024-03-15,Odisha,Cyclone,5,4,52,91.5,8
+2024-03-15,Punjab,Drought,5,12,58,154.3,8
+2024-03-15,Rajasthan,Earthquake,9,28,88,4.2,8
+2024-03-15,Sikkim,Forest Fire,9,7,59,79.0,8
+2024-03-15,Tamil Nadu,Heatwave,8,8,127,40.2,8
+2024-03-15,Telangana,Landslide,5,15,74,125.9,8
+2024-03-15,Tripura,Landslide,9,27,0,127.0,8
+2024-03-15,Uttar Pradesh,Heatwave,4,0,88,45.8,8
+2024-03-15,Uttarakhand,Heatwave,7,29,68,89.2,8
+2024-03-15,West Bengal,Drought,5,0,71,30.1,8
+2024-04-15,Andhra Pradesh,Landslide,7,1,70,167.6,6
+2024-04-15,Arunachal Pradesh,Cyclone,8,13,67,100.6,6
+2024-04-15,Assam,Flood,5,3,43,105.8,6
+2024-04-15,Bihar,Landslide,9,8,57,60.3,6
+2024-04-15,Chhattisgarh,Cyclone,3,13,60,31.9,6
+2024-04-15,Goa,Earthquake,7,10,80,179.6,6
+2024-04-15,Gujarat,Earthquake,4,23,61,149.5,6
+2024-04-15,Haryana,Drought,8,10,0,58.6,6
+2024-04-15,Himachal Pradesh,Forest Fire,8,20,57,126.5,6
+2024-04-15,Jharkhand,Landslide,3,23,0,35.4,6
+2024-04-15,Karnataka,Flood,5,0,27,24.4,6
+2024-04-15,Kerala,Heatwave,7,19,83,69.6,6
+2024-04-15,Madhya Pradesh,Forest Fire,7,7,53,143.4,6
+2024-04-15,Maharashtra,Earthquake,9,17,60,179.9,6
+2024-04-15,Manipur,Earthquake,9,11,21,111.4,6
+2024-04-15,Meghalaya,Flood,6,17,51,95.4,6
+2024-04-15,Mizoram,Landslide,9,3,106,198.6,6
+2024-04-15,Nagaland,Forest Fire,9,9,26,134.8,6
+2024-04-15,Odisha,Heatwave,4,11,43,119.7,6
+2024-04-15,Punjab,Forest Fire,6,12,102,259.3,6
+2024-04-15,Rajasthan,Drought,7,12,74,123.6,6
+2024-04-15,Sikkim,Cyclone,4,2,70,160.8,6
+2024-04-15,Tamil Nadu,Landslide,4,12,90,124.3,6
+2024-04-15,Telangana,Earthquake,3,5,57,122.6,6
+2024-04-15,Tripura,Drought,9,24,75,85.3,6
+2024-04-15,Uttar Pradesh,Flood,5,4,92,129.7,6
+2024-04-15,Uttarakhand,Flood,3,2,24,108.5,6
+2024-04-15,West Bengal,Heatwave,6,0,39,41.8,6
+2024-05-15,Andhra Pradesh,Heatwave,6,11,47,24.1,5
+2024-05-15,Arunachal Pradesh,Earthquake,6,0,85,78.9,5
+2024-05-15,Assam,Cyclone,8,10,90,120.2,5
+2024-05-15,Bihar,Flood,6,3,43,10.4,5
+2024-05-15,Chhattisgarh,Drought,4,13,100,55.9,5
+2024-05-15,Goa,Landslide,3,14,104,192.6,5
+2024-05-15,Gujarat,Earthquake,3,23,27,80.9,5
+2024-05-15,Haryana,Landslide,7,9,69,145.1,5
+2024-05-15,Himachal Pradesh,Earthquake,8,8,78,202.2,5
+2024-05-15,Jharkhand,Flood,9,20,104,178.6,5
+2024-05-15,Karnataka,Drought,9,5,64,312.8,5
+2024-05-15,Kerala,Earthquake,6,16,55,33.0,5
+2024-05-15,Madhya Pradesh,Landslide,4,23,35,6.5,5
+2024-05-15,Maharashtra,Earthquake,9,10,65,22.8,5
+2024-05-15,Manipur,Cyclone,6,12,18,71.8,5
+2024-05-15,Meghalaya,Flood,4,15,80,158.8,5
+2024-05-15,Mizoram,Forest Fire,9,14,57,136.7,5
+2024-05-15,Nagaland,Cyclone,7,14,51,19.9,5
+2024-05-15,Odisha,Cyclone,5,0,42,116.6,5
+2024-05-15,Punjab,Forest Fire,3,16,89,51.6,5
+2024-05-15,Rajasthan,Flood,6,29,44,167.9,5
+2024-05-15,Sikkim,Earthquake,3,3,53,147.4,5
+2024-05-15,Tamil Nadu,Forest Fire,9,11,27,85.0,5
+2024-05-15,Telangana,Earthquake,9,1,32,186.3,5
+2024-05-15,Tripura,Heatwave,7,9,31,131.4,5
+2024-05-15,Uttar Pradesh,Cyclone,6,25,46,107.7,5
+2024-05-15,Uttarakhand,Forest Fire,9,10,48,45.1,5
+2024-05-15,West Bengal,Flood,9,4,100,6.8,5
+2024-06-15,Andhra Pradesh,Flood,5,0,73,92.4,5
+2024-06-15,Arunachal Pradesh,Landslide,7,3,115,44.8,5
+2024-06-15,Assam,Drought,8,18,81,112.5,5
+2024-06-15,Bihar,Forest Fire,8,26,67,135.5,5
+2024-06-15,Chhattisgarh,Flood,8,22,53,147.6,5
+2024-06-15,Goa,Landslide,6,18,39,49.2,5
+2024-06-15,Gujarat,Heatwave,8,26,44,48.8,5
+2024-06-15,Haryana,Cyclone,6,16,9,141.3,5
+2024-06-15,Himachal Pradesh,Landslide,6,7,122,124.4,5
+2024-06-15,Jharkhand,Heatwave,9,12,24,35.0,5
+2024-06-15,Karnataka,Forest Fire,5,1,77,57.1,5
+2024-06-15,Kerala,Flood,7,10,28,93.7,5
+2024-06-15,Madhya Pradesh,Drought,3,0,93,37.5,5
+2024-06-15,Maharashtra,Forest Fire,8,0,37,24.6,5
+2024-06-15,Manipur,Landslide,3,19,54,224.7,5
+2024-06-15,Meghalaya,Drought,7,12,96,225.2,5
+2024-06-15,Mizoram,Heatwave,8,3,118,6.0,5
+2024-06-15,Nagaland,Flood,8,17,123,106.8,5
+2024-06-15,Odisha,Heatwave,3,18,47,218.3,5
+2024-06-15,Punjab,Drought,5,16,59,6.1,5
+2024-06-15,Rajasthan,Forest Fire,8,17,39,82.1,5
+2024-06-15,Sikkim,Drought,5,6,96,107.0,5
+2024-06-15,Tamil Nadu,Landslide,4,5,15,76.7,5
+2024-06-15,Telangana,Cyclone,6,19,34,10.8,5
+2024-06-15,Tripura,Forest Fire,5,20,93,16.5,5
+2024-06-15,Uttar Pradesh,Heatwave,7,17,0,269.3,5
+2024-06-15,Uttarakhand,Heatwave,9,0,95,139.1,5
+2024-06-15,West Bengal,Earthquake,3,14,65,36.1,5
+2024-07-15,Andhra Pradesh,Cyclone,8,19,114,29.9,8
+2024-07-15,Arunachal Pradesh,Earthquake,8,20,58,143.1,8
+2024-07-15,Assam,Cyclone,6,3,11,197.3,8
+2024-07-15,Bihar,Flood,7,7,9,150.7,8
+2024-07-15,Chhattisgarh,Forest Fire,7,24,40,35.6,8
+2024-07-15,Goa,Forest Fire,8,8,19,234.6,8
+2024-07-15,Gujarat,Forest Fire,5,9,91,60.4,8
+2024-07-15,Haryana,Flood,7,17,5,2.6,8
+2024-07-15,Himachal Pradesh,Cyclone,8,5,93,152.4,8
+2024-07-15,Jharkhand,Landslide,9,20,32,36.3,8
+2024-07-15,Karnataka,Forest Fire,7,23,8,101.3,8
+2024-07-15,Kerala,Drought,5,25,63,126.3,8
+2024-07-15,Madhya Pradesh,Landslide,5,0,23,240.6,8
+2024-07-15,Maharashtra,Flood,5,7,0,48.1,8
+2024-07-15,Manipur,Cyclone,7,9,26,161.4,8
+2024-07-15,Meghalaya,Earthquake,5,11,9,139.8,8
+2024-07-15,Mizoram,Flood,3,4,66,68.8,8
+2024-07-15,Nagaland,Landslide,4,10,45,124.4,8
+2024-07-15,Odisha,Heatwave,9,3,60,54.0,8
+2024-07-15,Punjab,Forest Fire,9,8,46,71.4,8
+2024-07-15,Rajasthan,Drought,3,29,36,125.4,8
+2024-07-15,Sikkim,Forest Fire,8,5,60,85.7,8
+2024-07-15,Tamil Nadu,Flood,7,14,53,132.5,8
+2024-07-15,Telangana,Heatwave,4,6,85,44.4,8
+2024-07-15,Tripura,Heatwave,6,26,75,216.1,8
+2024-07-15,Uttar Pradesh,Landslide,4,0,44,99.9,8
+2024-07-15,Uttarakhand,Flood,3,4,50,15.2,8
+2024-07-15,West Bengal,Landslide,9,5,31,213.9,8
+2024-08-15,Andhra Pradesh,Drought,9,29,84,43.3,7
+2024-08-15,Arunachal Pradesh,Flood,4,4,54,35.2,7
+2024-08-15,Assam,Earthquake,4,12,17,120.2,7
+2024-08-15,Bihar,Earthquake,3,18,24,171.6,7
+2024-08-15,Chhattisgarh,Cyclone,8,3,55,118.1,7
+2024-08-15,Goa,Cyclone,8,25,107,136.3,7
+2024-08-15,Gujarat,Landslide,3,32,44,5.3,7
+2024-08-15,Haryana,Heatwave,7,7,88,182.6,7
+2024-08-15,Himachal Pradesh,Forest Fire,7,7,81,256.8,7
+2024-08-15,Jharkhand,Cyclone,7,7,0,87.4,7
+2024-08-15,Karnataka,Flood,3,7,41,2.2,7
+2024-08-15,Kerala,Cyclone,5,26,22,176.3,7
+2024-08-15,Madhya Pradesh,Heatwave,3,15,98,7.6,7
+2024-08-15,Maharashtra,Cyclone,7,0,56,20.0,7
+2024-08-15,Manipur,Flood,8,4,78,34.6,7
+2024-08-15,Meghalaya,Drought,8,4,81,103.6,7
+2024-08-15,Mizoram,Earthquake,8,10,31,173.2,7
+2024-08-15,Nagaland,Landslide,6,6,2,85.5,7
+2024-08-15,Odisha,Earthquake,8,17,116,52.6,7
+2024-08-15,Punjab,Earthquake,4,0,140,74.8,7
+2024-08-15,Rajasthan,Cyclone,4,9,119,88.9,7
+2024-08-15,Sikkim,Landslide,8,16,69,205.9,7
+2024-08-15,Tamil Nadu,Cyclone,5,0,0,84.8,7
+2024-08-15,Telangana,Drought,7,6,40,32.2,7
+2024-08-15,Tripura,Heatwave,6,10,10,77.3,7
+2024-08-15,Uttar Pradesh,Cyclone,8,13,0,154.9,7
+2024-08-15,Uttarakhand,Forest Fire,6,13,24,12.0,7
+2024-08-15,West Bengal,Earthquake,6,7,42,67.9,7
+2024-09-15,Andhra Pradesh,Landslide,8,0,51,96.4,2
+2024-09-15,Arunachal Pradesh,Drought,7,10,0,41.9,2
+2024-09-15,Assam,Flood,7,18,76,99.2,2
+2024-09-15,Bihar,Flood,9,20,24,66.0,2
+2024-09-15,Chhattisgarh,Drought,6,11,31,24.4,2
+2024-09-15,Goa,Landslide,4,6,173,81.8,2
+2024-09-15,Gujarat,Cyclone,9,14,36,213.3,2
+2024-09-15,Haryana,Forest Fire,3,13,0,207.1,2
+2024-09-15,Himachal Pradesh,Flood,3,2,2,197.7,2
+2024-09-15,Jharkhand,Drought,9,0,39,108.2,2
+2024-09-15,Karnataka,Heatwave,4,5,65,10.6,2
+2024-09-15,Kerala,Drought,3,1,69,104.0,2
+2024-09-15,Madhya Pradesh,Landslide,3,15,94,247.3,2
+2024-09-15,Maharashtra,Forest Fire,3,12,9,225.0,2
+2024-09-15,Manipur,Drought,8,0,31,44.1,2
+2024-09-15,Meghalaya,Drought,7,9,48,165.8,2
+2024-09-15,Mizoram,Flood,4,1,0,159.1,2
+2024-09-15,Nagaland,Flood,3,14,111,92.2,2
+2024-09-15,Odisha,Landslide,5,7,100,46.7,2
+2024-09-15,Punjab,Drought,3,4,57,67.8,2
+2024-09-15,Rajasthan,Landslide,6,6,98,79.4,2
+2024-09-15,Sikkim,Drought,9,8,72,130.9,2
+2024-09-15,Tamil Nadu,Forest Fire,9,3,0,12.5,2
+2024-09-15,Telangana,Landslide,3,13,53,163.4,2
+2024-09-15,Tripura,Drought,8,5,32,180.0,2
+2024-09-15,Uttar Pradesh,Flood,3,18,51,112.3,2
+2024-09-15,Uttarakhand,Flood,8,5,85,134.3,2
+2024-09-15,West Bengal,Heatwave,8,23,77,48.3,2
+2024-10-15,Andhra Pradesh,Landslide,6,14,30,95.8,7
+2024-10-15,Arunachal Pradesh,Earthquake,8,0,165,60.0,7
+2024-10-15,Assam,Landslide,3,3,66,153.3,7
+2024-10-15,Bihar,Heatwave,8,0,0,43.5,7
+2024-10-15,Chhattisgarh,Flood,5,13,77,98.4,7
+2024-10-15,Goa,Cyclone,5,0,44,199.7,7
+2024-10-15,Gujarat,Cyclone,4,12,89,155.6,7
+2024-10-15,Haryana,Drought,9,10,49,58.3,7
+2024-10-15,Himachal Pradesh,Forest Fire,4,8,9,142.5,7
+2024-10-15,Jharkhand,Heatwave,4,9,108,96.3,7
+2024-10-15,Karnataka,Heatwave,5,9,57,198.6,7
+2024-10-15,Kerala,Forest Fire,3,13,54,29.1,7
+2024-10-15,Madhya Pradesh,Landslide,5,0,194,150.0,7
+2024-10-15,Maharashtra,Earthquake,6,1,89,209.1,7
+2024-10-15,Manipur,Forest Fire,7,22,50,40.3,7
+2024-10-15,Meghalaya,Drought,5,6,39,14.1,7
+2024-10-15,Mizoram,Flood,6,12,85,22.3,7
+2024-10-15,Nagaland,Cyclone,8,3,93,164.4,7
+2024-10-15,Odisha,Landslide,4,25,81,157.6,7
+2024-10-15,Punjab,Heatwave,6,0,2,3.5,7
+2024-10-15,Rajasthan,Earthquake,4,0,109,97.4,7
+2024-10-15,Sikkim,Cyclone,9,10,76,129.5,7
+2024-10-15,Tamil Nadu,Cyclone,5,14,74,173.3,7
+2024-10-15,Telangana,Heatwave,6,11,0,68.4,7
+2024-10-15,Tripura,Heatwave,8,20,0,192.9,7
+2024-10-15,Uttar Pradesh,Heatwave,8,14,92,127.7,7
+2024-10-15,Uttarakhand,Drought,3,1,86,69.0,7
+2024-10-15,West Bengal,Flood,9,4,45,202.9,7
+2024-11-15,Andhra Pradesh,Cyclone,4,0,39,137.1,8
+2024-11-15,Arunachal Pradesh,Heatwave,6,16,74,108.7,8
+2024-11-15,Assam,Forest Fire,7,7,89,58.4,8
+2024-11-15,Bihar,Heatwave,4,4,56,47.8,8
+2024-11-15,Chhattisgarh,Earthquake,3,6,67,90.1,8
+2024-11-15,Goa,Earthquake,7,9,56,207.0,8
+2024-11-15,Gujarat,Earthquake,8,2,67,149.1,8
+2024-11-15,Haryana,Forest Fire,6,19,20,39.2,8
+2024-11-15,Himachal Pradesh,Earthquake,5,21,42,134.5,8
+2024-11-15,Jharkhand,Cyclone,3,7,50,114.8,8
+2024-11-15,Karnataka,Earthquake,5,4,64,240.8,8
+2024-11-15,Kerala,Earthquake,6,0,69,87.9,8
+2024-11-15,Madhya Pradesh,Drought,9,7,36,39.1,8
+2024-11-15,Maharashtra,Flood,4,1,98,158.8,8
+2024-11-15,Manipur,Landslide,8,5,91,76.2,8
+2024-11-15,Meghalaya,Drought,8,5,54,93.2,8
+2024-11-15,Mizoram,Landslide,7,5,14,151.6,8
+2024-11-15,Nagaland,Flood,8,19,0,232.9,8
+2024-11-15,Odisha,Cyclone,7,5,71,20.8,8
+2024-11-15,Punjab,Forest Fire,3,2,99,36.0,8
+2024-11-15,Rajasthan,Earthquake,8,8,106,157.2,8
+2024-11-15,Sikkim,Earthquake,4,3,98,92.5,8
+2024-11-15,Tamil Nadu,Drought,8,4,30,182.7,8
+2024-11-15,Telangana,Heatwave,4,24,70,83.7,8
+2024-11-15,Tripura,Heatwave,3,0,92,240.3,8
+2024-11-15,Uttar Pradesh,Forest Fire,9,15,41,231.1,8
+2024-11-15,Uttarakhand,Landslide,4,4,81,172.4,8
+2024-11-15,West Bengal,Earthquake,8,14,31,179.0,8
+2024-12-15,Andhra Pradesh,Drought,9,25,59,83.3,5
+2024-12-15,Arunachal Pradesh,Flood,3,12,76,99.3,5
+2024-12-15,Assam,Heatwave,8,3,34,137.8,5
+2024-12-15,Bihar,Flood,4,7,107,170.1,5
+2024-12-15,Chhattisgarh,Heatwave,7,12,48,190.2,5
+2024-12-15,Goa,Earthquake,7,16,76,157.0,5
+2024-12-15,Gujarat,Flood,3,14,27,122.6,5
+2024-12-15,Haryana,Earthquake,9,14,42,158.2,5
+2024-12-15,Himachal Pradesh,Flood,3,16,6,149.3,5
+2024-12-15,Jharkhand,Heatwave,7,6,132,268.7,5
+2024-12-15,Karnataka,Heatwave,4,29,46,16.6,5
+2024-12-15,Kerala,Earthquake,6,12,0,178.4,5
+2024-12-15,Madhya Pradesh,Drought,8,25,69,1.3,5
+2024-12-15,Maharashtra,Drought,6,8,33,217.2,5
+2024-12-15,Manipur,Heatwave,4,3,111,115.5,5
+2024-12-15,Meghalaya,Drought,7,22,40,77.5,5
+2024-12-15,Mizoram,Landslide,3,29,10,214.3,5
+2024-12-15,Nagaland,Cyclone,9,2,56,92.1,5
+2024-12-15,Odisha,Cyclone,6,3,31,153.3,5
+2024-12-15,Punjab,Heatwave,4,12,19,194.8,5
+2024-12-15,Rajasthan,Landslide,6,16,50,53.4,5
+2024-12-15,Sikkim,Forest Fire,4,8,5,130.3,5
+2024-12-15,Tamil Nadu,Drought,3,15,18,208.5,5
+2024-12-15,Telangana,Heatwave,3,7,99,225.5,5
+2024-12-15,Tripura,Heatwave,8,16,30,195.6,5
+2024-12-15,Uttar Pradesh,Flood,7,7,108,144.9,5
+2024-12-15,Uttarakhand,Earthquake,9,0,22,58.0,5
+2024-12-15,West Bengal,Earthquake,6,11,27,61.2,5
