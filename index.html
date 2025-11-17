@@ -1,355 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LSTM Disaster Prediction Interface</title>
-    <!-- Load Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        /* Custom font for a modern look */
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #eef2ff; /* Light blue background */
-        }
-    </style>
+<meta charset="UTF-8" />
+<title>Disaster Predictor</title>
+
+<style>
+/* ---------- GLOBAL ---------- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #1f1f1f; /* Dark grey */
+    color: #eee;
+}
+
+/* ---------- NAVBAR ---------- */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #141414;
+    padding: 15px 40px;
+    box-shadow: 0 0 15px #00f2ff;
+}
+
+.navbar h2 {
+    margin: 0;
+    color: #00f2ff;
+    font-weight: bold;
+    text-shadow: 0 0 8px #00f2ff;
+}
+
+.nav-links a {
+    margin-left: 20px;
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.nav-links a:hover,
+.nav-links .active {
+    background: #00f2ff;
+    color: black;
+    box-shadow: 0 0 12px #00f2ff;
+}
+
+/* ---------- HERO CARD ---------- */
+.hero-card {
+    width: 80%;
+    margin: 40px auto;
+    padding: 0;
+    border-radius: 20px;
+    overflow: hidden;
+    background: #2b2b2b;
+    box-shadow: 0 0 20px #00eaff55;
+}
+
+.hero-card img {
+    width: 100%;
+    display: block;
+    opacity: 0.85;
+}
+
+/* ---------- ABOUT CARD ---------- */
+.about-card {
+    width: 80%;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 20px;
+    background: #2b2b2b;
+    text-align: center;
+    box-shadow: 0 0 20px #00ffb355;
+}
+
+.about-card h2 {
+    color: #00eaff;
+    text-shadow: 0 0 8px #00eaff;
+}
+
+.about-card p {
+    color: #ddd;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* ---------- BUTTON ---------- */
+.btn {
+    display: block;
+    margin: 35px auto;
+    padding: 15px 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #00f2ff;
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 0 15px #00eaff;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px #00f2ff;
+}
+</style>
+
 </head>
-<body class="min-h-screen flex items-center justify-center p-4">
 
-    <div id="app-container" class="w-full max-w-2xl bg-white shadow-xl rounded-xl p-8 transition-all duration-300 border-t-4 border-indigo-600">
-        <header class="text-center mb-8">
-            <h1 class="text-3xl font-extrabold text-indigo-800 mb-2">
-                📊 AI LSTM Disaster Prediction
-            </h1>
-            <p class="text-gray-500">Prediction based on LSTM model simulation for the state and specific month.</p>
-        </header>
+<body>
 
-        <!-- Input Form -->
-        <div class="bg-indigo-50 p-6 rounded-lg mb-8 border border-indigo-200">
-            <!-- State Input -->
-            <label for="stateInput" class="block text-lg font-semibold text-indigo-800 mb-2">
-                Enter Region/State:
-            </label>
-            <input type="text" id="stateInput" placeholder="e.g., Maharashtra or India"
-                   class="w-full p-3 border border-indigo-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 shadow-sm mb-4"
-                   value="India">
-            
-            <!-- Target Month Input -->
-            <label for="monthInput" class="block text-lg font-semibold text-indigo-800 mb-2">
-                Target Month for Prediction:
-            </label>
-            <div class="flex space-x-3">
-                <input type="month" id="monthInput" 
-                       class="flex-grow p-3 border border-indigo-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 shadow-sm">
-                
-                <button id="predictButton" 
-                        class="px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-colors duration-200 shadow-md transform hover:scale-[1.02] active:scale-[0.98]">
-                    Predict
-                </button>
-            </div>
-            <p class="text-sm text-gray-500 mt-2">If left blank, it will predict the month immediately following the latest available data.</p>
-
-        </div>
-        
-        <!-- Loading and Error Message -->
-        <div id="statusMessage" class="text-center py-4 rounded-lg hidden"></div>
-
-        <!-- Prediction Result Card -->
-        <div id="resultCard" class="bg-white border-2 border-gray-100 rounded-xl p-6 shadow-lg hidden">
-            <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-indigo-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v14M9 19h12M9 6h12"/>
-                </svg>
-                <span class="mr-1">Result:</span> <span id="outputState" class="text-indigo-600"></span>
-            </h2>
-
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div class="p-4 bg-indigo-50 border-l-4 border-indigo-500 rounded-lg">
-                    <p class="text-sm font-medium text-gray-500">Predicted Disaster Count</p>
-                    <p id="outputCount" class="text-4xl font-extrabold text-indigo-600 mt-1"></p>
-                </div>
-                <div class="p-4 bg-gray-50 border-l-4 border-gray-400 rounded-lg">
-                    <p class="text-sm font-medium text-gray-500">Prediction Month</p>
-                    <p id="outputDate" class="text-xl font-bold text-gray-700 mt-1"></p>
-                </div>
-            </div>
-
-            <div class="mt-6">
-                <h3 class="text-lg font-semibold text-gray-800 mb-2 border-b pb-1">Top Recent Disaster Types:</h3>
-                <ul id="outputDisasters" class="list-disc list-inside space-y-1 text-gray-600 pl-4">
-                    <!-- Disaster types will be listed here -->
-                </ul>
-            </div>
-            <p class="text-xs text-gray-400 mt-4">Model: LSTM Simulation (Based on Python Model Logic)</p>
-        </div>
+<!-- NAVBAR -->
+<div class="navbar">
+    <h2>Disaster Predictor</h2>
+    <div class="nav-links">
+        <a class="active">Home</a>
+        <a href="#about">About Us</a>
     </div>
+</div>
 
-    <script>
-        // Global Configuration
-        const DATASET_PATH = "Disaster_Management_AI_Dataset.csv";
-        const LOOKBACK = 12;
+<!-- HERO IMAGE CARD -->
+<div class="hero-card">
+    <img src="image1.webp" alt="Disaster Image">
+</div>
 
-        // UI Elements
-        const stateInput = document.getElementById('stateInput');
-        const monthInput = document.getElementById('monthInput');
-        const predictButton = document.getElementById('predictButton');
-        const statusMessage = document.getElementById('statusMessage');
-        const resultCard = document.getElementById('resultCard');
-        const outputState = document.getElementById('outputState');
-        const outputCount = document.getElementById('outputCount');
-        const outputDate = document.getElementById('outputDate');
-        const outputDisasters = document.getElementById('outputDisasters');
+<!-- BUTTON -->
+<button class="btn" onclick="goToPredictor()">Simulate Prediction</button>
 
-        // JavaScript equivalent of Python's MinMaxScaler
-        class MinMaxScaler {
-            constructor() {
-                this.min = 0;
-                this.max = 1;
-            }
-            fit_transform(data) {
-                const values = data.map(x => x[0]);
-                this.min = Math.min(...values);
-                this.max = Math.max(...values);
-                const range = this.max - this.min;
-                
-                if (range === 0) {
-                     return data.map(val => [0.5]); // If data is constant
-                }
-                return data.map(val => [(val[0] - this.min) / range]);
-            }
-            inverse_transform(scaled_data) {
-                const range = this.max - this.min;
-                return scaled_data.map(val => [(val[0] * range) + this.min]);
-            }
-        }
+<!-- ABOUT US SECTION -->
+<div class="about-card" id="about">
+    <h2>About Us</h2>
+    <p>
+        Our system predicts potential disaster risks by analyzing patterns and environmental indicators.
+        Using advanced machine-learning models, it provides fast and reliable alerts.
+        Designed for safer preparedness, smarter response, and better decision-making.
+    </p>
+</div>
 
-        function displayMessage(message, type = 'info') {
-            statusMessage.textContent = message;
-            statusMessage.classList.remove('hidden', 'bg-red-100', 'text-red-700', 'bg-yellow-100', 'text-yellow-700', 'bg-green-100', 'text-green-700', 'bg-indigo-100', 'text-indigo-700');
-            statusMessage.classList.add('block');
-            
-            if (type === 'error') {
-                statusMessage.classList.add('bg-red-100', 'text-red-700');
-            } else if (type === 'loading') {
-                statusMessage.classList.add('bg-yellow-100', 'text-yellow-700');
-            } else {
-                statusMessage.classList.add('bg-indigo-100', 'text-indigo-700');
-            }
-            resultCard.classList.add('hidden');
-        }
+<script>
+function goToPredictor() {
+    window.location.href = "disaster.html";
+}
+</script>
 
-        async function fetchCsvData() {
-            try {
-                const response = await fetch(DATASET_PATH);
-                if (!response.ok) {
-                    throw new Error(`HTTP Error! File not found: ${response.status}`);
-                }
-                return await response.text();
-            } catch (error) {
-                throw new Error(`Failed to fetch data: ${error.message}`);
-            }
-        }
-
-        function parseCsv(csvText) {
-            const lines = csvText.split('\n').filter(line => line.trim() !== '');
-            // Clean headers: lowercase and replace spaces with underscores
-            const headers = lines[0].split(',').map(h => h.trim().toLowerCase().replace(/ /g, '_'));
-            const data = [];
-            for (let i = 1; i < lines.length; i++) {
-                const values = lines[i].split(',');
-                if (values.length === headers.length) {
-                    let row = {};
-                    headers.forEach((header, index) => {
-                        row[header] = values[index].trim();
-                    });
-                    data.push(row);
-                }
-            }
-            return data;
-        }
-
-        function processDisasterData(data, stateName, targetMonth) {
-            
-            // 1. Filter Data
-            let filteredData = data;
-            const stateLower = stateName.toLowerCase();
-
-            if (stateLower !== "india") {
-                filteredData = data.filter(row => row.state && row.state.toLowerCase() === stateLower);
-            }
-            
-            if (filteredData.length === 0) {
-                throw new Error(`No data found for region: ${stateName}. Please check spelling.`);
-            }
-
-            // 2. Monthly Grouping
-            const monthlyCounts = {};
-            const dateCol = 'date'; 
-            
-            filteredData.forEach(row => {
-                const date = new Date(row[dateCol]);
-                const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-                
-                if (monthlyCounts[monthKey]) {
-                    monthlyCounts[monthKey].count++;
-                } else {
-                    monthlyCounts[monthKey] = {
-                        date: date,
-                        count: 1
-                    };
-                }
-            });
-
-            const monthly = Object.keys(monthlyCounts)
-                .map(key => monthlyCounts[key])
-                .sort((a, b) => a.date - b.date);
-
-            if (monthly.length < LOOKBACK + 1) {
-                throw new Error(`Not enough data points (${monthly.length}) for the ${LOOKBACK}-month lookback required for LSTM simulation.`);
-            }
-
-            // 3. Prepare Data (Fit the scaler, though we don't train a model here)
-            const countsArray = monthly.map(item => [item.count]);
-            const unscaledCounts = countsArray.map(c => c[0]);
-
-            const scaler = new MinMaxScaler();
-            scaler.fit_transform(countsArray); 
-            
-            // 4. Determine Prediction Date
-            const lastDate = monthly[monthly.length - 1].date;
-            let targetDate;
-
-            if (targetMonth) {
-                const parts = targetMonth.split('-');
-                targetDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, 15); // Use 15th to center the date
-            } else {
-                targetDate = new Date(lastDate.getFullYear(), lastDate.getMonth() + 1, lastDate.getDate());
-            }
-
-            if (targetDate <= lastDate) {
-                 throw new Error(`Prediction month (${targetDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long' })}) must be after the last available data date.`);
-            }
-            
-            // 5. Simulate LSTM Prediction - Enhanced with Seasonality and Trend
-            
-            // a. Overall Historical Average
-            const overallAvg = unscaledCounts.reduce((a, b) => a + b, 0) / unscaledCounts.length;
-
-            // b. Seasonal Index
-            const targetMonthNum = targetDate.getMonth(); // 0-11
-            const seasonalCounts = monthly
-                .filter(item => item.date.getMonth() === targetMonthNum)
-                .map(item => item.count);
-                
-            let seasonalIndex = 1.0;
-            if (seasonalCounts.length > 0 && overallAvg > 0) {
-                const seasonalAvg = seasonalCounts.reduce((a, b) => a + b, 0) / seasonalCounts.length;
-                seasonalIndex = seasonalAvg / overallAvg;
-            }
-
-            // c. Trend Factor - based on the last 2 months
-            let trendFactor = 1.0;
-            if (unscaledCounts.length >= 2) {
-                trendFactor = unscaledCounts.at(-1) / unscaledCounts.at(-2);
-            }
-            
-            // Blended Base Prediction: Mix of historical average (40%) and recent trend (60%)
-            let blendedBase = (overallAvg * 0.4) + (unscaledCounts.at(-1) * 0.6 * trendFactor);
-
-            // d. Final Prediction: Apply seasonality and random noise
-            let finalPred = blendedBase * seasonalIndex;
-
-            // Add up to 15% random variation
-            const randomFactor = 1 + (Math.random() * 0.3 - 0.15); 
-            finalPred = Math.round(finalPred * randomFactor);
-            
-            let predicted_count = Math.max(1, finalPred);
-            
-            // 6. Find Recent Disaster Types
-            // Find the column likely containing the disaster type
-            const disasterCol = Object.keys(filteredData[0]).find(col => col.includes('disaster') && col.includes('type'));
-            
-            let recentDisasters = [];
-            if (disasterCol) {
-                const disasterCounts = {};
-                // Sort by date descending and count top 3 types
-                filteredData.sort((a, b) => new Date(b[dateCol]) - new Date(a[dateCol])).forEach(row => {
-                    const type = row[disasterCol].trim();
-                    if (type) {
-                        disasterCounts[type] = (disasterCounts[type] || 0) + 1;
-                    }
-                });
-                
-                // Get top 3 types
-                recentDisasters = Object.keys(disasterCounts)
-                    .sort((a, b) => disasterCounts[b] - disasterCounts[a])
-                    .slice(0, 3);
-            }
-            
-            return {
-                state: stateName.toUpperCase(),
-                // Format date for English display
-                next_prediction_date: targetDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long' }),
-                predicted_count: predicted_count,
-                recent_disaster_types: recentDisasters,
-            };
-        }
-
-        async function handlePrediction() {
-            const stateName = stateInput.value.trim();
-            const targetMonth = monthInput.value.trim();
-            
-            if (!stateName) {
-                displayMessage("Please enter a state name or 'India'.", 'error');
-                return;
-            }
-
-            predictButton.disabled = true;
-            displayMessage(`Processing data and running LSTM simulation for ${stateName}...`, 'loading');
-
-            try {
-                // 1. Fetch and parse CSV
-                const csvText = await fetchCsvData();
-                const data = parseCsv(csvText);
-
-                // 2. Run processing and prediction
-                const summary = processDisasterData(data, stateName, targetMonth);
-
-                // 3. Display results
-                outputState.textContent = summary.state;
-                outputCount.textContent = summary.predicted_count;
-                outputDate.textContent = summary.next_prediction_date;
-                
-                outputDisasters.innerHTML = summary.recent_disaster_types.length > 0
-                    ? summary.recent_disaster_types.map(type => `<li class="text-sm">${type}</li>`).join('')
-                    : '<li class="text-sm">Not Applicable (Disaster Type column not found)</li>';
-
-                statusMessage.classList.add('hidden');
-                resultCard.classList.remove('hidden');
-
-            } catch (error) {
-                console.error("Prediction Error:", error);
-                displayMessage(`Prediction Failed: ${error.message}`, 'error');
-            } finally {
-                predictButton.disabled = false;
-            }
-        }
-
-        // Initialize App
-        predictButton.addEventListener('click', handlePrediction);
-        
-        // Set default month to next month on load
-        window.onload = () => {
-             const today = new Date();
-             const nextMonth = new Date(today.getFullYear(), today.getMonth() + 1, 1);
-             const year = nextMonth.getFullYear();
-             const month = String(nextMonth.getMonth() + 1).padStart(2, '0');
-             monthInput.value = `${year}-${month}`;
-
-             displayMessage("Enter a state name and click 'Predict' to start the analysis.", 'info');
-        }
-
-    </script>
 </body>
 </html>
