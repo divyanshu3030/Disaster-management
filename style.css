@@ -1,0 +1,124 @@
+/* ---------- GLOBAL ---------- */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background: #2c2c2c;        /* smooth grey background */
+    color: #e8e8e8;
+}
+
+/* Center container */
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* ---------- HEADING (Crystal Clear Neon) ---------- */
+h1 {
+    text-align: center;
+    color: #00ffd5;            /* neon cyan */
+    font-size: 42px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+
+    text-shadow:
+        0 0 4px rgba(0,255,220,0.6),
+        0 0 8px rgba(0,255,220,0.4),
+        0 0 12px rgba(0,255,220,0.25);   /* clean neon glow */
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    color: #cfcfcf;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+/* ---------- INPUT SECTION ---------- */
+.form-box {
+    background: #3a3a3a;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 0 12px rgba(0,255,160,0.15);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #dcdcdc;
+    font-weight: 600;
+}
+
+input, select {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background: #1e1e1e;
+    color: #fff;
+    font-size: 16px;
+    outline: none;
+    margin-bottom: 20px;
+
+    box-shadow: inset 0 0 5px rgba(0,255,210,0.15);
+}
+
+/* ---------- BUTTON ---------- */
+button {
+    background: #00ffd5;
+    border: none;
+    padding: 13px 26px;
+    border-radius: 12px;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+    font-weight: 700;
+
+    box-shadow: 0 0 10px rgba(0,255,210,0.5);
+    transition: 0.2s;
+}
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 16px rgba(0,255,210,0.8);
+}
+
+/* ---------- RESULT BOX ---------- */
+.result-box {
+    margin-top: 40px;
+    padding: 25px;
+    border-radius: 12px;
+    background: #333;
+    box-shadow: 0 0 12px rgba(0,255,170,0.15);
+}
+
+.result-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #00ffd5;
+    text-shadow: 0 0 6px rgba(0,255,220,0.6);
+}
+
+/* Cards for numbers */
+.card {
+    background: #262626;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0,255,210,0.15);
+}
+
+.card h2 {
+    color: #00ffd5;
+    font-size: 40px;
+    margin: 0;
+    text-shadow: 0 0 4px rgba(0,255,220,0.6);
+}
+
+.card p {
+    color: #bdbdbd;
+    margin-bottom: 8px;
+}
