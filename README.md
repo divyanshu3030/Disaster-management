@@ -226,8 +226,6 @@ The system provides:
 
 **Divyanshu Negi**
 
-Machine Learning & Full Stack Developer
-
 ---
 
 # ⭐ Support
